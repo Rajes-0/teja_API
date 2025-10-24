@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Google Drive Video Player</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 30px;
+      background-color: #f4f4f4;
+    }
+    iframe {
+      width: 80%;
+      max-width: 720px;
+      height: 405px;
+      border: none;
+      margin-bottom: 20px;
+    }
+    .download-link {
+      display: inline-block;
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #0078D4;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .download-link:hover {
+      background-color: #005A9E;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>🎬 Google Drive Video Playback & Download</h2>
+
+  <!-- Replace YOUR_FILE_ID with your actual Google Drive file ID -->
+  <iframe src="https://drive.google.com/file/d/1AKkTQwV-cwJBtqpn5178B-x3AavfLCgx/preview" allow="autoplay" allowfullscreen></iframe>
+
+  <br>
+
+  <a class="download-link" href="https://drive.google.com/uc?export=download&id=1AKkTQwV-cwJBtqpn5178B-x3AavfLCgx" download>
+    ⬇️ Download Video
+  </a>
+
+</body>
+</html>
