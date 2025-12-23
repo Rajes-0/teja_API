@@ -1,0 +1,752 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "Which of the following types of over pressure protection is not found on a pressure vessel? (CBQ)",
+      "Option A": "Safety Relief",
+      "Option B": "Pilot Operated",
+      "Option C": "Rupture Disk",
+      "Option D": "Pressure/vacuum vent",
+      "Answer": "D",
+      "Explanation": "Pressure/vacuum vents (PVRVs) are typically used for atmospheric or low-pressure storage tanks, not standard pressure vessels."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "Which of the following safety relief valve is used in vapor services? (CBQ)",
+      "Option A": "Relieve valves",
+      "Option B": "Safety valves.",
+      "Option C": "Rupture disks",
+      "Option D": "All of the above.",
+      "Answer": "B",
+      "Explanation": "By definition, a safety valve is an automatic pressure-relieving device actuated by static pressure and characterized by full-opening (pop action) for gas or vapor service."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "A relief valve has been shipped lying down on its side; this is a problem because; (CBQ)",
+      "Option A": "Relief valves are often heavy and are sometimes difficult to upright",
+      "Option B": "Flange faces may be damaged during shipment",
+      "Option C": "Springs in the valve may shift and distort and as a result not exert the same force all around seating surfaces.",
+      "Option D": "Springs may slip out and be lost during shipment",
+      "Answer": "C",
+      "Explanation": "API 576 emphasizes that PRVs should be shipped and stored in an upright position to maintain spring alignment and seat integrity."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "Mechanical failure of spring in safety relieve valve will results in: (CBQ)",
+      "Option A": "Reduction of set pressure.",
+      "Option B": "Uncontrolled valve opening.",
+      "Option C": "Valve strucking.",
+      "Option D": "None of the above",
+      "Answer": "B",
+      "Explanation": "The spring provides the closing force. If it fails (breaks), there is no force to hold the disc against the seat, leading to an uncontrolled opening at very low or zero pressure."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "The principal reason for inspecting a pressure relief device is to determine: (CBQ)",
+      "Option A": "Condition of pressure relief device and if it is functioning properly.",
+      "Option B": "The remaining life of pressure relief device.",
+      "Option C": "The spring coil diameter.",
+      "Option D": "The body thicknesses.",
+      "Answer": "A",
+      "Explanation": "Unlike vessels, the primary goal for PRDs is to ensure they will actually open at the set pressure and provide the required flow."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "API 576 does not address: (CBQ)",
+      "Option A": "Valve testing on test benches in shop",
+      "Option B": "Application of rupture discs",
+      "Option C": "Training requirements for personnel involved in inspection and repair of pressure relieving devices.",
+      "Option D": "All the above",
+      "Answer": "C",
+      "Explanation": "While API 576 covers inspection, testing, and causes of failure, it does not provide the specific training/certification curriculum for the personnel."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "In a PRV in which the major relieving device or main valve is combined with and controlled by a self-activated auxiliary pressure relief valve is: (CBQ)",
+      "Option A": "Pilot operated valve.",
+      "Option B": "Bellow type balancing valve",
+      "Option C": "Relief valve",
+      "Option D": "Safety valve",
+      "Answer": "A",
+      "Explanation": "This is the definition of a Pilot Operated PRV. The pilot is the self-activated auxiliary valve."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "Which of following does not describes a Rupture Disk Device’s use? (CBQ)",
+      "Option A": "Protecting the upstream side of relief valves against corrosion.",
+      "Option B": "Protecting the relief valves from plugging.",
+      "Option C": "Prevent leakage through relief valves.",
+      "Option D": "The only pressure protection of vacuum vessels.",
+      "Answer": "D",
+      "Explanation": "Rupture disks are rarely used as the only protection for vacuum; they are primarily for positive overpressure or to protect PRVs from the process."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "Which of the following valves use pressure sensing in one location and relief of fluid in another location? (CBQ)",
+      "Option A": "Safety valve.",
+      "Option B": "Conventional safety relieve valve.",
+      "Option C": "Balanced safety relieve valve.",
+      "Option D": "Pilot operated safety relieve valve.",
+      "Answer": "D",
+      "Explanation": "Pilot operated valves use a remote sensing line to trigger the main valve opening, allowing for high accuracy near set pressure."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "An important element in the accurate setting of all relief valve’s lifting pressure is use of: (CBQ)",
+      "Option A": "Salisbury Test Blocks.",
+      "Option B": "Properly calibrated gauges.",
+      "Option C": "New seats and springs",
+      "Option D": "Soap bubble testing.",
+      "Answer": "B",
+      "Explanation": "Gauge accuracy is critical; if the gauge is off, the valve’s set pressure will be incorrect, regardless of the valve condition."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "If damaged valve seats are discovered in a relief device what should be suspected as the cause? (OBQ)",
+      "Option A": "Erosion.",
+      "Option B": "Severe under sizing",
+      "Option C": "Improper or short piping spools at the inlet.",
+      "Option D": "Corrosion, foreign particles, improper piping design or lengthy piping at the inlet.",
+      "Answer": "D",
+      "Explanation": "Seat damage is commonly caused by debris (foreign particles) or \"chatter\" resulting from poor piping design."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "Which of the following is main reason for PRV spring failure? (CBQ)",
+      "Option A": "Incorrect material.",
+      "Option B": "Corrosion.",
+      "Option C": "Wrong setting",
+      "Option D": "clamping",
+      "Answer": "B",
+      "Explanation": "Corrosion is the leading cause of spring failure, often leading to Stress Corrosion Cracking (SCC) or thinning."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Which of the following service relieve valves is used? (CBQ)",
+      "Option A": "Vapor service",
+      "Option B": "Liquid service.",
+      "Option C": "Steam service.",
+      "Option D": "Any of the above.",
+      "Answer": "B",
+      "Explanation": "\"Relief valves\" (without the \"safety\" prefix) are traditionally defined for use in incompressible (liquid) service."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "Which of the following valve use bellows to minimize the effect of high back pressure? (CBQ)",
+      "Option A": "Conventional PRV.",
+      "Option B": "Balanced PRV.",
+      "Option C": "Pilot operated PRV.",
+      "Option D": "Pressure vacuum vent.",
+      "Answer": "B",
+      "Explanation": "The bellows in a balanced PRV offsets the effect of backpressure on the back of the disc."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "A Visual on-stream inspection of a relief device is not meant to ensure which of the following items? (OBQ)",
+      "Option A": "Installation of the correct device, and the company ID such as a tag.",
+      "Option B": "No gags or blinds left in place and all intervening block valves being open.",
+      "Option C": "Upstream block valves are locked or chained in the proper position.",
+      "Option D": "The valve’s discharge is pointed in the right direction.",
+      "Answer": "D",
+      "Explanation": "While direction is important during installation, on-stream inspections focus on ensuring the device is \"live\" (no blinds/gags) and correctly identified."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "A relief valves in hydrofluoric acid service after pre-popping must be: (CBQ)",
+      "Option A": "neutralized immediately.",
+      "Option B": "Set using water only.",
+      "Option C": "Set using hydrofluoric acid.",
+      "Option D": "Set using air only.",
+      "Answer": "A",
+      "Explanation": "HF acid is extremely hazardous and corrosive. Neutralization is required to ensure safety during handling and to prevent further corrosion."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Which of the following relief devices is intended to work with steam boilers? (CBQ)",
+      "Option A": "Relief Valve.",
+      "Option B": "Safety Relief Valve",
+      "Option C": "Safety Valve",
+      "Option D": "Balanced Safety Relief.",
+      "Answer": "C",
+      "Explanation": "Safety valves are required for steam boiler service (ASME Section I or VIII)."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "You notice that a pressure relief device has a closed bonnet. What type of valve is it? (CBQ)",
+      "Option A": "Relief Valve.",
+      "Option B": "Safety Relief Valve",
+      "Option C": "Conventional Safety Relief valve",
+      "Option D": "Relief Valve and Conventional Safety Relief Valve.",
+      "Answer": "D",
+      "Explanation": "Closed bonnets are used in both relief valves and conventional safety relief valves to prevent process fluid from escaping to the atmosphere."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "The design pressure is: (CBQ)",
+      "Option A": "Greater than MAWP.",
+      "Option B": "Equal to operating pressure.",
+      "Option C": "Equal to or less than MAWP.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "Per API 510, the MAWP of the vessel must be at least equal to the design pressure."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "Reverse acting scored Tension-Loaded rupture disks are normally made from_____ (CBQ)",
+      "Option A": "Thinner material than the un-scored disks for the same pressure.",
+      "Option B": "Thicker material to lessen the effect of corrosion.",
+      "Option C": "A different material to lessen the effect of corrosion.",
+      "Option D": "The same thickness material as un-scored disks for the same pressure.",
+      "Answer": "B",
+      "Explanation": "Reverse-acting disks generally use thicker material than forward-acting disks for the same burst pressure, offering better corrosion resistance."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "The pressure increase over the set pressure is called as: (CBQ)",
+      "Option A": "Popping pressure.",
+      "Option B": "Accumulation.",
+      "Option C": "Over pressure.",
+      "Option D": "Opening pressure.",
+      "Answer": "C",
+      "Explanation": "Overpressure is the pressure increase over the set pressure of the relieving device. (Accumulation refers to the vessel)."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "Simmer in a relief valve is best described as: (CBQ)",
+      "Option A": "A noise emitted when the valve opens too slowly.",
+      "Option B": "A noise emitted when the valve opens too rapidly.",
+      "Option C": "The audible or visible escape of fluid between the seat and disk of the valve.",
+      "Option D": "A high-pitched noise that varies with pressure changes.",
+      "Answer": "C",
+      "Explanation": "Simmer is the pressure just below the set pressure where slight leakage occurs before the \"pop.\""
+    },
+    {
+      "SerialNo": 23,
+      "Question": "A balanced safety relief valve uses a bellows or other means to: (CBQ)",
+      "Option A": "Seal the valve internals.",
+      "Option B": "Allow for part expansion during temperature increases.",
+      "Option C": "Create backpressure at desired components in the valve.",
+      "Option D": "Minimize the effects of backpressure on the operating characteristics of the valve.",
+      "Answer": "D",
+      "Explanation": "This is the primary functional purpose of a balanced PRV per API 576."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "According to API 576, rupture disks that are removed for inspection should really be: (CBQ)",
+      "Option A": "Cleaned by an approved solvent for the service it is in.",
+      "Option B": "Cleaned by light wire brushing and in no case scraped.",
+      "Option C": "Cleaned by light scraping and then wire bushed lightly.",
+      "Option D": "Replaced, due to the likelihood they may fail prematurely after handling.",
+      "Answer": "D",
+      "Explanation": "Rupture disks are fragile; the act of removing and reinstalling them can create micro-stresses that change the burst pressure."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "The difference between set pressure and closing pressure is called: (CBQ)",
+      "Option A": "Opening pressure.",
+      "Option B": "Blow down.",
+      "Option C": "Accumulation.",
+      "Option D": "None of the above.",
+      "Answer": "B",
+      "Explanation": "Blowdown is the difference between the set pressure and the reseating pressure."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "Where does crevice corrosion occur? (OBQ)",
+      "Option A": "In the rupture disk holder.",
+      "Option B": "On the rupture disk holder flanges.",
+      "Option C": "In the scores of a rupture disk.",
+      "Option D": "On the surface of the rupture disk.",
+      "Answer": "C",
+      "Explanation": "Scores (intentional weak lines) create narrow gaps where process fluid can stagnate, leading to crevice corrosion."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "Which of the following will active a pin-actuated device? (OBQ)",
+      "Option A": "Butterfly type device.",
+      "Option B": "Knife Blades.",
+      "Option C": "Tooth rings.",
+      "Option D": "Pilot operated device.",
+      "Answer": "A",
+      "Explanation": "Many pin-actuated non-reclosing devices utilize a butterfly-style disc that flips open when the pin buckles."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "A competent person who has met the knowledge, skill requirements and expectations of the owner /user is defined as: (CBQ)",
+      "Option A": "A qualified person.",
+      "Option B": "An Inspector.",
+      "Option C": "The owner/user’s representative.",
+      "Option D": "A certified person.",
+      "Answer": "A",
+      "Explanation": "This matches the definition of a \"Qualified Person\" in the context of PRD repair and testing."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "What type of rupture disk is pressurized on the concave side such that the stresses in the dome are primarily tensile? (CBQ)",
+      "Option A": "Forward acting.",
+      "Option B": "Graphite.",
+      "Option C": "Composite.",
+      "Option D": "Reverse acting.",
+      "Answer": "A",
+      "Explanation": "Forward acting disks are \"tension-loaded.\" Reverse acting disks are \"compression-loaded.\""
+    },
+    {
+      "SerialNo": 30,
+      "Question": "Required torque values for rupture disk holder studs should be in accordance with: (OBQ)",
+      "Option A": "the rupture disk manufacturer’s requirements.",
+      "Option B": "the pressure vessel engineer’s recommendations.",
+      "Option C": "ASME B16.5 flange torquing requirements.",
+      "Option D": "ASME B31.3 flange bolt torquing requirements.",
+      "Answer": "A",
+      "Explanation": "Correct torque is vital for rupture disks to burst at the correct pressure; only the manufacturer can specify this."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "The criteria that constitutes an “as-received” pop test failure is defined by: (CBQ)",
+      "Option A": "facility owner-user.",
+      "Option B": "relief device manufacturer.",
+      "Option C": "pressure vessel inspector.",
+      "Option D": "testing contractor.",
+      "Answer": "A",
+      "Explanation": "The owner-user must define what tolerance (e.g., +/- 10%) constitutes a \"failure\" for their internal reliability tracking."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "What type of relief device is normally used on a storage tank to satisfy the normal venting requirements caused by thermal inbreathing/ outbreathing and product pump-in/pump-out effects? (OBQ)",
+      "Option A": "Weight-loaded Pressure-/Vacuum-relief Valve.",
+      "Option B": "Reverse-acting rupture disk.",
+      "Option C": "Emergency Vent.",
+      "Option D": "Direct Spring-operated Pressure-relief",
+      "Answer": "A",
+      "Explanation": "PVRVs are the standard for atmospheric storage tank breathing."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "What type of relief device uses a weight or compressed spring to hold the valve seat closed below the set pressure or vacuum setting of the device? (OBQ)",
+      "Option A": "Weight-loaded pressure-relief valve.",
+      "Option B": "Emergency vent.",
+      "Option C": "Direct-acting pressure relief valve.",
+      "Option D": "Rupture disc.",
+      "Answer": "C",
+      "Explanation": "This encompasses both spring-loaded and weight-loaded valves that act \"directly\" against the process pressure."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "As a default criterion for a pressure-relieving valve being stuck shut, Use____beyond which the valve is classified as stuck shut if it does not pop, and the test is discontinued. (CBQ)",
+      "Option A": "A max 100 % of set pressure.",
+      "Option B": "A max 150 % of set pressure.",
+      "Option C": "A max 200 % of set pressure.",
+      "Option D": "A max 250 % of set pressure.",
+      "Answer": "B",
+      "Explanation": "API 576 states that if the pressure reaches 150% of the set pressure without the valve opening, it is considered stuck shut."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "A pressure relief valve removed from service for shop overhaul has been tested to determine the as received pop pressure. The initial pop pressure is higher than the CDTP. The next inspection should be to: (CBQ)",
+      "Option A": "Recalibrate the test gauge.",
+      "Option B": "declared the test failed.",
+      "Option C": "test the valve second time.",
+      "Option D": "modify the service interval.",
+      "Answer": "C",
+      "Explanation": "If the first pop is high, a second test is often performed to see if the first test simply \"broke loose\" some minor fouling."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "As received pop testing of pressure relief valve in acid, caustic, toxic service can be accomplished by what method: (OBQ)",
+      "Option A": "using the lifting leaver on the valve while under nitrogen pressure prior to removed.",
+      "Option B": "carefully removing a solid fouling material that may affect the pop pressure.",
+      "Option C": "utilizing a test stand but onsite in the area where the valve is installed.",
+      "Option D": "lightly cleaning the valve with water prior testing",
+      "Answer": "C",
+      "Explanation": "On-site testing stands are used for hazardous valves to minimize transport risks and ensure immediate neutralization/cleaning."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "A pilot operated safety-relief valve is best suited when the: (CBQ)",
+      "Option A": "Fluid is dirty.",
+      "Option B": "Where low differential exist between operating pressure and the set pressure.",
+      "Option C": "Fluid is viscous.",
+      "Option D": "Fluid is high pressure steam or gas.",
+      "Answer": "B",
+      "Explanation": "Pilot valves allow the system to operate very close to the set pressure without simmering/leaking."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "Reverse – acting Scored rupture disks provide satisfactory service life when operating pressures are what percent, or less of the marked burst pressure? (OBQ)",
+      "Option A": "90%.",
+      "Option B": "100%.",
+      "Option C": "110%.",
+      "Option D": "85%.",
+      "Answer": "A",
+      "Explanation": "Most reverse-acting disks have a high \"operating ratio,\" typically up to 90%."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "Which of the following is not a type of pressure relief valve inspection? (OBQ)",
+      "Option A": "Shop as-received pop test.",
+      "Option B": "Visual on-stream inspection.",
+      "Option C": "Internal inlet and outlet piping inspection.",
+      "Option D": "Require piping stress analysis of inlet and outlet piping.",
+      "Answer": "D",
+      "Explanation": "Stress analysis is a design/engineering task, not a routine inspection type for PRDs."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "Following internal inspection inlet and outlet piping adjacent to a pressure relief device should be: (OBQ)",
+      "Option A": "Filled with nitrogen.",
+      "Option B": "Pressure tested with inert gas.",
+      "Option C": "Securely covered.",
+      "Option D": "Hydro tested.",
+      "Answer": "C",
+      "Explanation": "Piping should be covered to prevent foreign objects from entering the system while the valve is removed."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "What will provide the safety relief valve with table lifting characteristics on either compressible or incompressible media? (OBQ)",
+      "Option A": "Car seal.",
+      "Option B": "Vented bonnet.",
+      "Option C": "Trim.",
+      "Option D": "Lift lever",
+      "Answer": "C",
+      "Explanation": "The \"Trim\" (internal parts) design determines the flow and lift characteristics."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "An assembly installed in the space between a rupture disc and another relief device to detect or prevent the accumulation of pressure between the rupture disc and the other device is a: (OBQ)",
+      "Option A": "Tell-tale indicator.",
+      "Option B": "Lifting lever.",
+      "Option C": "Car seal.",
+      "Option D": "Pin-actuated device.",
+      "Answer": "A",
+      "Explanation": "Tell-tale indicators (or pressure gauges with bleed valves) detect if the disk has leaked, which would otherwise create backpressure and prevent the disk from bursting."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "What type of relief device is designed to be opened by shear knife blades, scored lines or tooth rings? (OBQ)",
+      "Option A": "Forward acting conventional rupture disc.",
+      "Option B": "Reverse acting rupture disc.",
+      "Option C": "Pilot operated pressure relief valve.",
+      "Option D": "Vacuum relief valve.",
+      "Answer": "B",
+      "Explanation": "Reverse-acting disks buckle into knife blades or scores to ensure full opening."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "What is a cause of pressure relief valves plugging and fouling? (OBQ)",
+      "Option A": "Process solids.",
+      "Option B": "Improper blow down ring setting.",
+      "Option C": "Pitting on valve body.",
+      "Option D": "Poor seat lapping.",
+      "Answer": "A",
+      "Explanation": "Solids, polymers, or waxes from the process are the primary causes of PRD plugging."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "Pressure relief valves in fouling service that have lifted while in service: (OBQ)",
+      "Option A": "Should be inspected soon after valve lifted.",
+      "Option B": "Should be referred for management of change analysis.",
+      "Option C": "Must be immediately removed and inspected.",
+      "Option D": "Must be referred for RBI analysis.",
+      "Answer": "A",
+      "Explanation": "If a valve lifts in fouling service, there is a high risk that solids have trapped in the seat, preventing it from resealing or working next time."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "What is a car seal? (CBQ)",
+      "Option A": "A device activated by static pressure and designed to function by buckling or breaking a pin which holds a piston in place.",
+      "Option B": "An annular chamber located downstream of the seat of a pressure relief valve.",
+      "Option C": "A device installed on a valve to secure it in a specified position.",
+      "Option D": "A device on the relief valve that applies external force to the stem of the relief valve.",
+      "Answer": "C",
+      "Explanation": "Car seals are used to \"lock\" block valves in the open position to ensure the PRD path is never blocked."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "Rupture disc discharge lines that can collect condensation or rainwater are prone to what type of damage to the rupture disc? (OBQ)",
+      "Option A": "Chattering.",
+      "Option B": "Over pressuring.",
+      "Option C": "Erosion.",
+      "Option D": "Freezing.",
+      "Answer": "D",
+      "Explanation": "Trapped water can freeze, creating a solid plug that prevents the disk from relieving or causes it to burst prematurely due to ice expansion."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "A non-reclosing pressure-relief device actuated by static pressure and designed to function by buckling or breaking a pin that holds a piston or a plug-in place is: (OBQ)",
+      "Option A": "pin-actuated device.",
+      "Option B": "buckling device.",
+      "Option C": "Piston type device.",
+      "Option D": "Butterfly type device.",
+      "Answer": "A",
+      "Explanation": "This is the standard definition of a pin-actuated device per API 576."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "Which of the following refers to internal parts of a pressure- relief valve that are manufactured using materials that are resistant to degradation from the associated process and refers to the nozzle and disc, but may also include other components of the valve is: (OBQ)",
+      "Option A": "trim.",
+      "Option B": "bellows.",
+      "Option C": "Forward rupture disc.",
+      "Option D": "Galling.",
+      "Answer": "A",
+      "Explanation": "\"Trim\" typically refers to the wetted internal parts, specifically the seat (nozzle) and disc."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "Open bonnet pressure-relief valves shall not be used in: (CBQ)",
+      "Option A": "hydrocarbon services.",
+      "Option B": "toxic services.",
+      "Option C": "All services.",
+      "Option D": "Only a and b.",
+      "Answer": "D",
+      "Explanation": "Open bonnets allow process fluid to vent to the atmosphere; this is prohibited for flammable (hydrocarbon) or toxic fluids."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "Pilot-operated pressure-relief valve are generally not used (OBQ):",
+      "Option A": "where a large relief area and/or high set pressures are required.",
+      "Option B": "on large high-pressure storage tanks.",
+      "Option C": "where very short blowdown is required.",
+      "Option D": "where backpressure is very high and balanced design is required",
+      "Answer": "B",
+      "Explanation": "While they can be used, they are less common for very large low-pressure tank venting compared to standard PVRVs, though they are used in specific high-pressure storage applications. (Note: Question context implies typical limitations)."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "The rupture disk designed and manufactured to be installed upstream of other piping components, such as pressure-relief valves, other types of valves, rotating equipment, and other applications where rupture disk fragments can affect operation and/or cause restricted flow is a: (OBQ)",
+      "Option A": "forward acting rupture disc.",
+      "Option B": "reverse acting rupture disc.",
+      "Option C": "Non-fragmenting rupture disc.",
+      "Option D": "Fragmenting rupture disc.",
+      "Answer": "C",
+      "Explanation": "If a disk is upstream of a PRV, it must be non-fragmenting so it doesn't plug the PRV when it bursts."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "Which of the following disk is generally non fragmenting and is acceptable for installation upstream of a pressure-relief valve? (OBQ)",
+      "Option A": "forward acting scored tension.",
+      "Option B": "forward acting composite.",
+      "Option C": "Forward acting graphite.",
+      "Option D": "Any of the above.",
+      "Answer": "A",
+      "Explanation": "Scored disks are designed to open along the score lines without releasing metal fragments."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "A graphite rupture disk is manufactured from graphite impregnated with a binder material and designed to burst by: (OBQ)",
+      "Option A": "bending or shearing.",
+      "Option B": "buckling.",
+      "Option C": "Knife blades.",
+      "Option D": "Tooth rings.",
+      "Answer": "A",
+      "Explanation": "Graphite is brittle and fails by shearing or bending/fragmenting."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "High inlet pressure drop may be caused by improper piping design or lengthy piping to the valve inlet or obstructions in the line and may cause a valve to: (OBQ)",
+      "Option A": "chatter.",
+      "Option B": "vibration.",
+      "Option C": "Plugging.",
+      "Option D": "All the above.",
+      "Answer": "A",
+      "Explanation": "Per API 520/576, inlet pressure drop should not exceed 3% to prevent \"chatter\" (rapid cycling)."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "To prevent leakage of the loading fluid, an optical precision on the order of ___________according to manufacturer’s specifications should be maintained in the flatness of seating surfaces on metal-seated pressure-relief valves: (OBQ)",
+      "Option A": "ten light beads/bands.",
+      "Option B": "three light beads/bands.",
+      "Option C": "six light beads/bands.",
+      "Option D": "Any of the above.",
+      "Answer": "B",
+      "Explanation": "API 576 mentions that seats should be lapped to a flatness of 3 light bands or better."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "The major reason for spring failure in refineries is: (OBQ)",
+      "Option A": "corrosion.",
+      "Option B": "corrosion and stress corrosion cracking.",
+      "Option C": "Corrosion and fatigue cracking.",
+      "Option D": "Brittle fracture.",
+      "Answer": "B",
+      "Explanation": "The refinery environment often contains H2​S or chlorides, which cause SCC in high-strength springs."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "Spring corrosion can be prevented by: (OBQ)",
+      "Option A": "using corrosion resisting materials.",
+      "Option B": "isolation by bellows.",
+      "Option C": "Coating with corrosion resistant coating.",
+      "Option D": "Any of the above.",
+      "Answer": "D",
+      "Explanation": "All three methods (alloying, isolation, or coatings like PTFE/epoxy) are recognized ways to protect springs."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "In CDTP pressure setting steam service valves should be set using: (CBQ)",
+      "Option A": "steam.",
+      "Option B": "air or inert gas.",
+      "Option C": "Water.",
+      "Option D": "Any compressible fluid.",
+      "Answer": "A",
+      "Explanation": "Valves for steam service should be tested on steam to account for temperature effects on the spring and internal components."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "Rupture disk might suitable be used: (OBQ)",
+      "Option A": "when the discharge from valve must be applied remote point",
+      "Option B": "To protect the upstream side of a pressure relief valve against corrosion.",
+      "Option C": "in an incompressible service where, quick blow down is needed.",
+      "Option D": "on stream boiler drum and superheater.",
+      "Answer": "B",
+      "Explanation": "This is a primary application: using an expensive alloy disk to protect a standard PRV from a corrosive process."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "PRD testing interval for non-fouling and non-corrosive services should not exceed: (CBQ)",
+      "Option A": "5 years.",
+      "Option B": "10 years.",
+      "Option C": "Optional.",
+      "Option D": "Lesser of ½ remaining life or 10 years.",
+      "Answer": "B",
+      "Explanation": "API 510 Clause 6.6.2.2 states the maximum interval for PRDs is 10 years (unless RBI indicates otherwise)."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "A condition whereby the interaction between two surfaces as they slide past each other results in localized welding with subsequent splitting and a further roughening of rubbing surfaces of one or both of two mating parts is: (CBQ)",
+      "Option A": "trim.",
+      "Option B": "Galling.",
+      "Option C": "Huddling chamber.",
+      "Option D": "Seat.",
+      "Answer": "B",
+      "Explanation": "Galling is common in PRV guides and seats, especially with stainless steels."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "An annular chamber located downstream of the seat of a pressure- relief valve for the purpose of assisting the valve to achieve lift is: (CBQ)",
+      "Option A": "huddling chamber.",
+      "Option B": "Trim.",
+      "Option C": "Galling.",
+      "Option D": "Lift chamber.",
+      "Answer": "A",
+      "Explanation": "The huddling chamber provides the additional surface area for the fluid to act upon once the valve cracks open, causing the \"pop.\""
+    },
+    {
+      "SerialNo": 64,
+      "Question": "Weight-loaded Pressure-/Vacuum-relief Valve devices are used in pressure and/or vacuum protection applications where operating pressures are: (CBQ)",
+      "Option A": "very near atmospheric conditions.",
+      "Option B": "more than atmospheric conditions.",
+      "Option C": "Less than atmospheric conditions.",
+      "Option D": "All conditions",
+      "Answer": "A",
+      "Explanation": "Weight-loaded valves are highly sensitive and used for very low-pressure (ounces per square inch) tank protection."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "Disks that become dented or otherwise damaged during installation or handling may: (OBQ)",
+      "Option A": "not open completely on demand.",
+      "Option B": "open completely on demand.",
+      "Option C": "Damage pressure relieve valves.",
+      "Option D": "Not have any effect.",
+      "Answer": "A",
+      "Explanation": "Dents can change the burst pressure or interfere with the opening pattern, potentially restricting flow."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "In potential fouling services, which of the following NDT should be considered for piping upstream or downstream of pressure-relief valves? (OBQ)",
+      "Option A": "profile radiography.",
+      "Option B": "ultrasonic scanning.",
+      "Option C": "Ultrasonic thickness measurement.",
+      "Option D": "Any of the above.",
+      "Answer": "A",
+      "Explanation": "Profile RT is the best way to \"see\" internal fouling or plugging in the piping without breaking the flange."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "As-received pop testing should be conducted: (CBQ)",
+      "Option A": "after cleaning.",
+      "Option B": "after neutralization.",
+      "Option C": "prior to cleaning.",
+      "Option D": "every 5 years.",
+      "Answer": "C",
+      "Explanation": "Testing prior to cleaning gives the most accurate representation of how the valve would have performed while in service."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "Pressure- and/or vacuum-vent valves (PVRVs) on atmospheric tanks are prone to failure by: (CBQ)",
+      "Option A": "sticking.",
+      "Option B": "shearing.",
+      "Option C": "bending.",
+      "Option D": "knife blades.",
+      "Answer": "A",
+      "Explanation": "Because they operate at such low pressures, even minor residue or ice can cause the pallets to stick to the seats."
+    },
+    {
+      "SerialNo": 69,
+      "Question": "When removed to from holder whose recommendation should be followed for disk replacement? (CBQ)",
+      "Option A": "disk manufacturer.",
+      "Option B": "owner/user.",
+      "Option C": "contractor.",
+      "Option D": "owner’s inspector.",
+      "Answer": "A",
+      "Explanation": "Manufacturers provide critical installation and compatibility data for specific rupture disk models."
+    },
+    {
+      "SerialNo": 70,
+      "Question": "For each pressure-relieving device in service: (CBQ)",
+      "Option A": "complete, permanent record should be kept.",
+      "Option B": "permanent and progressive record should be kept.",
+      "Option C": "inspection records should be kept.",
+      "Option D": "maintenance records should be kept.",
+      "Answer": "A",
+      "Explanation": "Per API 510/576, a complete history of the device is required for reliability tracking."
+    },
+    {
+      "SerialNo": 71,
+      "Question": "A device to apply an external force to the stem of a relief valve to manually operate the valve is called: (CBQ)",
+      "Option A": "trim.",
+      "Option B": "bellows.",
+      "Option C": "Lifting lever.",
+      "Option D": "Galling.",
+      "Answer": "C",
+      "Explanation": "Lifting levers allow for manual verification that the valve isn't stuck and for clearing debris."
+    },
+    {
+      "SerialNo": 72,
+      "Question": "Which type of valve is a PRV actuated by the difference between static pressure upstream of the valve and superimposed backpressure downstream (unless pressure compensated, i.e., with bellows or balancing) and opens normally in proportion to the pressure increase over the opening pressure? (CBQ)",
+      "Option A": "Relieve valves",
+      "Option B": "Safety valves.",
+      "Option C": "Rupture disks",
+      "Option D": "All of the above.",
+      "Answer": "A",
+      "Explanation": "Relief valves (liquid service) typically open in proportion to the overpressure."
+    },
+    {
+      "SerialNo": 73,
+      "Question": "In balanced PRV operation which device allows the valve to operate without bias from the backpressure if the bellows or other balancing member should leak or otherwise fail? (CBQ)",
+      "Option A": "Trim.",
+      "Option B": "Lift lever.",
+      "Option C": "Vented bonnet.",
+      "Option D": "Bellows.",
+      "Answer": "C",
+      "Explanation": "A vented bonnet ensures that if the bellows leak, pressure doesn't build up in the bonnet and change the set point."
+    },
+    {
+      "SerialNo": 74,
+      "Question": "Reverse-acting, compression-loaded rupture disks are pressurized on the convex side such that the stresses in the dome are primarily: (CBQ)",
+      "Option A": "Tensile.",
+      "Option B": "Compressive.",
+      "Option C": "Linear.",
+      "Option D": "Shear.",
+      "Answer": "B",
+      "Explanation": "Because the pressure is on the \"outside\" of the dome (convex), the material is pushed together (compression) until it buckles."
+    },
+    {
+      "SerialNo": 75,
+      "Question": "Bellows may fail due to fatigue caused by: (CBQ)",
+      "Option A": "valve chatter.",
+      "Option B": "excessive backpressure.",
+      "Option C": "stress corrosion cracking and/or pitting.",
+      "Option D": "Any of the above.",
+      "Answer": "D",
+      "Explanation": "Fatigue from vibration/chatter, chemical attack (SCC), or mechanical overstress (backpressure) are all common bellows failure modes."
+    }
+  ]

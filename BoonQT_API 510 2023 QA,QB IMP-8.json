@@ -1,0 +1,802 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "When a deferral requests not meeting the conditions of a simplified deferral perform documented risk assessment or update risk assessment to determine",
+      "Option A": "If additional inspection will be needed at the new inspection date.",
+      "Option B": "The next inspection interval.",
+      "Option C": "If proposed deferral date would increase risk above acceptable threshold levels as defined by owner/operator.",
+      "Option D": "Mitigation steps necessary to avoid additional damage.",
+      "Answer": "C",
+      "Explanation": "Per API 510, Section 6.10, for non-simplified deferrals, a risk assessment must prove that the risk of extending the inspection date remains within the owner-user's acceptable threshold."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "A pressure relief valve removed from service for shop overhaul has been tested to determine the as received Pop pressure. The initial Pop pressure is higher than CDTP. The next inspection should be to: (API 576-6.2.9.1)",
+      "Option A": "Recalibrate the test gauge.",
+      "Option B": "declared the test failed.",
+      "Option C": "test the valve second time.",
+      "Option D": "modify the service interval.",
+      "Answer": "D",
+      "Explanation": "API 576, Section 6.2.9.1 states that if a valve fails the \"as-received\" pop test (pops high or stuck), the inspection history must be reviewed to determine if the service interval should be shortened."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Weld and heat affected zone are often inspected for:",
+      "Option A": "Hydrogen Blistering.",
+      "Option B": "Corrosion and/or service induced cracking",
+      "Option C": "Temper Embrittlement.",
+      "Option D": "Graphitization.",
+      "Answer": "B",
+      "Explanation": "Weldments and the Heat Affected Zone (HAZ) are primary areas of concern for service-induced cracking (like SSC or fatigue) and preferential corrosion due to metallurgical changes."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "A pressure vessel is deeply corroded but not through its wall. A full circumferential band is intended to serve as a temporary repair. The repair band material is not suitable for direct contact with the contained fluid. Is this repair acceptable: (API 510-8.1.6.3)",
+      "Option A": "Yes, if an appropriate corrosion allowance is provided.",
+      "Option B": "No, under any circumstance.",
+      "Option C": "Yes, as long as it is replaced in the next schedule turnaround.",
+      "Option D": "No, unless it is approved and documented by a pressure vessel engineer and the authorized pressure vessel inspector.",
+      "Answer": "B",
+      "Explanation": "Per API 510, Section 8.1.6.3, materials used for repairs must be compatible with the process fluid. If the material cannot handle direct contact, it is not an acceptable repair choice."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "POP testing in the as received condition of pressure relief valves in acid/caustic/toxic service can be accomplished by what method? (API 576-6.2.9.1)",
+      "Option A": "using the lifting leaver on the valve while under nitrogen pressure prior to removed",
+      "Option B": "carefully removing a solid fouling material that may affect the POP pressure.",
+      "Option C": "utilizing a test stand built onsite in the area where the valve is installed.",
+      "Option D": "lightly cleaning the valve with water prior testing.",
+      "Answer": "A",
+      "Explanation": "API 576 allows for functional testing using the lift lever under pressure for hazardous services to verify the valve is not stuck before it is removed and potentially cleaned."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "The inspector needs to replace a nozzle on a vessel that is in-service. The design of the replacement nozzle shall employ what strength factor? (API 510 -8.1.4)",
+      "Option A": "The same allowable stress criteria as used for the vessel design.",
+      "Option B": "Two third of the yield strength specified in the ASME Code.",
+      "Option C": "The allowable stress in the current edition of the construction code.",
+      "Option D": "One quarter of the maximum tensile strength specified in the ASME Code",
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.4 requires that repair and alteration design use the same allowable stress as the original design code to maintain the vessel's integrity and rating."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Important information for probability of failure assessment for risk-based inspection (RBI) will check the: (API 510 5.2.2)",
+      "Option A": "Equipment failure data",
+      "Option B": "likelihood of an ignition source.",
+      "Option C": "probability of rupture verses leak.",
+      "Option D": "probability of experiencing extended downtime.",
+      "Answer": "A",
+      "Explanation": "Per API 510, Section 5.2.2, identifying the Probability of Failure (POF) requires evaluating historical failure data and credible damage mechanisms."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "An inspector potential task prior to welding includes which of the following? (API 577-9.2.1)",
+      "Option A": "identifying and clarifying inconsistencies with standards codes and specification requirements.",
+      "Option B": "identifying and clarifying missing details and information.",
+      "Option C": "identifying and clarifying missing weld sizes, dimensions, tests, and any additional requirements.",
+      "Option D": "revising the weld design based on knowledge of anticipated problems.",
+      "Answer": "A",
+      "Explanation": "API 577, Section 9.2.1 outlines pre-welding tasks, which center on ensuring the repair plan is consistent with all applicable codes and specs."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "External inspection of a vessel reveals that the anchor bolts are corroding which of the following test would best determine the overall condition of the bolting? (API 572-9.3.4)",
+      "Option A": "Radiography.",
+      "Option B": "Hammer testing.",
+      "Option C": "Scrapping rust from a nut.",
+      "Option D": "Visual inspection.",
+      "Answer": "B",
+      "Explanation": "API 572 notes that Hammer Testing is a practical field method used to detect loss of bond, severe thinning, or breakage of anchor bolts by the sound produced."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Which of the following provide the controls that are necessary when contract inspector used for inspection? (API 510-3.1.4)",
+      "Option A": "The local jurisdiction.",
+      "Option B": "The owner operator’s inspection program.",
+      "Option C": "That the contract company supervisor on site.",
+      "Option D": "The maintenance engineering organization.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 3.1.4 (AIA definition) and Section 4.2.1 specify that contract inspectors must work under the owner-operator's established quality system and inspection program."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "The required thickness of a pressure vessel component is defined as the: (API 510-3.1.63)",
+      "Option A": "The thickness at which it is unsafe for continued service without risk assessment.",
+      "Option B": "The thickness at which the component must be replaced.",
+      "Option C": "The minimum thickness based on the design code calculation including required corrosion allowance.",
+      "Option D": "The minimum thickness based on the design code calculation not including required corrosion allowance.",
+      "Answer": "D",
+      "Explanation": "API 510, Section 3.1.63 defines Required Thickness as the minimum thickness calculated by the design formula without the addition of corrosion allowance."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "A pilot operated safety-relief valve is best suited when the: (API 576-4.4)",
+      "Option A": "Fluid is dirty.",
+      "Option B": "Operating pressure is close to the set pressure.",
+      "Option C": "Fluid is viscous.",
+      "Option D": "Fluid is high pressure steam or gas.",
+      "Answer": "B",
+      "Explanation": "API 576 identifies pilot-operated valves as ideal for service where the operating pressure is very close to the set pressure, as they maintain a tight seal until the set point is reached."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Inspection tasks typically associated with hot tapping or welding on in-service equipment should include: (API 577-11.2.5)",
+      "Option A": "Positive metal identification (PMI)",
+      "Option B": "Ferrite testing",
+      "Option C": "Hardness testing",
+      "Option D": "Verification of process flammability.",
+      "Answer": "A",
+      "Explanation": "Per API 577, PMI is critical before hot tapping to ensure the material is actually what is expected (e.g., carbon steel) and that the welding procedure will be compatible."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "What is the effect on time to failure by SSC as material strength, applied stress and environmental charging potential increases (API 571 -3.67.1)",
+      "Option A": "Has no effect",
+      "Option B": "Decreases",
+      "Option C": "Varies dependent upon temperature",
+      "Option D": "Increases.",
+      "Answer": "B",
+      "Explanation": "API 571 notes that Sulfide Stress Cracking (SSC) risk increases (and time to failure decreases) as the material's strength/hardness and applied stress increase."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Corrosion and other damage identified during inspection and examination must be characterized, sized and evaluated per section 7 (inspection Data Evaluation, Analysis and Recording) with deviations from the inspection plan being approved by whom? (API 510 -5.5.1)",
+      "Option A": "corrosion engineer",
+      "Option B": "Inspector,preesure vessel engineer or qualified designee",
+      "Option C": "Inspector or Pressure vessel engineer",
+      "Option D": "Inspector or Corrosion engineer",
+      "Answer": "B",
+      "Explanation": "API 510, Section 5.5.1 states that the Inspector, Engineer, or a qualified designee has the authority to approve deviations from the documented plan."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Which best describes the responsibility of the owner/ operator under API510? (API 510-1.1.2)",
+      "Option A": "The owner /operator shall respond to any inspection the results that require corrective actions to assure the continued safe operation of pressure vessels and pressure relieving devices",
+      "Option B": "The owner/operator shall ensure all repairs are performed by employees working under a valid ASME section VIII, Division I authorized",
+      "Option C": "The owner/operator shall investigate any equipment failure in accordance with API RP 585 Pressure Equipment integrity incident investigation and implement appropriate inspection recommendation to prevent future recurrence of this occurring",
+      "Option D": "The owner/operator should report equipment failures in accordance with API RP 754 Process safety performance indicators for the refining and petro chemical industries.",
+      "Answer": "A",
+      "Explanation": "API 510, Section 4.2.1 emphasizes that the Owner-User is ultimately responsible for responding to inspection findings and ensuring safe operation through corrective actions."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Damage Mechanism such as corrosion, cracking, erosion, dents, and other mechanical, physical, or chemical impacts could be defined as: (API 510-3.1.14)",
+      "Option A": "An imperfection whose type or size, exceeds the applicable acceptance criteria and is therefore rejectable.",
+      "Option B": "Service conditions that may produce fatigue damage due to cyclic loading from pressure, thermal, and mechanical loads.",
+      "Option C": "A response or evidence resulting from the application of a NDE that could be flaws or defects upon further analysis.",
+      "Option D": "Any type of deterioration that can result in flaws/defects that can affect the integrity of vessels.",
+      "Answer": "D",
+      "Explanation": "API 510, Section 3.1.14 defines a Damage Mechanism as any form of deterioration that could result in integrity-threatening flaws."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Reverse – acting Scored rupture disks provide satisfactory service life when operating pressures are what percent, or less of the marked burst pressure?",
+      "Option A": "90%.",
+      "Option B": "100%.",
+      "Option C": "110%.",
+      "Option D": "85%.",
+      "Answer": "A",
+      "Explanation": "API 576 standard practice for reverse-acting scored disks is an operating ratio of 90% of the marked burst pressure."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Which of the following will activate a pin-actuated device? (API 576-4.6.3)",
+      "Option A": "Pilot operated device.",
+      "Option B": "Tooth rings.",
+      "Option C": "Knife blades.",
+      "Option D": "Butterfly type device.",
+      "Answer": "D",
+      "Explanation": "Per API 576, Butterfly type devices are a common configuration for pin-actuated relief systems."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "Which of the following is not a type of pressure relief valve inspection?",
+      "Option A": "Visual on stream inspection.",
+      "Option B": "Shop as received pop test.",
+      "Option C": "Piping stress analysis of inlet and outlet piping.",
+      "Option D": "Internal inlet and outlet inspection.",
+      "Answer": "C",
+      "Explanation": "Piping stress analysis is a design/engineering function, not a specific inspection type performed on the relief valve itself."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "Pressure test pressure, duration and procedures used should be in accordance with the applicable construction code requirements and applicable procedures of the: (API 572-9.7.2)",
+      "Option A": "Owner / Operator.",
+      "Option B": "Vessel manufacturer.",
+      "Option C": "Inspection agent.",
+      "Option D": "Location jurisdiction.",
+      "Answer": "A",
+      "Explanation": "Per API 572, while the construction code sets the baseline, the owner-operator's specific procedures dictate how the test is executed in the facility."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "What can protect moving parts of a pressure –relief device from corrosive substances in a closed system?",
+      "Option A": "Trim.",
+      "Option B": "Lift lever.",
+      "Option C": "Car seal.",
+      "Option D": "Bellows.",
+      "Answer": "D",
+      "Explanation": "In a Balanced Bellows valve, the bellows isolates the spring and guiding surfaces from the process fluid."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "A batch of metal made at the same time, able to be traced from its original constituents and manufacturing process is (API 578 -3.1.6)",
+      "Option A": "A lot size.",
+      "Option B": "An inspection lot.",
+      "Option C": "A heat.",
+      "Option D": "A representative sample.",
+      "Answer": "C",
+      "Explanation": "API 578, Section 3.1.6 defines a Heat as metal produced during a single melting or casting process."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "When installing an unapproved high alloy into a system , PMI should be considered by the owner/user based upon the; (API 578-4.3)",
+      "Option A": "Extent of the installation.",
+      "Option B": "Potential damage mechanisms and damage rates.",
+      "Option C": "The stress level of the installation location.",
+      "Option D": "Silicon levels and anticipated corrosion rate.",
+      "Answer": "B",
+      "Explanation": "API 578, Section 4.3 states that the decision to perform PMI should be based on the likelihood and consequence of failure (Risk), specifically damage mechanisms."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "Process parameter exceedances can be held in check by;(API 510-4.1.4)",
+      "Option A": "Training new process engineers to monitor historical operating data.",
+      "Option B": "Implementing and maintaining an effective low program.",
+      "Option C": "Holding operations personnel accountable.",
+      "Option D": "Conducting process hazard analysis on a more frequent basis.",
+      "Answer": "B",
+      "Explanation": "Integrity Operating Windows (IOWs), governed by API 584, are essential for preventing process changes from causing unexpected damage."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "When calibrated for metal analysis, which device can provide qualitative and quantitative information to determine which elements are present and in what quantity? (API 578-6.7.2)",
+      "Option A": "Wavelength dispersive spectrometers.",
+      "Option B": "X-ray fluorescence spectrometers.",
+      "Option C": "Laser-induced breakdown spectroscopy.",
+      "Option D": "Silica draft detectors.",
+      "Answer": "C",
+      "Explanation": "LIBS (Laser-Induced Breakdown Spectroscopy) is an advanced PMI tool that provides quantitative chemical analysis."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "Which API document provides a set of methodologies for assessing risk (both POF and COF) and for developing inspection plans? (API 510-5.2.1)",
+      "Option A": "API 577.",
+      "Option B": "API 578.",
+      "Option C": "API 581.",
+      "Option D": "API 580.",
+      "Answer": "C",
+      "Explanation": "API 581 contains the quantitative technical formulas and methodologies for calculating RBI risk."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "What is a sample of welding filler material deposited on relevant base metal in order to provide the basis for PMI of the filler? (API 578-3.1.20)",
+      "Option A": "A button.",
+      "Option B": "A heat.",
+      "Option C": "A tab.",
+      "Option D": "A representative sample.",
+      "Answer": "A",
+      "Explanation": "API 578 uses the term Button to describe a sample of weld deposit made for chemical testing."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "Which of the following may be inhibited near laboratory quality measurements from XRF technology?(API 578-6.7.1)",
+      "Option A": "Surface contamination.",
+      "Option B": "Inaccurate calibration.",
+      "Option C": "Operator interpretation.",
+      "Option D": "Size of measurement area.",
+      "Answer": "A",
+      "Explanation": "API 578 emphasizes that XRF results are highly sensitive to surface scale, dirt, or paint (surface contamination)."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "What is the maximum thickness at welded joints for carbon (P.NO.1) steels that post weld heat treatment is not required for pressure vessels that are subject to direct firing? (ASME VIII -UW-2 d)",
+      "Option A": "1/2 inch(13mm)",
+      "Option B": "5/8inch (16mm)",
+      "Option C": "3/4inch(19mm)",
+      "Option D": "All thickness",
+      "Answer": "B",
+      "Explanation": "Per ASME Section VIII, UW-2(d), fired pressure vessels made of carbon steel must be PWHT if the thickness exceeds 5/8 inch (16 mm)."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "A Pressure vessel has a joint efficiency of 0.85 and a locally corroded area away from the weld. How far away the weld must be corroded area be in order to allow a joint efficiency of 1.0 in recalculating the required thickness? (API 510-7.4.5)",
+      "Option A": "½ inch (1.3cm) or 2 times the minimum required thickness, whichever is greater.",
+      "Option B": "1 inch (2.5cm) or 2 times the minimum required thickness, whichever is greater.",
+      "Option C": "½ inch (1.3cm) or 3 times the minimum required thickness, whichever is greater.",
+      "Option D": "2 inch (1.3cm) or 3 times the minimum required thickness, whichever is greater.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 7.4.5 allows using E=1.0 if the area is located at least 1 inch or 2x required thickness from the nearest weld."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "What is minimum width of the a PWHT soak band in the construction of a pressure vessels? (ASME VIII-UW 40)",
+      "Option A": "A minimum of 2in from the center line of the weld in all direction.",
+      "Option B": "A minimum of 3 in from the center line of the weld in all direction.",
+      "Option C": "Shall not exceed at least 1inch (25mm) beyond each of the weld or 2 inches. Whichever is less.",
+      "Option D": "Widest width of the weld plus 1t or 2 in (50mm) whichever is less on each side of the weld.",
+      "Answer": "D",
+      "Explanation": "ASME VIII, UW-40 specifies the soak band width for local heating to ensure the entire weld and HAZ reach the required temperature."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "What are the minimum single and average values for a charpy impact test specimen using 2-inch-thick carbon steel with a minimum specified yield strength of 36 ksi for a pressure vessel application? (ASME VIII - UG 84)",
+      "Option A": "Minimum single value of 5 ft-lb and average value of 15 ft-lb.",
+      "Option B": "Minimum single value of 10 ft-lb and average value of 15 ft-lb.",
+      "Option C": "Minimum single value of 13 ft-lb and average value of 20 ft-lb.",
+      "Option D": "Minimum single value of 10 ft-lb and average value of 20 ft-lb.",
+      "Answer": "B",
+      "Explanation": "Per ASME VIII, UG-84, Table UG-84.1, for 36 ksi yield strength materials, the average of three must be 15 ft-lb and the minimum single value must be 10 ft-lb."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "Gamma ray radiography is used to perform inspection on a repair weld of a vessel that is 1.250 inch (31.8mm) thick. The radiographer has access to both sides of the weld. The hole type IQI( penetrameter) used is: (ASME V T-276)",
+      "Option A": 10,
+      "Option B": 20,
+      "Option C": 30,
+      "Option D": 35,
+      "Answer": "C",
+      "Explanation": "Per ASME Section V, Article 2, Table T-276, for this thickness range, an IQI No. 30 is required."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "If non-normalized SA-516 Gr 60 material is used for fabricating a pressure vessel with a nominal wall thickness of 1.125 inches (28.6m), for what minimum design metal temperature can the vessel be stamped without impact testing? (ASME VIII UCS-66)",
+      "Option A": "-26° F(-32 C).",
+      "Option B": "2° F(-17C).",
+      "Option C": "37 °F(3 C).",
+      "Option D": "75° F(24 C).",
+      "Answer": "B",
+      "Explanation": "This value is determined by looking up the material's curve in ASME VIII, UCS-66 and calculating based on the 1.125\" thickness."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "Hydrogen permeation or diffusion rates associated with H2S damage of carbon steel and low alloy steel have been found to be minimal at a PH of?",
+      "Option A": "4.5.",
+      "Option B": "3.5.",
+      "Option C": 7,
+      "Option D": "Over 8.",
+      "Answer": "C",
+      "Explanation": "API 571 states that hydrogen charging (Wet H2S damage) is most severe in acidic (low pH) or highly alkaline (high pH) environments, but is minimal at neutral pH (7)."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Which is the API recommended practice for Steels for Hydrogen Service at Elevated Temperatures and Pressures? (API 510 -CHAPTER 2).",
+      "Option A": "API 584.",
+      "Option B": "API 941.",
+      "Option C": "API 932.",
+      "Option D": "API 575.",
+      "Answer": "B",
+      "Explanation": "API 941 is the source for the \"Nelson Curves\" used to prevent High-Temperature Hydrogen Attack (HTHA)."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "In which type of Wet H2S Damage Sulfur acts as a recombination poison? (API 571 -3.67.1)",
+      "Option A": "Hydrogen blisters.",
+      "Option B": "HIC.",
+      "Option C": "SOHIC.",
+      "Option D": "SSC.",
+      "Answer": "A",
+      "Explanation": "Per API 571, poisons like sulfur prevent hydrogen atoms from forming molecules on the surface, forcing them to diffuse into the steel and form blisters."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "On a guided bend test used to qualify a WPS, cracks occurring on the corner of the test specimen are acceptable: .",
+      "Option A": "Under no circumstances.",
+      "Option B": "Only if they are not associated with the test weld.",
+      "Option C": "If there is no evidence they were due to slag inclusions.",
+      "Option D": "If the transverse opening is not larger than 1/8 inch (3mm)",
+      "Answer": "C",
+      "Explanation": "Per ASME Section IX, QW-163, corner cracks are generally ignored unless they show clear evidence of being caused by an internal weld defect like slag or lack of fusion."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "The density of step wedge comparison film and densitometer calibrations shall be verified by using calibrated step wedge film traceable to:",
+      "Option A": "An ASME V Standard certified film.",
+      "Option B": "An ASME calibrated step wedge.",
+      "Option C": "An ASNT certified procedure.",
+      "Option D": "National standard (step tablet).",
+      "Answer": "D",
+      "Explanation": "Per ASME Section V, densitometers must be verified against a step tablet traceable to a National Standard (such as NIST)."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "Which of these may be assumed for MAWP calculations (unknown materials)?",
+      "Option A": "Lowest grade material.",
+      "Option B": "SA 283 Gr.C.",
+      "Option C": "SA 516 Gr.70.",
+      "Option D": "Highest grade material.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 7.7 states that if the material is unknown, the properties of SA-283 Grade C shall be used for calculations."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "What is maximum Brinell hardness number allowed for welding carbon steel material in caustic service?",
+      "Option A": "BHN 200.",
+      "Option B": "BHN 225.",
+      "Option C": "BHN 241.",
+      "Option D": "None of these.",
+      "Answer": "A",
+      "Explanation": "API 571 recommends keeping carbon steel hardness below 200 BHN to prevent Caustic Stress Corrosion Cracking (SCC)."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "The size of the fillet weld refers to the dimension of the welds:",
+      "Option A": "Throat",
+      "Option B": "Leg.",
+      "Option C": "Reinforcement.",
+      "Option D": "Toe",
+      "Answer": "B",
+      "Explanation": "In welding terminology (API 577), the size of a fillet weld is defined by its Leg Length."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "The pressure vessel name plate shall be attached:",
+      "Option A": "On the vessel shell only.",
+      "Option B": "On pad or bracket only.",
+      "Option C": "Within 30 inches from vessel.",
+      "Option D": "Within 24 inches from vessel.",
+      "Answer": "C",
+      "Explanation": "ASME VIII and API 510 allow the nameplate to be on a bracket/pad, but it must be within 30 inches of the equipment."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "A double full fillet lap joints will have a joint efficiency of:",
+      "Option A": "0.80.",
+      "Option B": "0.55.",
+      "Option C": "0.65.",
+      "Option D": "0.70.",
+      "Answer": "B",
+      "Explanation": "Per ASME Section VIII, Table UW-12, a double full fillet lap joint is assigned an E=0.55."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "Inspector recommendations can be changed or deleted after review by whom?",
+      "Option A": "Engineer.",
+      "Option B": "Engineer or inspection supervisor.",
+      "Option C": "Inspection supervisor.",
+      "Option D": "Owner/user.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 5.3.1 allows inspection recommendations to be modified only after documented review by a PV Engineer or the Inspection Supervisor."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "The circumferential fillet welds attaching the band to the vessel shell are designed to transfer the full longitudinal load in the vessel shell, using a joint efficiency of: (API 510-8.1.6.1.3)",
+      "Option A": "0.80.",
+      "Option B": "0.45.",
+      "Option C": "0.65.",
+      "Option D": "0.70.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 8.1.6.1.3 specifies a maximum allowable joint efficiency of 0.45 for these circumferential fillet welds."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "For vessels constructed with P-3, P-4, or P-5 base materials, the base metal in the area of repair should also be examined for cracking by which of the following method? (API 510-8.1.6.4.4)",
+      "Option A": "PT after cooling to room temperature.",
+      "Option B": "MT in as welded condition.",
+      "Option C": "UT after 24 hours.",
+      "Option D": "All of the above.",
+      "Answer": "C",
+      "Explanation": "These low-alloy materials are prone to delayed hydrogen cracking; therefore, API 510 requires UT after 24 hours."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "When controlled deposition welding is used to avoid PWHT of a repair what is the maximum deposited weld metal qualified for 2-inch weld deposit in procedure qualification?",
+      "Option A": "Less than 2 inches.",
+      "Option B": "2 inches and above.",
+      "Option C": "3/16 inch to 4 inches.",
+      "Option D": "1/16 inch to 4 inches.",
+      "Answer": "A",
+      "Explanation": "ASME Section IX rules for controlled deposition typically limit the qualified thickness to the actual thickness of the deposit used in the test."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "When altering the inspection interval/ frequency specified in API 510, which API recommended practice may be used?",
+      "Option A": "API RP 580.",
+      "Option B": "API RP 571.",
+      "Option C": "API RP 579.",
+      "Option D": "API RP 577.",
+      "Answer": "A",
+      "Explanation": "API 580 is the recommended practice for developing and altering inspection plans using Risk-Based Inspection."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "For cases where UT is used in lieu of a pressure test, who shall specify industry qualified UT angle beam examiners?",
+      "Option A": "Piping design engineer.",
+      "Option B": "Owner/user.",
+      "Option C": "API 510 Inspector.",
+      "Option D": "Inspection department manager.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 5.7.3.2 requires the Owner-User to mandate the use of industry-qualified examiners for manual flaw sizing."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "Which type of ultrasonic display shows the amplitude of the signal coming from the discontinuity as a function of time?",
+      "Option A": "A-scan display",
+      "Option B": "C-scan",
+      "Option C": "A-scan and C-scan display",
+      "Option D": "B-scan and C-scan display.",
+      "Answer": "A",
+      "Explanation": "An A-scan provides a pulse-echo representation where the vertical height (amplitude) corresponds to reflection strength and the horizontal axis represents time (depth)."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "Any repair welding should be performed according to a procedure accepted by the:",
+      "Option A": "owner user.",
+      "Option B": "repair organization.",
+      "Option C": "inspector or engineer.",
+      "Option D": "inspection agency.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.1 requires the Authorized Inspector or Engineer to approve all repair welding procedures."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "Although fatigue cracking is generally considered to be a design related mechanism, once a crack is initiated, the rate of crack growth:",
+      "Option A": "is typically very slow, and not a concern.",
+      "Option B": "is unknown.",
+      "Option C": "can be accurately determined by inspection.",
+      "Option D": "can be arrested by careful inspection",
+      "Answer": "B",
+      "Explanation": "Per API 571, crack growth rates for fatigue are highly unpredictable and difficult to quantify without continuous monitoring."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "Who should define the criteria which constitutes an \"as received\" pop test failure of pressure relieve device?",
+      "Option A": "Valve repair/inspection shop.",
+      "Option B": "API 579.",
+      "Option C": "Owner/user.",
+      "Option D": "API RP 576.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 6.6.2.2 states the Owner-User defines the performance standards that determine a PRD failure."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "A welding technique where the heat and placement of weld passes in deposited weld layers is controlled so that sufficient heat is provided to temper each previously deposited weld layer is known as:",
+      "Option A": "Inter pass temperature welding.",
+      "Option B": "autogenous welding.",
+      "Option C": "temper bead welding.",
+      "Option D": "buttering.",
+      "Answer": "C",
+      "Explanation": "API 577, Section 3.1.65 defines Temper Bead Welding as a method used to produce a grain-refined HAZ without post-weld heat treatment."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "One of the procedural requirements for MT examination that must be addressed is:",
+      "Option A": "Magnetizing time",
+      "Option B": "Developer application",
+      "Option C": "Type of particles, wet or dry",
+      "Option D": "A and B above.",
+      "Answer": "C",
+      "Explanation": "Per ASME Section V, Article 7, the specific type of particles (dry vs. wet) is an essential variable in the inspection procedure."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "Supplemental Essential variables must be addressed on the WPS when:",
+      "Option A": "base metal is greater than 0.5 inches (12.7mm).",
+      "Option B": "multiple welding processes will be used.",
+      "Option C": "welder requires further instruction.",
+      "Option D": "impact testing is required or specified.",
+      "Answer": "D",
+      "Explanation": "ASME IX, QW-401.3 specifies that Supplemental Essential Variables (like notch toughness) become essential when impact testing is required."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "What form of NDE may not be effective for finding tight, scale filled cracks and should not be used as the only means of detection for Caustic Stress corrosion cracking?",
+      "Option A": "PT.",
+      "Option B": "ET.",
+      "Option C": "RT.",
+      "Option D": "ACFM.",
+      "Answer": "A",
+      "Explanation": "API 571 warns that Liquid Penetrant (PT) cannot enter cracks filled with corrosive products or scale, making it unreliable for caustic SCC."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "Which of the following is an acceptable method to address in process PMI during welding?",
+      "Option A": "Weld copy.",
+      "Option B": "Sample buttons.",
+      "Option C": "MTR.",
+      "Option D": "Chemical shopping.",
+      "Answer": "B",
+      "Explanation": "API 578 allows for Sample Buttons (small weld deposits) to be tested for alloy content to verify filler metal in-process."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "Who is responsible for assuring that all individuals performing PMI are trained and qualified in accordance with the applicable procedure used during the examination? .",
+      "Option A": "Owner/user.",
+      "Option B": "Fabricator.",
+      "Option C": "Inspection supervisor.",
+      "Option D": "Jurisdiction",
+      "Answer": "A",
+      "Explanation": "API 578, Section 4.1 assigns the ultimate responsibility for personnel training and qualifying for PMI to the Owner-User."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "Users of XRF analyzers should be aware of what type of hazards?",
+      "Option A": "Radiation.",
+      "Option B": "Toxins.",
+      "Option C": "Gas.",
+      "Option D": "Flammability.",
+      "Answer": "A",
+      "Explanation": "X-ray Fluorescence (XRF) devices emit ionizing Radiation; users must follow safety protocols and wear dosimeters."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "Blinds and/or blanks used for pressure testing should be of adequate thickness to withstand what pressure?",
+      "Option A": "Design pressure.",
+      "Option B": "Test pressure.",
+      "Option C": "MAWP.",
+      "Option D": "Operating pressure.",
+      "Answer": "B",
+      "Explanation": "Per ASME B31.3 and common vessel safety codes, blinds must be rated for the full Test Pressure, not just the design pressure."
+    },
+    {
+      "SerialNo": 64,
+      "Question": "The test pressure, duration and procedures used should be in accordance with the applicable construction code requirements consistent with the existing thickness of the vessel and the appropriate joint efficiencies and:",
+      "Option A": "Owner/user procedures.",
+      "Option B": "Local jurisdictional requirements.",
+      "Option C": "API 510 requirements.",
+      "Option D": "Engineer approval.",
+      "Answer": "A",
+      "Explanation": "Per API 572, Section 9.7.2, hydrostatic testing must follow the Owner-User's specific internal procedures and safety guidelines."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "When using PT for weld inspection the length of the time the penetrant remain on the surface is known as:",
+      "Option A": "Soak time.",
+      "Option B": "Dwell time.",
+      "Option C": "Drying time.",
+      "Option D": "Development time.",
+      "Answer": "B",
+      "Explanation": "Per ASME Section V, Article 6, Dwell Time is the period required for the penetrant to seep into potential surface-breaking flaws."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "The welding performance qualification is only limited by:",
+      "Option A": "Supplementary variables.",
+      "Option B": "Welding procedure variables.",
+      "Option C": "Essential variables.",
+      "Option D": "Both essential and non essential variables.",
+      "Answer": "C",
+      "Explanation": "ASME Section IX, QW-100.2 states that welder performance is limited specifically by Essential Variables."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "Following internal inspection inlet and outlet piping adjacent to a pressure relief device should be:",
+      "Option A": "Filled with nitrogen.",
+      "Option B": "Pressure tested with inert gas.",
+      "Option C": "Securely covered.",
+      "Option D": "Hydro tested.",
+      "Answer": "C",
+      "Explanation": "To prevent moisture or debris from entering the system after inspection, API 576 recommends ensuring flanges are Securely Covered."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "What will provide the safety relief valve with table lifting characteristics on either compressible or incompressible media?",
+      "Option A": "Car seal.",
+      "Option B": "Vented bonnet.",
+      "Option C": "Trim.",
+      "Option D": "Lift lever.",
+      "Answer": "C",
+      "Explanation": "The Trim (disk, seat, nozzle, and rings) defines the fluid dynamics and lift characteristics of a relief valve."
+    },
+    {
+      "SerialNo": 69,
+      "Question": "If a welder is to be qualified by production Weld and fails to meet that standard, the welder is considered to have failed the welder performance qualification. No retesting using volumetric NDE is allowed how must the production weld be repaired?",
+      "Option A": "The weld must be cut out and the welder making the test can make the new weld.",
+      "Option B": "The Weld must be examined 100% and repaired by a qualified welder.",
+      "Option C": "Only the defect needs to be examined and repaired by a qualified welder.",
+      "Option D": "Only the defects need to be ground out and the welder making the test must repair the weld.",
+      "Answer": "B",
+      "Explanation": "Per ASME Section IX, a failed production qualification weld must be fully examined and corrected by a qualified welder, as the original test welder is currently uncertified."
+    },
+    {
+      "SerialNo": 70,
+      "Question": "An assembly installed in the space between a rupture disc and another relief device to detect or prevent the accumulation of pressure between the rupture disc and the other device is a:",
+      "Option A": "Tell-tale indicator.",
+      "Option B": "Lifting lever.",
+      "Option C": "Car seal.",
+      "Option D": "Pin-actuated device.",
+      "Answer": "A",
+      "Explanation": "API 576 defines a Tell-Tale Indicator (such as a pressure gauge or excess flow valve) used to ensure no backpressure builds between a disk and valve."
+    },
+    {
+      "SerialNo": 71,
+      "Question": "What type of relief device is designed to be opened by knife blades?",
+      "Option A": "Forward acting conventional rupture disc.",
+      "Option B": "Reverse acting rupture disc.",
+      "Option C": "Pilot operated pressure relief valve.",
+      "Option D": "Vacuum relief valve.",
+      "Answer": "B",
+      "Explanation": "Certain Reverse Acting Rupture Discs are designed to snap back against knife blades to ensure a full opening upon overpressure."
+    },
+    {
+      "SerialNo": 72,
+      "Question": "The next plant inspection of a pressure vessel shall include all CMLs that have which of the following corrosion rate and remaining life descriptions?",
+      "Option A": "Highest corrosion rate and least remaining life.",
+      "Option B": "Highest corruption rate and longest remaining life.",
+      "Option C": "Lowest corrosion rate and least remaining life.",
+      "Option D": "Lowest corrosion rate and longest remaining life.",
+      "Answer": "A",
+      "Explanation": "Per API 510, Section 5.6.3, the inspection plan must prioritize High Corrosion Rate areas and Least Remaining Life components."
+    },
+    {
+      "SerialNo": 73,
+      "Question": "What is a cause of pressure relief valves plugging and fouling?",
+      "Option A": "Process solids.",
+      "Option B": "Improper blow down ring setting.",
+      "Option C": "Pitting on valve body.",
+      "Option D": "Poor seat lapping.",
+      "Answer": "A",
+      "Explanation": "Process Solids, polymers, or corrosive scale are the primary causes of PRD fouling and plugging."
+    },
+    {
+      "SerialNo": 74,
+      "Question": "Pressure relief valves in fouling service that have lifted while in service:",
+      "Option A": "Should be inspected soon after valve lifted.",
+      "Option B": "Should be referred for management of change analysis.",
+      "Option C": "Must be immediately removed and inspected.",
+      "Option D": "Must be referred for RBI analysis.",
+      "Answer": "A",
+      "Explanation": "API 576 recommends a rapid check of valves in fouling service that have cycled, as they may not have reseated properly due to trapped solids."
+    },
+    {
+      "SerialNo": 75,
+      "Question": "What is a car seal?",
+      "Option A": "A device activated by static pressure and designed to function by buckling or breaking a pin which holds a piston in place.",
+      "Option B": "An annular chamber located downstream of the seat of a pressure relief valve.",
+      "Option C": "A device installed on a valve to secure it in a specified position.",
+      "Option D": "A device on the relief valve that applies external force to the stem of the relief valve.",
+      "Answer": "C",
+      "Explanation": "API 576, Section 3.7 defines a Car Seal as a tamper-evident seal used to ensure a valve stays locked open or closed."
+    },
+    {
+      "SerialNo": 76,
+      "Question": "Rupture disc discharge lines that can collect condensation or rainwater are prone to what type of damage to the rupture disc?",
+      "Option A": "Chattering.",
+      "Option B": "Over pressuring.",
+      "Option C": "Erosion.",
+      "Option D": "Freezing.",
+      "Answer": "D",
+      "Explanation": "If moisture collects and Freezes in the discharge line, it can create a blockage or cause the disk to fail prematurely."
+    },
+    {
+      "SerialNo": 77,
+      "Question": "When inspecting riveted vessels the inspector should verify that rivets are of sufficient length to completely fill the rivet holes:",
+      "Option A": "without showing any depression in the sheet from the dies.",
+      "Option B": "With full rivet head showing no deformation.",
+      "Option C": "With rounded rivet heads intended into the vessel wall.",
+      "Option D": "And showing depression in the sheet from the dies to ensure tightness.",
+      "Answer": "B",
+      "Explanation": "API 572 notes that rivets must be driven such that the head is full and symmetrical, with no signs of leaking or loose fit."
+    },
+    {
+      "SerialNo": 78,
+      "Question": "Where does crevice corrosion occur?",
+      "Option A": "In the rapture disc holder",
+      "Option B": "On the rapture disc holder flanges.",
+      "Option C": "In the scores of a rupture disc.",
+      "Option D": "On the surface of the rupture disc.",
+      "Answer": "C",
+      "Explanation": "Moisture often traps in the Scores (thinned lines) of a rupture disk, leading to crevice corrosion."
+    },
+    {
+      "SerialNo": 79,
+      "Question": "An example of vessels not covered by AP 510 are:",
+      "Option A": "Vessels constructed without a construction code.",
+      "Option B": "In service vessels scheduled for decommission.",
+      "Option C": "vessels officially decommissioned from service.",
+      "Option D": "Vessels in intermittent service.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 1.1.1 applies to in-service vessels. Vessels Decommissioned or officially retired are out of scope."
+    },
+    {
+      "SerialNo": 80,
+      "Question": "Which of the following NDT methods is marginally applicable for TEE joints?",
+      "Option A": "RT.",
+      "Option B": "MT.",
+      "Option C": "PT.",
+      "Option D": "UT.",
+      "Answer": "A",
+      "Explanation": "Radiography (RT) is technically difficult for tee-joints due to the geometry and varying thickness, making it marginally applicable compared to UT."
+    }
+  ]

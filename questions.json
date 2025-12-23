@@ -1,0 +1,20 @@
+[
+    {
+      "Question": "The purpose of API 580 is to provide its users with the basic elements necessary to:",
+      "Option A": "Develop/implement/maintain RBI program & develop and implement an inspection program",
+      "Option B": "Develop/implement/maintain RBI Program with risk-prioritized/informed inspection plans",
+      "Option C": "Develop/maintain RBI Program with risk-prioritized/informed inspection plans",
+      "Option D": "Develop/implement/maintain both RBI program and Inspection program",
+      "Answer": "Option A",
+      "Explanation": "(Ref: Purpose Section 1.1, First Para.)"
+    }, 
+    {
+      "Question": "API 580 Table 4 above illustrates:",
+      "Option A": "Categorizing Safety, Health and Environmental Consequences using qualitative approach",
+      "Option B": "Categorizing Safety, Health and Environmental Consequences using quantitative approach",
+      "Option C": "An example output of Sensitivity analysis (Safety, Health and environmental consequences)",
+      "Option D": "None of these is correct",
+      "Answer": "Option A",
+      "Explanation": "Table 3 COST as an indicator of potential consequences"
+    }
+]

@@ -1,0 +1,752 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "Field metallographic replication (FMR) of nozzles is often the method used to detect (OBQ)",
+      "Option A": "brittle fracture.",
+      "Option B": "mid-wall delamination.",
+      "Option C": "the onset of fatigue damage.",
+      "Option D": "high temperature creep damage.",
+      "Answer": "D",
+      "Explanation": "FMR allows for in-situ examination of the metal's microstructure to identify creep voids or fissures (API 572)."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "When using the controlled deposition welding technique and special hardness limits are necessary for stress corrosion cracking resistance, the hardness requirements shall be included in the: (OBQ)",
+      "Option A": "PQR",
+      "Option B": "WPS",
+      "Option C": "WPS and PQR",
+      "Option D": "WPQ and WPS.",
+      "Answer": "A",
+      "Explanation": "For SCC resistance, hardness testing is an essential part of the Procedure Qualification Record (PQR) to verify the weldment properties (API 510, 8.1.7)."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Deaerators in boiler feedwater systems can be susceptible to cracking from: (OBQ)",
+      "Option A": "repeated pressure cycling.",
+      "Option B": "a corrosion fatigue mechanism.",
+      "Option C": "hot tearing in the weld heat affected zone.",
+      "Option D": "chemical treatments having a pH of 7 or higher.",
+      "Answer": "B",
+      "Explanation": "Corrosion fatigue is the primary damage mechanism in deaerators due to fluctuating thermal/mechanical stresses in a corrosive environment (API 571)."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "The density of stop wedge comparison films and densitometer calibration shall be verified by comparison with a calibrated step wedge film traceable to: (CBQ)",
+      "Option A": "film certified according to ASME Code, Section V.",
+      "Option B": "an ASTM-certified step wedge.",
+      "Option C": "an ASNT-certified procedure.",
+      "Option D": "a national standard.",
+      "Answer": "D",
+      "Explanation": "Per ASME Section V, Article 2, step wedge films must be traceable to a national standard (NIST)."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "Corrosion under insulation corrosion rates can be increased by each of the following insulation systems except that: (CBQ)",
+      "Option A": "contain chloride salts",
+      "Option B": "do not utilize vapor barriers.",
+      "Option C": "wick moisture",
+      "Option D": "are made of closed-cell foam glass.",
+      "Answer": "D",
+      "Explanation": "Closed-cell foam glass is non-wicking and does not absorb moisture, making it less likely to promote CUI (API 571)."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Pressure vessel records shall contain four different types of vessel information pertinent to its mechanical integrity Which of the following is not required? (CBQ)",
+      "Option A": "Construction and design information",
+      "Option B": "Operating and inspection history",
+      "Option C": "National Board registration",
+      "Option D": "Repair, alteration, and rerating information.",
+      "Answer": "C",
+      "Explanation": "API 510 (6.7.1) lists four specific types of records: Construction, History, Repair/Alteration, and FFS. National Board registration is not one of the four categories."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "When it is necessary to post weld heat-treat a vessel in more than one heat due to length, which of the following is the minimum overlap of the heated sections? (CBQ)",
+      "Option A": "1ft. (0.3 m)",
+      "Option B": "3 ft. (0.9 m)",
+      "Option C": "5 ft. (1.5m)",
+      "Option D": "10 ft. (3.0m).",
+      "Answer": "C",
+      "Explanation": "ASME Section VIII, Div. 1 (UW-40) requires a minimum overlap of 5 feet for multiple-heat PWHT."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "How does the non-destructive testing method of ACFM differ from magnetic particle testing? (CBQ)",
+      "Option A": "Can locate surface breaking discontinuities",
+      "Option B": "It is unable to determine the size of the discontinuities located",
+      "Option C": "It is more prone to operator errors",
+      "Option D": "Requires extensive surface preparation.",
+      "Answer": "C",
+      "Explanation": "ACFM (Alternating Current Field Measurement) is a sophisticated electronic technique that requires more expert interpretation than standard MT."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "During a calibration check of a magnetic-particle ammeter, the maximum allowable deviation(tolerance) is: (CBQ)",
+      "Option A": "±1% of full scale.",
+      "Option B": "±5% of full scale.",
+      "Option C": "±10% of full scale.",
+      "Option D": "±12.5% of full scale.",
+      "Answer": "C",
+      "Explanation": "ASME Section V, Article 7 requires the ammeter to be accurate within ±10% of the full scale."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Which of the following information would be in the tail of a weld symbol? (CBQ)",
+      "Option A": "The finish, contour, and length of welds",
+      "Option B": "Specification, process, or other reference",
+      "Option C": "Number of spot, seam, or projection welds",
+      "Option D": "Groove weld angle along with depth of bevel.",
+      "Answer": "B",
+      "Explanation": "In standard welding symbols, the tail is used for references, specifications, or processes (e.g., SMAW)."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "Internal inspection of a tower typically includes all of the following except: (OBQ)",
+      "Option A": "inspection of the feed inlet and trays below.",
+      "Option B": "inspection of the reflux inlet and adjacent shell.",
+      "Option C": "inspection of bottom nozzles and head-to-shell seam.",
+      "Option D": "shell thickness measurements and MT or RT of vapor zone below trays.",
+      "Answer": "D",
+      "Explanation": "Internal inspection is primarily visual. NDE like MT/RT for vapor zone welds is not a \"typical\" routine part of internal tower inspection unless specified (API 572)."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "Guidelines for safe work in inert confined spaces in the petroleum and petrochemical industries are found in: (CBQ)",
+      "Option A": "API publication 2217A.",
+      "Option B": "API publication 2214",
+      "Option C": "API Recommended Practice 579.",
+      "Option D": "API Recommended Practice 580.",
+      "Answer": "A",
+      "Explanation": "API 2217A is the specific standard for safe entry and work in inert (oxygen-deficient) confined spaces."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "In steam-generating equipment and piping, caustic corrosion is best prevented through: (CBQ)",
+      "Option A": "alloy upgrades",
+      "Option B": "proper design",
+      "Option C": "careful monitoring of injection points.",
+      "Option D": "periodic flushing",
+      "Answer": "B",
+      "Explanation": "Prevention of caustic corrosion starts with design to avoid concentration of caustic on hot surfaces (API 571)."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "On-stream testing of steam safety valves with special equipment that hydraulically lifts the valve stem while the valve remains in-service: (OBQ)",
+      "Option A": "verifies blowdown.",
+      "Option B": "is not allowed.",
+      "Option C": "satisfies removal needs.",
+      "Option D": "does not satisfy removal needs.",
+      "Answer": "D",
+      "Explanation": "While lift-assist testing verifies set pressure, it does not allow for the visual internal inspection required by API 576."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "When welding nickel and nickel alloys in caustic service, surface cleanliness and preparation should be achieved using: (OBQ)",
+      "Option A": "abrasive blasting.",
+      "Option B": "chemical cleaning.",
+      "Option C": "stainless-steel wire brush.",
+      "Option D": "high pressure water blasting.",
+      "Answer": "C",
+      "Explanation": "Carbon steel brushes can contaminate nickel alloys; stainless-steel brushes are required to maintain cleanliness (API 577)."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Dry powder MT on ferritic materials with nonferromagnetic coatings: applicators qualified for vertical may:",
+      "Option A": "be used in horizontal position.",
+      "Option B": "be used in overhead position.",
+      "Option C": "not be used for flat position.",
+      "Option D": "be used for any other position.",
+      "Answer": "A",
+      "Explanation": "ASME Section V, Article 7. Performance qualification for vertical position usually covers horizontal as well."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Heat exchangers in amine section: which material is more likely to have cracking issues due to carryover?",
+      "Option A": "SA-516 Gr 70, PWHT",
+      "Option B": "SA-516 Gr 70, non-PWHT",
+      "Option C": "SA-240 Gr 316L, non-PWHT",
+      "Option D": "SA-240 Gr 316L, PWHT.",
+      "Answer": "B",
+      "Explanation": "Non-PWHT carbon steel is highly susceptible to Amine Stress Corrosion Cracking (API 571)."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Which material is most susceptible to high-temperature hydrogen attack (HTHA)?",
+      "Option A": "Mn-0.5 Mo steel",
+      "Option B": "1.25Cr-0.5 Mo steel",
+      "Option C": "1.0Cr-0.5 Mo steel",
+      "Option D": "C-0.5 Mo steel.",
+      "Answer": "D",
+      "Explanation": "Per the Nelson Curves (API 941), C-0.5 Mo steel has been downgraded due to many HTHA failures compared to Cr-Mo alloys."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Rupture disk with angular seat design that fragments upon burst?",
+      "Option A": "Conventional forward acting.",
+      "Option B": "Scored tension reverse acting.",
+      "Option C": "Composite",
+      "Option D": "Graphite.",
+      "Answer": "A",
+      "Explanation": "Conventional forward-acting disks are tension-loaded and known to fragment (API 576)."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "If bulging or separating of the refractory lining is noted, then portions of the refractory:",
+      "Option A": "may be removed to permit inspection.",
+      "Option B": "should be removed, mesh installed.",
+      "Option C": "need not be removed if RT used.",
+      "Option D": "shall be removed and restored.",
+      "Answer": "A",
+      "Explanation": "API 510 (5.5.1.1) states that if lining damage is noted, portions should be removed to inspect the shell beneath."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "The probability assessment for RBI must be based on all forms of damage that:",
+      "Option A": "previously occurred.",
+      "Option B": "could reasonably be expected to affect a vessel.",
+      "Option C": "identified in API 571.",
+      "Option D": "are possible regardless of probability.",
+      "Answer": "B",
+      "Explanation": "RBI planning (API 580/510) must consider all credible damage mechanisms based on service and materials."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "Lap-joint flanges should be checked for:",
+      "Option A": "grooving of raised face.",
+      "Option B": "corrosion between flange and pipe.",
+      "Option C": "bolt-hole alignment.",
+      "Option D": "fillet weld strength.",
+      "Answer": "B",
+      "Explanation": "Crevice corrosion is a common issue in the gap between the pipe and the loose lap-joint flange (API 572)."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "SMAW repair to PWHT vessel using controlled-deposition: weld area maintained at:",
+      "Option A": "350°F± 50°F for 1 hr",
+      "Option B": "350°F± 50°F for 2 hr",
+      "Option C": "500°F ±50°F for 1 hr",
+      "Option D": "500°F± 50°F for 2 hr",
+      "Answer": "D",
+      "Explanation": "API 510 (8.1.7.4.3) requires a 500∘F±50∘F hydrogen bake-out for 2 hours post-welding for specific repairs."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "Crack-like flaws detected while pressure vessel is in operation: what should the inspector do?",
+      "Option A": "Determine if original fabrication or service-related.",
+      "Option B": "Shut down immediately.",
+      "Option C": "Schedule at next turnaround.",
+      "Option D": "Investigate only if original.",
+      "Answer": "A",
+      "Explanation": "API 510 (5.11.1) requires identifying the cause (fabrication flaw vs. active cracking) before determining the action plan."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "Cracking propagation from tray support rings to shell: acceptable method to prevent if weld repair not performed?",
+      "Option A": "Clamp installation",
+      "Option B": "Tip drilling.",
+      "Option C": "Peening",
+      "Option D": "Stress relief.",
+      "Answer": "B",
+      "Explanation": "Drilling the crack tip (stop-drilling) blunts the stress concentration to prevent further propagation in temporary scenarios."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "What document does API 510 reference for guidance on flange face in-service damage?",
+      "Option A": "API RP 572",
+      "Option B": "API RP 579",
+      "Option C": "ASME B16.5",
+      "Option D": "ASME PCC-1.",
+      "Answer": "D",
+      "Explanation": "ASME PCC-1 is the standard for post-construction bolted flange joint assembly and inspection (API 510, 5.5.3)."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "The required thickness of a pressure vessel component is defined as:",
+      "Option A": "unsafe for service",
+      "Option B": "thickness for replacement",
+      "Option C": "min thickness with CA",
+      "Option D": "min thickness without CA",
+      "Answer": "D",
+      "Explanation": "Per API 510 (3.1.58), required thickness is the calculated minimum based on design code formulas excluding corrosion allowance."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "Before starting inspection, obtain permission from:",
+      "Option A": "facility supervisor",
+      "Option B": "pressure-vessel engineer",
+      "Option C": "operating personnel",
+      "Option D": "maintenance foreman",
+      "Answer": "C",
+      "Explanation": "Operating personnel have the final authority over the safe status and entry of the equipment (API 510, 5.3)."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "If any distortion of a vessel is suspected or observed, then:",
+      "Option A": "overall dimensions should be checked.",
+      "Option B": "internal inspection ASAP.",
+      "Option C": "acoustic emission during on-stream.",
+      "Option D": "FFS evaluation necessary.",
+      "Answer": "A",
+      "Explanation": "Checking overall dimensions (plumb, roundness) is the first step to quantify suspected distortion (API 572)."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "Serving a PRV: what is used in determining the inspection interval of a PRV in service 5 years?",
+      "Option A": "cold differential set pressure",
+      "Option B": "110% of previous interval",
+      "Option C": "Previous history of the PRV.",
+      "Option D": "as-received pop pressure.",
+      "Answer": "C",
+      "Explanation": "Per API 510 (6.6.2), the service history (reliability) is the primary driver for interval settings."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "RT evaluation: light image of letter \"B\" appears on darker background: scatter radiation is:",
+      "Option A": "sufficient, but unacceptable.",
+      "Option B": "Insufficient and unacceptable.",
+      "Option C": "insufficient, but acceptable",
+      "Option D": "sufficient and acceptable.",
+      "Answer": "B",
+      "Explanation": "A light \"B\" on a darker background means backscattered radiation reached the film; the radiograph is invalid per ASME V Art 2."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "Corrosion found outside knuckle region of ellipsoidal head: appropriate formula?",
+      "Option A": "Ellipsoidal head formula",
+      "Option B": "Half of knuckle thickness",
+      "Option C": "Hemispherical head formula",
+      "Option D": "Nominal minus 2x CA",
+      "Answer": "C",
+      "Explanation": "API 510 (7.4.6) allows using the hemispherical formula for the spherical (central) portion of ellipsoidal or torispherical heads."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "Most sensitive method to locate surface cracking in carbon steel?",
+      "Option A": "Ultrasonic",
+      "Option B": "Liquid penetrant",
+      "Option C": "WFMT",
+      "Option D": "Visual.",
+      "Answer": "C",
+      "Explanation": "Wet Fluorescent Magnetic Particle Testing (WFMT) is the most sensitive method for finding fine surface cracks in ferromagnetic materials."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "The API 510 inspector shall:",
+      "Option A": "be directly involved in field inspection.",
+      "Option B": "supervise hired NDE.",
+      "Option C": "maintain certification of examiners.",
+      "Option D": "enter all data.",
+      "Answer": "A",
+      "Explanation": "API 510 (4.3.1) mandates that the inspector be directly involved in the inspection, though they may be assisted by examiners."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "Ultrasonic inspection systems used for flaw detection should be calibrated:",
+      "Option A": "before and after each examination.",
+      "Option B": "every month.",
+      "Option C": "once a week.",
+      "Option D": "before start of each shift.",
+      "Answer": "A",
+      "Explanation": "ASME Section V, Article 4 requires calibration before the start of examinations and check-outs after to ensure stability."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "What provides controls when contract inspectors are used at a site?",
+      "Option A": "local jurisdiction",
+      "Option B": "owner users inspection program",
+      "Option C": "contract company supervisor",
+      "Option D": "maintenance organization.",
+      "Answer": "B",
+      "Explanation": "The Owner-User is ultimately responsible and must maintain the quality control of all contract services (API 510, 4.2.1)."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Which type of analysis can be used for PMI testing?",
+      "Option A": "Microwave",
+      "Option B": "Thermal/infrared",
+      "Option C": "Optical spectrometry.",
+      "Option D": "Computed tomographic.",
+      "Answer": "C",
+      "Explanation": "Optical Emission Spectrometry (OES) and X-ray Fluorescence (XRF) are the two standard PMI methods (API 578)."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "Bulges and bucking in metallic linings usually indicate:",
+      "Option A": "leak in lining or welds.",
+      "Option B": "not leak tested.",
+      "Option C": "not compatible.",
+      "Option D": "oversized lining.",
+      "Answer": "A",
+      "Explanation": "Bulging is typically caused by process fluid leaking behind the liner and expanding during heating/depressurization (API 572)."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "Internal strip lining in good condition, no reason to suspect damage behind it:",
+      "Option A": "external NDE validate",
+      "Option B": "remove small portion",
+      "Option C": "substitute on-stream",
+      "Option D": "not necessary to remove linings.",
+      "Answer": "D",
+      "Explanation": "API 510 (5.5.1.1) states linings do not need to be removed if they are in good condition and there is no suspicion of damage."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "Repair band material not suitable for direct contact with fluid: is repair acceptable?",
+      "Option A": "Yes, with CA.",
+      "Option B": "No, under any circumstances.",
+      "Option C": "Yes, if replaced next TA.",
+      "Option D": "No, unless approved by Eng/Inspector.",
+      "Answer": "B",
+      "Explanation": "Temporary repairs like fillet-welded patches must consider compatibility; if the material will fail in contact with the fluid, it cannot be used."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "Planning internal insp for vessel with acidic components: expected corrosion on shell?",
+      "Option A": "Hydrogen cracking in vapor",
+      "Option B": "Hydrogen pitting in vapor",
+      "Option C": "Hydrogen blistering near liquid level",
+      "Option D": "Hydrogen embrittlement below liquid.",
+      "Answer": "C",
+      "Explanation": "Blistering occurs most often in acidic (e.g., sour) service near the liquid-to-vapor interface (API 571)."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "UT flaw detection: temp difference between calibration block and vessel surface no greater than:",
+      "Option A": "10°F (6°C)",
+      "Option B": "15°F (8°C)",
+      "Option C": "25°F (14°C)",
+      "Option D": "50°F (8°C).",
+      "Answer": "C",
+      "Explanation": "ASME Section V requires the block and vessel surface to be within 25°F to ensure sonic velocity accuracy."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "How to establish inspection interval for pressure relief devices?",
+      "Option A": "Follow manufacturer",
+      "Option B": "Every vessel inspection",
+      "Option C": "Do not exceed 10 years",
+      "Option D": "Consider performance in particular service.",
+      "Answer": "D",
+      "Explanation": "PRD intervals are performance-based, determined by their reliability in that specific process service (API 510, 6.6.2)."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "Corrective action for a welding nonconformance depends upon:",
+      "Option A": "nature and impact on properties.",
+      "Option B": "QC system in use.",
+      "Option C": "rounded vs. crack-like indications.",
+      "Option D": "possibility of leaks.",
+      "Answer": "A",
+      "Explanation": "The engineering/metallurgical impact of the flaw determines whether it is repaired, accepted, or the part replaced."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "Process not acceptable when preheating method used as alternative to PWHT?",
+      "Option A": "GMAW",
+      "Option B": "GTAW",
+      "Option C": "FCAW",
+      "Option D": "SMAW.",
+      "Answer": "C",
+      "Explanation": "API 510 (8.1.7.1) allows SMAW, GMAW, and GTAW for these repairs. FCAW is generally excluded from the PWHT substitution rules."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "Pattern of caustic cracking on steel surface appears sometimes as:",
+      "Option A": "so tight they are invisible.",
+      "Option B": "radiate from HAZ to base.",
+      "Option C": "spider web appearance initiating at weld flaws.",
+      "Option D": "run down center of weld.",
+      "Answer": "C",
+      "Explanation": "Caustic SCC often exhibits a \"spider web\" or branching pattern of fine cracks (API 571)."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "Caustic injection points are designed to allow proper mixing to avoid:",
+      "Option A": "general corrosion",
+      "Option B": "localized corrosion on hot surfaces.",
+      "Option C": "caustic SCC in low temp.",
+      "Option D": "caustic gouging.",
+      "Answer": "B",
+      "Explanation": "Steam-out or hot spots at injection points can concentrate caustic, leading to rapid localized thinning or cracking."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "Installation of fillet-welded patch on exterior:",
+      "Option A": "shell material free of defects (MT).",
+      "Option B": "rerating nameplate installed.",
+      "Option C": "not be installed on top of existing patch.",
+      "Option D": "efficiency identical to original.",
+      "Answer": "C",
+      "Explanation": "API 510 (8.1.5.1.2) prohibits stacking fillet-welded patches."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "Damage from HCl corrosion most often found in:",
+      "Option A": "chloride removal treaters",
+      "Option B": "vaporizers in cat cracker",
+      "Option C": "overhead systems of distillation towers.",
+      "Option D": "reboiler systems.",
+      "Answer": "C",
+      "Explanation": "HCl (Hydrochloric acid) condenses with water at the dew point in tower overheads, causing aggressive thinning (API 571)."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "Crack in nozzle-to-shell welded joint weld-repaired only after:",
+      "Option A": "depth confirmed with NDE",
+      "Option B": "FFS evaluation.",
+      "Option C": "notification of jurisdiction",
+      "Option D": "consultation with a pressure vessel engineer.",
+      "Answer": "D",
+      "Explanation": "API 510 (8.1.1) requires consultation with a PV engineer for repairs to certain critical locations like nozzle welds."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "Need for removing deposits or linings determined by:",
+      "Option A": "consultation with engineer.",
+      "Option B": "consultation with corrosion specialist.",
+      "Option C": "approval by owner/user.",
+      "Option D": "approval by engineer.",
+      "Answer": "B",
+      "Explanation": "The Inspector should consult a corrosion specialist if damage behind the lining is suspected (API 510, 5.3)."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "Edition of ASME code for replacing shell section constructed prior to 1999?",
+      "Option A": "1999 code",
+      "Option B": "1992 code",
+      "Option C": "Applicable construction code",
+      "Option D": "Current construction code.",
+      "Answer": "C",
+      "Explanation": "Per API 510 (8.1.2), repair design/materials should follow the code to which it was built or the current \"applicable\" code."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "Why evaluate brittle fracture potential during pneumatic test?",
+      "Option A": "High potential energy",
+      "Option B": "Lower-notch toughness",
+      "Option C": "Lower transition temp",
+      "Option D": "increased triaxial stresses.",
+      "Answer": "A",
+      "Explanation": "Compressible gases store massive potential energy compared to liquids; a brittle failure results in an explosion (API 510, 5.8.8)."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "CUI in carbon and low alloy steel usually in the form of:",
+      "Option A": "localized corrosion.",
+      "Option B": "stress corrosion cracking.",
+      "Option C": "MIC.",
+      "Option D": "galvanic corrosion.",
+      "Answer": "A",
+      "Explanation": "Carbon steel under insulation typically suffers from localized \"pothole\" style thinning (API 571)."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "Characteristic of welds from GMAW-S process not properly controlled?",
+      "Option A": "Suck-back of root",
+      "Option B": "Lack of fusion",
+      "Option C": "Excessive porosity",
+      "Option D": "Shrinkage cracks.",
+      "Answer": "B",
+      "Explanation": "Short-circuiting GMAW (GMAW-S) is prone to \"cold lap\" or lack of fusion if heat input is too low (API 577)."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "Convex bulge on seamless ellipsoidal head: most appropriate recommendation?",
+      "Option A": "replace head",
+      "Option B": "determine the extent of bulge.",
+      "Option C": "push bulge back.",
+      "Option D": "pressure-test.",
+      "Answer": "B",
+      "Explanation": "The first step in any deformation finding is to quantify and evaluate it per API 579 / API 510."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "Next inspection interval for vessels in corrosive service determined by:",
+      "Option A": "shell and heads.",
+      "Option B": "internal components.",
+      "Option C": "all nozzles.",
+      "Option D": "the limiting component.",
+      "Answer": "D",
+      "Explanation": "The inspection frequency is based on the component with the shortest remaining life (API 510, 6.5.1.1)."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "When should temporary repair be removed and replaced with permanent?",
+      "Option A": "next shut down",
+      "Option B": "next available maintenance opportunity",
+      "Option C": "rerated higher",
+      "Option D": "alterations performed.",
+      "Answer": "B",
+      "Explanation": "API 510 (8.1.5.1.1) states temporary repairs should be replaced at the next available maintenance opportunity."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "Profie RT or UT spot thickness has considerable uncertainty: other NDE techniques needed?",
+      "Option A": "A, B, and C scan UT.",
+      "Option B": "pulsed eddy current.",
+      "Option C": "magnetic flux leakage.",
+      "Option D": "TOFD or PAUT.",
+      "Answer": "A",
+      "Explanation": "Automated scanning (C-scan) provides a complete thickness map to resolve uncertainty in localized thinning."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "Type No. (2) butt welds joint efficiency if extent of RT unknown?",
+      "Option A": 0.55,
+      "Option B": 0.65,
+      "Option C": 0.7,
+      "Option D": "0.85.",
+      "Answer": "B",
+      "Explanation": "ASME Section VIII, Table UW-12. For Type 2 welds with no RT, the efficiency is 0.65."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "Long-term and short-term rates are different, remaining life should be determined:",
+      "Option A": "discretion of inspector.",
+      "Option B": "using rate reflecting current conditions.",
+      "Option C": "using rate giving shortest RL.",
+      "Option D": "using rate giving longest interval.",
+      "Answer": "B",
+      "Explanation": "API 510 (7.1.1.2) recommends using the rate that best reflects the current process environment."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "Concerning wet chemical analysis:",
+      "Option A": "removal of very small amount.",
+      "Option B": "most accurate for all elements.",
+      "Option C": "just as quick as portable XRF.",
+      "Option D": "same accuracy as portable XRF.",
+      "Answer": "B",
+      "Explanation": "Wet chemistry in a lab is the \"gold standard\" for accuracy, though it is destructive and slow compared to XRF/OES."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "First step in preparation for an internal vessel inspection?",
+      "Option A": "permit for field inspection",
+      "Option B": "Review of previous records of inspection",
+      "Option C": "Testing atmosphere",
+      "Option D": "Visual inspection of exterior.",
+      "Answer": "B",
+      "Explanation": "Reviewing history allows the inspector to target areas of known concern (API 510, 5.3)."
+    },
+    {
+      "SerialNo": 64,
+      "Question": "Replacement nozzle design shall employ what strength factor?",
+      "Option A": "Same stress criteria as used for design",
+      "Option B": "2/3 yield",
+      "Option C": "current edition stress",
+      "Option D": "1/4 max tensile.",
+      "Answer": "A",
+      "Explanation": "Per API 510 (8.2.1), the design of repairs/reratings must follow the original construction code's allowable stress."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "RT of welds under 2-in shell: geometric unsharpness should not exceed:",
+      "Option A": "0.020 in. (0.50 mm).",
+      "Option B": "0.030 in (0.76 mm).",
+      "Option C": "0.040 in. (1.02 mm).",
+      "Option D": "0.050 in. (1.24 mm).",
+      "Answer": "A",
+      "Explanation": "Per ASME Section V, Article 2, for material thickness under 2 inches, Ug​ max is 0.020\"."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "In process service, brittle fracture is a main concern:",
+      "Option A": "start-up and shut-down.",
+      "Option B": "overpressure.",
+      "Option C": "transient stresses on piping.",
+      "Option D": "high temp transient stresses.",
+      "Answer": "A",
+      "Explanation": "Equipment is often at its lowest temperature and high stress during start-up or shut-down (API 571)."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "NDE method applied to detect damage to refractory while vessel is in service?",
+      "Option A": "Radiography",
+      "Option B": "Acoustic emission",
+      "Option C": "Eddy current testing",
+      "Option D": "Infrared thermography.",
+      "Answer": "D",
+      "Explanation": "Thermography detects \"hot spots\" on the shell that indicate refractory failure (API 572)."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "Important information for POF assessment for RBI will come from:",
+      "Option A": "equipment failure data.",
+      "Option B": "likelihood of ignition",
+      "Option C": "probability of rupture",
+      "Option D": "probability of extended downtime.",
+      "Answer": "A",
+      "Explanation": "Probability of Failure (POF) in RBI is largely determined by historical damage and failure data (API 580)."
+    },
+    {
+      "SerialNo": 69,
+      "Question": "Used to establish MAWP for continued use without rerating?",
+      "Option A": "applicable construction code.",
+      "Option B": "Original edition of API 510",
+      "Option C": "Latest edition of API 510",
+      "Option D": "Latest edition of ASME Section IV.",
+      "Answer": "A",
+      "Explanation": "The code used for the original design/construction defines the MAWP limits (API 510, 7.2.1)."
+    },
+    {
+      "SerialNo": 70,
+      "Question": "API Code requirements for maintaining thickness measurement records:",
+      "Option A": "records of last measurements.",
+      "Option B": "records controlling the rate.",
+      "Option C": "progressive records of thinnest component.",
+      "Option D": "progressive records of all measurements.",
+      "Answer": "D",
+      "Explanation": "API 510 (6.7.1) requires keeping progressive (historical) records of all thickness measurements to establish rates."
+    },
+    {
+      "SerialNo": 71,
+      "Question": "Minimum number of CMLs is acceptable if:",
+      "Option A": "large CA",
+      "Option B": "internal inspections scheduled",
+      "Option C": "insulated",
+      "Option D": "established corrosion rate is low and not localized.",
+      "Answer": "D",
+      "Explanation": "If corrosion is uniform and predictable, fewer measurement points are required (API 510, 5.6.3)."
+    },
+    {
+      "SerialNo": 72,
+      "Question": "Non-continuous service protected from internal corrosion: maximum internal interval shall be:",
+      "Option A": "5 years",
+      "Option B": "10 years of actual service-exposed life.",
+      "Option C": "10 calendar years from last insp.",
+      "Option D": "half-life of calendar time.",
+      "Answer": "B",
+      "Explanation": "Per API 510 (6.5.1.1), for vessels in non-continuous service, the interval is 10 years of actual service if protected while idle."
+    },
+    {
+      "SerialNo": 73,
+      "Question": "External inspection reveals anchor bolts corroding: which test determines overall condition?",
+      "Option A": "Radiography",
+      "Option B": "Hammer testing",
+      "Option C": "Scraping rust",
+      "Option D": "Visual inspection.",
+      "Answer": "B",
+      "Explanation": "Hammer testing checks for the integrity of the bolt shank and its bond/tightness (API 572)."
+    },
+    {
+      "SerialNo": 74,
+      "Question": "AWS classification number identifies:",
+      "Option A": "welding procedure specification.",
+      "Option B": "shielding gas.",
+      "Option C": "electrodes and welding rods.",
+      "Option D": "welding progression.",
+      "Answer": "C",
+      "Explanation": "For example, E7018: E stands for Electrode, the numbers define strength and coating (API 577)."
+    },
+    {
+      "SerialNo": 75,
+      "Question": "When the location and ownership of a pressure vessel are changed:",
+      "Option A": "shall always be internally and externally inspected.",
+      "Option B": "internally inspected if records missing.",
+      "Option C": "only externally inspected.",
+      "Option D": "not required unless requested.",
+      "Answer": "A",
+      "Explanation": "API 510 (6.2.2.2) requires a full inspection when both ownership and location change to ensure it is fit for the new service."
+    }
+  ]

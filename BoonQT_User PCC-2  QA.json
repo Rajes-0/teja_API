@@ -1,0 +1,762 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "As per PCC-2 which of the following testing methods are not used to check the integrity of the system? (CBQ)",
+      "Option A": "Hydrostatic testing.",
+      "Option B": "Pneumatic testing.",
+      "Option C": "Tightness testing.",
+      "Option D": "All are used to check the integrity.",
+      "Answer": "D",
+      "Explanation": "PCC-2 Part 5 explicitly details Hydrostatic, Pneumatic, and Tightness testing as valid integrity/leak verification methods."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "As per PCC-2 when a pressure testing may not be required? (OBQ)",
+      "Option A": "After alteration.",
+      "Option B": "After major repair.",
+      "Option C": "After re rating using a higher allowable stress.",
+      "Option D": "After relating using a lower allowable stress.",
+      "Answer": "D",
+      "Explanation": "Pressure testing is intended to validate strength at higher loads. De-rating to a lower stress means the original test was more strenuous than current requirements."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "As per PCC-2 use of a test device for localized pressure testing may be considered when any of the following conditions exist except: (OBQ)",
+      "Option A": "Other welds in the system under consideration have already been tested or are exempt from testing.",
+      "Option B": "Brittle fracture is not a consideration.",
+      "Option C": "There is a need to minimize the amount of test fluid and/or avoid contamination of process items in the system, such as catalyst, linings, refractory, or other process equipment.",
+      "Option D": "A repair versus an alteration has been performed.",
+      "Answer": "D",
+      "Explanation": "Localized testing is chosen based on technical constraints (fluid, contamination, isolation), not simply based on the administrative category of \"repair vs alteration.\""
+    },
+    {
+      "SerialNo": 4,
+      "Question": "The preferred testing medium for pneumatic testing as per PCC-2 is: (CBQ)",
+      "Option A": "Nitrogen.",
+      "Option B": "Compressed air.",
+      "Option C": "inert gas.",
+      "Option D": "Any of the above.",
+      "Answer": "C",
+      "Explanation": "While nitrogen and air are common, PCC-2 and API 510 prefer dry, non-flammable inert gases to ensure safety and prevent oxidation."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "Which of the following are reasons for pressure testing of new constructions as per PCC-2? (CBQ)",
+      "Option A": "Checks for leakage of mechanical and welded joints.",
+      "Option B": "May avoid an in-service failure and associated safety issues",
+      "Option C": "Screens out gross design, material, fabrication deficiencies and provides mechanical stress relief.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "These represent the three core engineering goals of any pressure test: leak detection, safety verification, and structural validation."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "In insert plate repair method, as per PCC-2 rectangular and square insert plates of 20 mm thickness shall have corners rounded to a minimum radius equal to: (OBQ)",
+      "Option A": "3 times insert plate thickness i.e 60mm.",
+      "Option B": "6 times insert plate thickness i.e120mm.",
+      "Option C": "75 mm.",
+      "Option D": "150 mm.",
+      "Answer": "A",
+      "Explanation": "Per Article 2.1, corners of rectangular/square insert plates shall be rounded to a radius of at least 3t (3×20=60)."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "A corroded area on non-post weld heat-treated cylindrical shell was completely removed by making a 150mm diameter opening, which is to be repaired by using circular Butt-welded Insert Plates. What will be Minimum diameter of Insert Plate as per PCC-2? (OBQ)",
+      "Option A": "Lesser of 12t or 380 mm (where t is the thickness of the parent material).",
+      "Option B": "Greater of 12t or 380 mm (where t is the thickness of the parent material).",
+      "Option C": "150mm diameter.",
+      "Option D": "300 mm diameter.",
+      "Answer": "B",
+      "Explanation": "PCC-2 Article 2.1 specifies the minimum diameter of a circular insert plate as the greater of 12t or 380 mm (15 in.)."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "For Pre-qualified Design, for repair made with “External Weld Overlay to Repair Internal Thinning” in accordance with PCC-2, the maximum dimension (L, length along axis) compensated by a circular, oval, or rectangular overlay should not exceed: (OBQ)",
+      "Option A": "One-half the nominal outside diameter of the component.",
+      "Option B": "200 mm (8 in.).",
+      "Option C": "Lesser of one-half the nominal outside diameter of the component or 200 mm (8 in.).",
+      "Option D": "Higher of one-half the nominal outside diameter of the component or 200 mm (8 in.).",
+      "Answer": "C",
+      "Explanation": "Article 2.9 (External Weld Buildup) limits the axial length L for pre-qualified designs to the lesser of D/2 or 200mm."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "In context of ASME PCC-2, the total depth of overlay or back cladding shall be ------------ thickness, unless otherwise specified. (CBQ)",
+      "Option A": "3 mm (1?8 in.) or lower.",
+      "Option B": "3 mm (1?8 in.) or greater.",
+      "Option C": "1.5 mm (1?16 in.) or greater.",
+      "Option D": "1.5 mm (1?16 in.) or lower.",
+      "Answer": "B",
+      "Explanation": "Standard repair practices for cladding/overlay usually specify a minimum of 3mm (1/8 in) to ensure chemical/corrosion protection integrity."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "As per PCC-2 in Fillet Welded Patches repair method, in addition to completely encompassing the damaged area the size (length and width) of the patch plate shall also be large enough to encompass any additional area anticipated to experience similar damage during the life of the repair and the patch plate should overlap sound base metal by distance at least ---------- (OBQ)",
+      "Option A": "25 mm (1 in.).",
+      "Option B": "50 mm (2 in.).",
+      "Option C": "Equal to nominal wall thickness of component.",
+      "Option D": "Twice the nominal wall thickness of component.",
+      "Answer": "A",
+      "Explanation": "PCC-2 Article 2.12 (Fillet Welded Patches) requires a minimum overlap on sound metal of 25mm (1 inch)."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "According to ASME PCC-2 guidelines, for “repair by weld” on base metal, if weld thickness is -------------then it should be examined by volumetric examination methods such as radiographic or ultrasonic testing. (OBQ)",
+      "Option A": "Over 19 mm (3?4 in.) thick.",
+      "Option B": "Over 25 mm (1 in.) thick.",
+      "Option C": "Over 9.5 mm (3?8 in.) thick.",
+      "Option D": "Over 12.7 mm (1?2 in.) thick.",
+      "Answer": "A",
+      "Explanation": "Consistent with ASME Section VIII and PCC-2, welds over 19mm (3/4 in) typically require volumetric NDE to ensure internal soundness."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "As per PCC-2 unless an engineering evaluation is performed for shell and tube Heat exchangers, tube plugging with Friction fit tapered plugs can be done only if: (OBQ)",
+      "Option A": "shell-side operating pressure is 1.5 MPa (200 psi)or less.",
+      "Option B": "shell-side operating temperature 205°C (400°F)or less.",
+      "Option C": "tube-to-tube sheet joints are expanded and not welded.",
+      "Option D": "All above conditions must be met.",
+      "Answer": "D",
+      "Explanation": "Friction fit plugs are temporary and have strict pressure/temperature limits per Article 3.1 unless fully engineered."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "As per PCC-2, The excavated “boat samples‟ have which of following advantages? (OBQ)",
+      "Option A": "The cavity left by the removal of the sample is very conducive to repair welding.",
+      "Option B": "The tapered nature of the cavity allow complete access for most welding processes.",
+      "Option C": "Sloping curvature of the cavity allow complete access for most welding processes.",
+      "Option D": "All of above.",
+      "Answer": "D",
+      "Explanation": "Boat samples (curved, tapered cuts) are designed specifically to allow easy welding access for restoration."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "According to ASME PCC-2 guidelines for conducting a pneumatic tightness test, the test pressure should be no less than: (OBQ)",
+      "Option A": "The higher of 105 kPa (15 psi) or 25% of the system design pressure.",
+      "Option B": "105 kPa (15 psi).",
+      "Option C": "25% of the system design pressure.",
+      "Option D": "The lesser of 105 kPa (15 psi) or 25% of the system design pressure.",
+      "Answer": "D",
+      "Explanation": "For tightness (not strength) tests, the pressure is lower, defined as the lesser of 15 psi or 25% of design."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "As per PCC-2 “Butt-welded Insert Plates in Pressure Components” is considered generally appropriate repair method for which of the following defects: (CBQ)",
+      "Option A": "General Wall Thinning.",
+      "Option B": "Local Wall Thinning.",
+      "Option C": "Circumferential and Longitudinal Cracks.",
+      "Option D": "All of above.",
+      "Answer": "D",
+      "Explanation": "Flush-mounted insert plates are permanent repairs suitable for both thinning and crack removal."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "As per PCC-2 for “doghouse” type insert plate having its edge abutting with existing longitudinal weld, what length of existing weld shall be cut on each side of insert plate and re-welded: (OBQ)",
+      "Option A": "150 mm maximum.",
+      "Option B": "Minimum 6 times thickness of insert plate.",
+      "Option C": "150 mm minimum.",
+      "Option D": "Lower of b and c.",
+      "Answer": "C",
+      "Explanation": "This \"cut back\" (usually 150mm or 6 inches) is required to ensure a smooth transition and avoid high stress concentrations at the intersection."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "As per PCC-2 for “doghouse” type insert plate having its edge abutting with existing longitudinal weld, certain length of existing weld shall be cut on each side of insert plate and re-welded. What NDT should be performed on this weld? (OBQ)",
+      "Option A": "Full RT.",
+      "Option B": "Full UT.",
+      "Option C": "Full RT or UT and MT or PT both sides of weld.",
+      "Option D": "Any one of a,b,c.",
+      "Answer": "C",
+      "Explanation": "Integrity of critical intersections in \"doghouse\" repairs requires both volumetric (RT/UT) and surface (MT/PT) NDE."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "As per PCC-2, non-post weld heat-treated vessel 25 mm thick was repaired using square insert plates of 25 mm thickness. Butt welds around the periphery of this insert plates shall be spaced no closer to existing welds than------.(OBQ)",
+      "Option A": "250mm.",
+      "Option B": "80 mm.",
+      "Option C": "6 times thickness of insert plate ( 150 mm).",
+      "Option D": "8 times thickness of insert plate ( 200 mm.).",
+      "Answer": "C",
+      "Explanation": "PCC-2 Article 2.1 recommends a minimum distance between weld toes of 6t (6×25=150 mm) to avoid overlapping heat affected zones (HAZ)."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "The outer diameter of cylindrical shell is 640 mm and nominal wall thickness of the shell is 20mm is to be repaired by “External Weld build up to Repair Internal Thinning”. As per PCC-2 external Weld build up shall extend on base Metal beyond the affected base metal for a minimum distance, B, equal to: (OBQ)",
+      "Option A": "40mm (twice nominal wall thickness).",
+      "Option B": "60mm.",
+      "Option C": "80mm.",
+      "Option D": "None of above.",
+      "Answer": "C",
+      "Explanation": "Distance B=Rt​. Here R=320, t=20. 320×20​=6400​=80 mm."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "A cylindrical shell 30mm thick was repaired by depositing 20mm “ External Weld build up to Repair Internal Thinning”. The corners of the weld overlay shall be rounded to what radius as per PCC-2 (CBQ)",
+      "Option A": "Maximum 20mm.",
+      "Option B": "Minimum 20mm.",
+      "Option C": "Minimum 30mm.",
+      "Option D": "Maximum 30mm.",
+      "Answer": "B",
+      "Explanation": "The minimum corner radius for the overlay patch should be equal to the thickness of the overlay itself (20mm)."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "A cylindrical shell 32mm thick is to be repaired by depositing “External Weld build up to Repair Internal Thinning”. According to ASME PCC-2 guidelines, what is the maximum thickness which can be deposited for such repair? (CBQ)",
+      "Option A": "75% of wall thickness 24mm.",
+      "Option B": "150% of wall thickness, 48mm.",
+      "Option C": "50% of wall thickness, 16mm.",
+      "Option D": "100% of wall thickness, 32mm.",
+      "Answer": "D",
+      "Explanation": "Per Article 2.9, the buildup thickness is generally limited to 100% of the base metal thickness to maintain structural balance."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "There are two sources of water, A and B, with chloride content of 70 ppm and 40 ppm respectively. As per ASME PCC-2, which water can be used for Hydro testing of austenitic steel vessels or piping systems? (CBQ)",
+      "Option A": "Both A and B are OK.",
+      "Option B": "Only A is OK.",
+      "Option C": "Only B is OK.",
+      "Option D": "Both are not OK.",
+      "Answer": "C",
+      "Explanation": "For austenitic stainless steel, the chloride content in test water must be less than 50 ppm to prevent stress corrosion cracking (SCC)."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "The calculated stored energy of Pressure vessel under Pneumatic testing is 81,30,000 J (6000,000 ft-lb), According to ASME PCC-2, considering this stored energy, the minimum safe distance between all personnel and the equipment being pneumatically tested should be: (OBQ)",
+      "Option A": "10 metres.",
+      "Option B": "30 metres.",
+      "Option C": "60 metres.",
+      "Option D": "100 metres.",
+      "Answer": "C",
+      "Explanation": "Based on the safe distance formula and tables in PCC-2 Article 5.1, this level of stored energy requires a 60m exclusion zone."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "As per PCC-2 pneumatic tightness test is to be performed on a piping system with Design pressure of 200 psi. According to ASME PCC-2 guidelines, the maximum test pressure should be not more than: (OBQ)",
+      "Option A": "70 psi.",
+      "Option B": "100 psi.",
+      "Option C": "200 psi.",
+      "Option D": "220 psi.",
+      "Answer": "C",
+      "Explanation": "Unlike strength tests (1.1x), a tightness test pressure is typically the design pressure unless a lower value is specified for leak finding."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "As per PCC-2 , weld build up shall not be used for structural reinforcement when there is indication of any: (CBQ)",
+      "Option A": "Cracking.",
+      "Option B": "Thinning.",
+      "Option C": "Bulging.",
+      "Option D": "Any of the above.",
+      "Answer": "A",
+      "Explanation": "Weld buildup is for wall thinning; it cannot \"fix\" cracks, which must be fully removed/excavated before any welding."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "As per PCC-2 when hydrogen cracking is a concern in service welding should be examined after: (CBQ)",
+      "Option A": "24 hours after welding.",
+      "Option B": "24 to 72 hours after welding.",
+      "Option C": "24 to 48 hours after welding.",
+      "Option D": "12 to 24 hours after welding.",
+      "Answer": "C",
+      "Explanation": "Delayed hydrogen cracking (cold cracking) typically manifests within 48 hours; hence inspection is timed for this window."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "How many side bends are required for in service welding procedure qualification of fillet welds of 12mm thick as per PCC-2? (OBQ)",
+      "Option A": 4,
+      "Option B": 2,
+      "Option C": 0,
+      "Option D": 1,
+      "Answer": "B",
+      "Explanation": "Standard procedure qualification for in-service fillet welds per Article 2.10 usually requires 2 side bend tests."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "As per PCC-2 fillet Weld batches repair method is applicable up to maximum temperature of: (OBQ)",
+      "Option A": "650-degree Fahrenheit.",
+      "Option B": "200 degrees Fahrenheit.",
+      "Option C": "100-degree Fahrenheit.",
+      "Option D": "Temperature is not a criterion.",
+      "Answer": "D",
+      "Explanation": "The temperature is limited by the patch material and service compatibility, but PCC-2 does not set a generic numerical \"cap\" for the method itself."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "As per PCC-2,Hot tapping in service welding of carbon steel should not be done for hydrogen service operating above what temperature? (OBQ)",
+      "Option A": "200°F.",
+      "Option B": "400°F.",
+      "Option C": "100°F.",
+      "Option D": "No temperature limitation.",
+      "Answer": "A",
+      "Explanation": "Hydrogen service above 200°F (93°C) significantly increases the risk of High-Temperature Hydrogen Attack (HTHA) and cracking during welding."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "As per PCC-2 If wall thickness of pressure equipment is 15 mm what should be the minimum distance between the hot tapping nozzle and weld seam? (OBQ)",
+      "Option A": "150 mm.",
+      "Option B": "120 mm.",
+      "Option C": "300 mm.",
+      "Option D": "100 mm.",
+      "Answer": "A",
+      "Explanation": "A standard spacing of 150mm (6 in.) is used to avoid heat-affected zone overlap with existing seams."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "As per PCC-2 ,an abrasive process that is used to obtain a fine finish on the inside surface of a cylindrical component is: (CBQ)",
+      "Option A": "honing.",
+      "Option B": "Machining.",
+      "Option C": "Lapping.",
+      "Option D": "Grinding.",
+      "Answer": "A",
+      "Explanation": "Honing is the specific term for fine internal cylindrical abrasive finishing."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "In accordance with PCC-2 what is the maximum roughness allowed for ring joint flange? (OBQ)",
+      "Option A": "63 ?in.",
+      "Option B": "125 ?in.",
+      "Option C": "125 to 250 ?in.",
+      "Option D": "250 ?in.",
+      "Answer": "A",
+      "Explanation": "Ring Type Joint (RTJ) flanges require a very smooth finish (63 μin) to ensure the metal-to-metal seal is effective."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "As per PCC-2 for heat exchangers critical to the operation total replacement of tube bundles required when inspected tube bundles indicates a wall loss of: (OBQ)",
+      "Option A": "20% to 40%.",
+      "Option B": "40% or more.",
+      "Option C": "10% or more.",
+      "Option D": "More than 50%.",
+      "Answer": "B",
+      "Explanation": "Per Article 3.1, a 40% wall loss is the common threshold for bundle replacement in critical service."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "If a thinner insert plate than the nominal thickness of the material it welds into must be used, it shall be evaluated for: (OBQ)",
+      "Option A": "fatigue due to cyclic loading.",
+      "Option B": "Thickness difference.",
+      "Option C": "Normal and upset loading.",
+      "Option D": "Stress corrosion cracks.",
+      "Answer": "C",
+      "Explanation": "The engineering evaluation must ensure the thinner plate can withstand all operating conditions (Normal/Upset)."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "As per PCC-2 for carbon and low alloy steel nozzle/manway assemblies for which the nozzle-to-butt patch (shell) weld is not post weld heat treated before or after the assembly is welded into the shell, the diameter of the insert plate needed to maintain a minimum distance of ____between the nozzle attachment weld and nearest edge of insert plate butt weld: (OBQ)",
+      "Option A": "250mm.",
+      "Option B": "150 mm.",
+      "Option C": "6 times thickness of insert plate ( 150 mm).",
+      "Option D": "8 times thickness of insert plate ( 200 mm.).",
+      "Answer": "B",
+      "Explanation": "150mm (6 in.) is the standard \"clearance\" distance between welds in these configurations."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "As per PCC-2,external weld build up to repair internal thinning for outer diameter of 40 inches and nominal thickness of 0.5 inches what is the minimum distance the weld shall extend beyond the affected base metal (OBQ)?",
+      "Option A": "3 inches.",
+      "Option B": "2.37 inch.",
+      "Option C": "4 inches.",
+      "Option D": "6.27 inches.",
+      "Answer": "A",
+      "Explanation": "Calculation B=Rt​=20×0.5​=3.16. 3 inches is the closest practical guideline."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "As per PCC-2 external weld build up to repair internal thinning for outer diameter of 40 inches and nominal thickness of 0.5 inches what is the minimum distance required between any two build ups (OBQ)?",
+      "Option A": "3 inches.",
+      "Option B": "2.37 inch.",
+      "Option C": "4 inches.",
+      "Option D": "6.27 inches.",
+      "Answer": "D",
+      "Explanation": "The spacing w between patches should be at least 2Rt​ (2×3.16=6.32). 6.27 is the nearest option."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "In external weld build up to repair internal thinning, as per PCC-2 if the pressure component can be isolated for pressure testing, all repair locations shall be pressure tested if required by the: (OBQ)",
+      "Option A": "applicable post-construction code.",
+      "Option B": "before insulation or coatings.",
+      "Option C": "after coating but before insulation.",
+      "Option D": "both (a) and (b).",
+      "Answer": "D",
+      "Explanation": "Testing must comply with the code (API 510) and be performed while joints are visible (before coating/insulation)."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "in service welding of thin wall 4.8 mm or less is possible without burn through if: (CBQ)",
+      "Option A": "2.4 mm electrode is used with less travel speed.",
+      "Option B": "2.4 mm electrode is used to control heat input.",
+      "Option C": "5.0 mm electrode is used to with less travel speed.",
+      "Option D": "2.4 mm electrode is used to control travel speed.",
+      "Answer": "B",
+      "Explanation": "Small diameter electrodes (2.4mm / 3/32\") are used specifically to minimize heat input and prevent blowing through the thin wall."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "As per PCC-2 during hot tapping what is the minimum distance required between hot tap location and small bore or riveted joints if inside radius is 36 inches and measured thickness is 0.35 inches? (OBQ)",
+      "Option A": "6 inches.",
+      "Option B": "2.8 inches.",
+      "Option C": "17.7 inches.",
+      "Option D": "8 inches.",
+      "Answer": "D",
+      "Explanation": "Based on the calculation 2.5Rt​ for spacing, which results in approx 8.8 inches. 8 is the closest selection."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "As per PCC-2 the minimum wall thickness required at hot tap location of set on type fitting is: (OBQ)",
+      "Option A": "4.0 mm.",
+      "Option B": "6.3 mm.",
+      "Option C": "4.8 mm.",
+      "Option D": "3.2 mm.",
+      "Answer": "C",
+      "Explanation": "4.8mm (3/16\") is the absolute minimum wall thickness allowed for hot tap welding to prevent burn-through."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "As per PCC-2 under-thickness of a raised face due to refinishing shall be acceptable, provided the minimum finished height of the raised face is: (OBQ)",
+      "Option A": "1.6 mm.",
+      "Option B": "6.4 mm.",
+      "Option C": "0.8 mm.",
+      "Option D": "2.0 mm.",
+      "Answer": "C",
+      "Explanation": "0.8mm (1/32\") is the minimum height allowed for a refinished raised face per Article 4.1."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "As per PCC-2 when weld metal build up is required, postweld heat treatment shall be performed _____if required by an applicable new construction or post-construction code: (CBQ)",
+      "Option A": "after flange face machining.",
+      "Option B": "prior to flange face machining.",
+      "Option C": "prior to flange face build up.",
+      "Option D": "after flange face build up.",
+      "Answer": "B",
+      "Explanation": "PWHT must be done before final machining because the heat treatment can cause distortion that would ruin the machined finish."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "As per PCC-2 which of the following surface NDE methods can be used when NDE is substituted for pressure testing? (CBQ)",
+      "Option A": "magnetic particle.",
+      "Option B": "magnetic particle or liquid penetrant.",
+      "Option C": "eddy current or magnetic flux leakage.",
+      "Option D": "any of the above.",
+      "Answer": "B",
+      "Explanation": "Standard surface NDE substitutes for pressure testing in ASME codes are MT and PT."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "As per PCC-2 after removal of any damaged stainless steel weld overlay carbon steel surfaces should be examined with which of the following testing methods to verify complete removal of stainless steel? (OBQ)",
+      "Option A": "copper sulfate solution testing.",
+      "Option B": "hydro chloric acid solution testing.",
+      "Option C": "material verification program.",
+      "Option D": "any of the above.",
+      "Answer": "A",
+      "Explanation": "Copper sulfate will react with carbon steel but not with stainless steel, making it an easy indicator."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "As per PCC-2 when repair welding chromium molybdenum steels which of the following heat treatment methods should be used to prevent hardening and cold cracking of welds? (CBQ)",
+      "Option A": "preheating.",
+      "Option B": "post heating.",
+      "Option C": "dehydrogenation heat treatment.",
+      "Option D": "all the above are mandatory.",
+      "Answer": "D",
+      "Explanation": "Cr-Mo steels are highly air-hardenable; all three stages (pre, post, and de-hy) are critical for crack prevention."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "As per PCC-2 when repair welding chromium molybdenum steels dehydrogenation heat treatment shall be maintained for? (OBQ)",
+      "Option A": "570°F for 1 hour.",
+      "Option B": "370°F for 1 hour.",
+      "Option C": "500°F for 1 hour.",
+      "Option D": "500°F for 2 hours.",
+      "Answer": "C",
+      "Explanation": "Dehydrogenation (Hydrogen Bake-out) is typically performed at 500-600°F for at least 1 hour."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "As per PCC-2 the following surface NDT methods can be substituted for pressure testing except: (OBQ)",
+      "Option A": "MT or PT.",
+      "Option B": "MFL.",
+      "Option C": "Eddy current.",
+      "Option D": "ACFM.",
+      "Answer": "B",
+      "Explanation": "MFL (Magnetic Flux Leakage) is used for tank floors, not typically as a pressure test substitute for pressure vessels."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "As per PCC-2 the following volumetric NDT methods can be substituted for pressure testing except: (OBQ)",
+      "Option A": "RT.",
+      "Option B": "UT.",
+      "Option C": "Eddy current.",
+      "Option D": "TOFD.",
+      "Answer": "C",
+      "Explanation": "Eddy current is a surface/near-surface technique; RT, UT, and TOFD are true volumetric methods."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "In accordance with PCC-2 what is the roughness allowed for serrated concentric or serrated spiral finish flange surface? (OBQ)",
+      "Option A": "63 ?in.",
+      "Option B": "125 ?in.",
+      "Option C": "125 to 250 ?in.",
+      "Option D": "250 ?in.",
+      "Answer": "C",
+      "Explanation": "This is the standard finish for typical gaskets (125-250 μin)."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "As per PCC-2 tightness test, the applied test pressure for pressure vessels and piping should not exceed: (OBQ)",
+      "Option A": "70 psi.",
+      "Option B": "35 % of design pressure.",
+      "Option C": "35 % of operating pressure.",
+      "Option D": "220 psi.",
+      "Answer": "B",
+      "Explanation": "Tightness tests are conducted at low pressures, capped at 25-35% of design pressure."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "As per PCC-2. For pneumatic tightness test, preliminary inspection for leaks should be conducted at: (OBQ)",
+      "Option A": "70 psi.",
+      "Option B": "lesser of 25 psi or 25 % of test pressure.",
+      "Option C": "lesser of 15 psi or 25 % of test pressure.",
+      "Option D": "greater of 25 psi or 25 % of test pressure.",
+      "Answer": "B",
+      "Explanation": "This is a safety step to find large leaks before reaching full test pressure."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "According to ASME PCC 2 The accessible surfaces of insert plate butt welds shall preferably be ground to a smooth contour, or flush if warranted by the service conditions. The reduction of thickness due to grinding shall not exceed: (OBQ).",
+      "Option A": "0.8 mm (1/32 in.) or 10% of the nominal thickness of the adjoining surface, whichever is less.",
+      "Option B": "0.8 mm (1/32 in.) or 10% of the nominal thickness of the adjoining surface, whichever is greater.",
+      "Option C": "1.6 mm (1/16 in.) or 10 % of the nominal thickness of the adjoining surface, whichever is less.",
+      "Option D": "0.4 mm (1/64 in.) or 5% of the nominal thickness of the adjoining surface, whichever is less.",
+      "Answer": "A",
+      "Explanation": "Grinding must not compromise the required thickness; the 10% or 0.8mm limit is standard."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "In external weld build up to repair internal thinning, as per PCC-2 when pressure testing is not practical what is allowed? (OBQ)",
+      "Option A": "Volumetric non-destructive examination may be performed.",
+      "Option B": "Leak testing may be required to satisfy post-construction code requirements.",
+      "Option C": "inspector approval required.",
+      "Option D": "either (a) or (b)",
+      "Answer": "D",
+      "Explanation": "If pressure testing isn't feasible, NDE (volumetric) or a lower-pressure leak test is used."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "According to ASME PCC-2 during in service welding which technique is commonly used to reduce the susceptibility of forming a crack susceptible microstructure? (OBQ)",
+      "Option A": "use of preheat.",
+      "Option B": "use of PWHT.",
+      "Option C": "use of post heating.",
+      "Option D": "All of the above.",
+      "Answer": "A",
+      "Explanation": "Preheating is the primary method to slow the cooling rate and prevent martensite formation during in-service welding."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "According to ASME PCC-2 during in service welding an adjustment in flow during in-service welding: (CBQ).",
+      "Option A": "allowed.",
+      "Option B": "may increase hydrogen cracking risk.",
+      "Option C": "may increase hot cracking risk.",
+      "Option D": "Recommended.",
+      "Answer": "B",
+      "Explanation": "Changing the flow changes the cooling rate (heat sink effect), which can lead to hardening and cracking."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "According to ASME PCC-2 during in service welding procedures include all the following except: (OBQ)",
+      "Option A": "in-service fillet weld.",
+      "Option B": "in-service butt weld.",
+      "Option C": "in-service attachment weld.",
+      "Option D": "in-service weld metal buildup.",
+      "Answer": "B",
+      "Explanation": "In-service butt welds are extremely high risk and generally avoided; most in-service welding involves fillets or buildup."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "According to ASME PCC-2 during in service welding a change in the heat input from the qualified welding procedure range shall: (CBQ)",
+      "Option A": "requires requalification.",
+      "Option B": "requires owner approval.",
+      "Option C": "requires inspector approval.",
+      "Option D": "Allowed because heat input is non-essential variable.",
+      "Answer": "A",
+      "Explanation": "For in-service welding, heat input is an essential variable because it directly controls the risk of burn-through."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "According to ASME PCC-2 prior to repair welding consideration should be given to: (OBQ)",
+      "Option A": "Causes of the damage.",
+      "Option B": "Cost of permanent replacement.",
+      "Option C": "Qualifying the repair procedure.",
+      "Option D": "Type of NDE utilized to locate damage.",
+      "Answer": "A",
+      "Explanation": "Understanding the cause of damage is paramount; otherwise, the repair may fail for the same reason."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "As stated in ASME PCC-2 for application of the first overlay pass, heat input shall be minimized to: (OBQ)",
+      "Option A": "minimize the heat affected zone.",
+      "Option B": "allow for use of small diameter electrodes.",
+      "Option C": "eliminate the need for post weld heat treatment.",
+      "Option D": "prevent burn through or distortion on thin shells.",
+      "Answer": "D",
+      "Explanation": "The first pass is the most likely to burn through since the remaining wall is thinnest at that point."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "As stated in ASME PCC-2 in fillet weld patch repair Paint, scale, rust, liquids, and other foreign material shall be removed from the weld zone and an area: (OBQ)",
+      "Option A": "not less than 40 mm (1.5 in.) on either side of the weldment.",
+      "Option B": "not less than 25 mm (1.0 in.) on either side of the weldment.",
+      "Option C": "not less than 50 mm (2.0 in.) on either side of the weldment.",
+      "Option D": "not more than 50 mm (2.0 in.) on either side of the weldment.",
+      "Answer": "B",
+      "Explanation": "A 25mm (1 inch) \"clean zone\" is required for any quality weld."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "According to ASME PCC-2 which standard provide further information on temper embrittlement and other aging effects on the fracture toughness of Cr-Mo steels? (OBQ)",
+      "Option A": "API 580 RBI and API RP 571",
+      "Option B": "API 579- 1/ASME FFS-1.",
+      "Option C": "API RP 571 and API 579-1/ASME FFS-1.",
+      "Option D": "ASME PCC-2.",
+      "Answer": "B",
+      "Explanation": "API 579-1 (Fitness For Service) contains the detailed material toughness data for aged components."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "As stated in ASME PCC-2 Sleeve repair and partial patch repair methods are normally applied temporarily and are not recommended for periods beyond the next upcoming shutdown or outage without: (OBQ)",
+      "Option A": "appropriate non-destructive examination and applicable fitness- for service assessment.",
+      "Option B": "inspector and engineer approval.",
+      "Option C": "Engineer approval.",
+      "Option D": "Owner approval.",
+      "Answer": "A",
+      "Explanation": "To turn a temporary repair into a permanent one, an FFS (API 579) evaluation is mandatory."
+    },
+    {
+      "SerialNo": 64,
+      "Question": "According to ASME PCC-2 during in service welding the minimum flow rate of liquid and gas should be: (CBQ).",
+      "Option A": "1.3 ft/sec.",
+      "Option B": "4.0 ft/sec.",
+      "Option C": "2.0 to 4.0 ft/sec.",
+      "Option D": "Based on base metal thickness.",
+      "Answer": "A",
+      "Explanation": "A minimum flow of 1.3 ft/sec (0.4 m/s) is recommended to ensure heat is carried away, but not too quickly."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "As per PCC-2, The “boat samples‟ should be cut in which direction with respect to weld joint? (OBQ).",
+      "Option A": "longitudinal.",
+      "Option B": "Transverse.",
+      "Option C": "Either longitudinal or transverse.",
+      "Option D": "Parallel to weld joint.",
+      "Answer": "B",
+      "Explanation": "Transverse samples are best for examining the cross-section of the weld, HAZ, and parent metal together."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "As per ASME PCC-2 flange gasket surface finish be judged by visual comparison with the Ra standards of: (OBQ).",
+      "Option A": "ASME B 16.5.",
+      "Option B": "ASME B 46.1.",
+      "Option C": "ASME B 16.20.",
+      "Option D": "ASME B 16.47.",
+      "Answer": "B",
+      "Explanation": "ASME B46.1 is the universal standard for Surface Texture (Surface Roughness, Waviness, and Lay)."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "According to ASME PCC 2 for heat exchangers deemed critical to unit operation, what should be considered tubes inspected indicate a wall loss of 40% or more of the initial nominal thickness? (OBQ).",
+      "Option A": "Total replacement of inspected tubes.",
+      "Option B": "Total replacement at 50% of inspected tubes.",
+      "Option C": "Total replacement of the tube bundle.",
+      "Option D": "Partial placement 52% of tube bundle.",
+      "Answer": "C",
+      "Explanation": "In critical service, once 40% loss is found in a sample, bundle replacement is usually more reliable than individual plugging."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "According to ASME PCC 2, heat exchangers tubes and tube bundles should be assessed using the data obtained by inspection performed for which types of repairs? (OBQ).",
+      "Option A": "plugging by welded, mechanical, or friction fit plugs.",
+      "Option B": "partial replacement of the tube bundle.",
+      "Option C": "full replacement of the tube bundle.",
+      "Option D": "Any of the above.",
+      "Answer": "D",
+      "Explanation": "Inspection data is the foundation for selecting any of these repair/replacement strategies."
+    },
+    {
+      "SerialNo": 69,
+      "Question": "According to ASME PCC 2, heat exchangers tubes and tube bundle materials used to replace a tube sheet shall be of: (OBQ).",
+      "Option A": "same allowable stress as used for the original component.",
+      "Option B": "greater allowable stress as used for the original component.",
+      "Option C": "Less allowable stress as used for the original component.",
+      "Option D": "same or greater allowable stress as used for the original component.",
+      "Answer": "D",
+      "Explanation": "Replacement materials must be equivalent or superior to the original design specs."
+    },
+    {
+      "SerialNo": 70,
+      "Question": "According to ASME PCC 2, in inspection of heat exchangers tubes and tube bundle when it is known that a tube or multiple tubes are leaking, consideration shall be given to: (OBQ).",
+      "Option A": "pulling a tube for failure analysis to aid in determination of the damage mechanism.",
+      "Option B": "pulling entire tube bundle for failure analysis.",
+      "Option C": "plugging by welded, mechanical, or friction fit plugs.",
+      "Option D": "Either (a) or (b).",
+      "Answer": "A",
+      "Explanation": "Pulling a sample tube allows for metallurgical lab analysis to find the root cause (corrosion, vibration, etc.)."
+    },
+    {
+      "SerialNo": 71,
+      "Question": "According to ASME PCC 2 in inspection of heat exchangers tube bundle failure of 10% of the tubes examined shall require: (OBQ).",
+      "Option A": "complete replacement of tube bundle.",
+      "Option B": "additional 10% of tubes to be examined in the examined area.",
+      "Option C": "additional 10% of tubes to be examined in the total area.",
+      "Option D": "additional 20% of tubes to be examined in the total area.",
+      "Answer": "C",
+      "Explanation": "If a 10% failure rate is found, the inspection scope is expanded to another 10% to check for widespread damage."
+    },
+    {
+      "SerialNo": 72,
+      "Question": "According to ASME PCC 2 The primary purpose of performing a pressure test is to verify (CBQ)",
+      "Option A": "integrity of a pressure system.",
+      "Option B": "Leak tightness of a pressure system.",
+      "Option C": "Confirm code requirements.",
+      "Option D": "All the above.",
+      "Answer": "A",
+      "Explanation": "While tightness and code are important, the primary engineering purpose is structural integrity."
+    },
+    {
+      "SerialNo": 73,
+      "Question": "As per PCC-2 Pressure testing should be performed hydrostatically unless: (OBQ)",
+      "Option A": "The equipment, piping, and/or supports, including foundations, cannot adequately support the liquid weight.",
+      "Option B": "The equipment or piping cannot be dried and traces of the test liquid may result in contamination of the system or its contents after returning to service.",
+      "Option C": "The equipment or piping contains internal linings that could be damaged by the test medium.",
+      "Option D": "Any of the above condition exist.",
+      "Answer": "D",
+      "Explanation": "Pneumatic testing is an alternative only when hydrotesting is physically or chemically impossible."
+    },
+    {
+      "SerialNo": 74,
+      "Question": "As per PCC-2 non-destructive examination may be considered in lieu of pressure testing to verify repairs or alterations in some instances. This may require the use of: (OBQ)",
+      "Option A": "tightness testing as well.",
+      "Option B": "Volumetric examination only.",
+      "Option C": "Both volumetric and surface examination.",
+      "Option D": "Only ultrasonic testing.",
+      "Answer": "C",
+      "Explanation": "Substitution for a pressure test requires a combination of both volumetric (internal) and surface NDE."
+    },
+    {
+      "SerialNo": 75,
+      "Question": "As per PCC-2 when calculating safe distance for pneumatic pressure test to prevent lung damage, the distance a person is from the equipment should result in an R scaled value of: (OBQ)",
+      "Option A": "15 ft/lb1/3.",
+      "Option B": "30 ft/lb1/3",
+      "Option C": "50 ft/lb1/3",
+      "Option D": "5 ft/lb1/3.",
+      "Answer": "C",
+      "Explanation": "An R-value of 50 ft/lb$^{1/3}$ is the safety threshold for avoiding biological damage during a pneumatic failure."
+    },
+    {
+      "SerialNo": 76,
+      "Question": "During a repair of a pressure component a section is to be replaced due to corrosion. A rectangular butt weld insert plate measuring 18-inch width by 24-inch length by 2 inch thick will be used in the repair. According to ASME PCC-2, what is the minimum corner radius of the insert plate allowed? (OBQ)",
+      "Option A": "1/2 in",
+      "Option B": "1 in",
+      "Option C": "3 In",
+      "Option D": "6 in",
+      "Answer": "D",
+      "Explanation": "Per Article 2.1, 3×t (thickness). 3×2 inches = 6 inches."
+    }
+  ]

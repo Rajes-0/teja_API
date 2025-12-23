@@ -1,0 +1,622 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "Max period between internal/on-stream inspections?",
+      "Option A": "1/3 remaining life or 10 years",
+      "Option B": "1/2 remaining life or 10 years",
+      "Option C": "1/4 remaining life or 5 years",
+      "Option D": "1/2 remaining life or 5 years",
+      "Answer": "B",
+      "Explanation": "Per API 510, 6.5.1.1, the interval shall not exceed half the remaining life or 10 years, whichever is less."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "Low energy results on a Charpy impact test indicates?",
+      "Option A": "High ductility",
+      "Option B": "Brittleness",
+      "Option C": "High tensile strength",
+      "Option D": "None of the above",
+      "Answer": "B",
+      "Explanation": "Low energy absorption during a Charpy V-notch test indicates the material is brittle and lacks notch toughness."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Purpose of lead letter “B” on film holder?",
+      "Option A": "Determine density",
+      "Option B": "Determine defect size",
+      "Option C": "Location markers",
+      "Option D": "Determine backscatter radiation",
+      "Answer": "D",
+      "Explanation": "Per ASME Section V, Article 2, a lead letter \"B\" is used to check if backscatter radiation is exposing the film."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "Define RT-3",
+      "Option A": "Complete vessel satisfies UW-11(a)(5)",
+      "Option B": "Complete vessel satisfies UW-11(b)",
+      "Option C": "Only part of vessel satisfies RT",
+      "Option D": "Circumferential seams only",
+      "Answer": "B",
+      "Explanation": "Per ASME Section VIII, UG-116, RT-3 applies when the vessel satisfies radiographic requirements of UW-11(b)."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "Calc Remaining Life: Tact​=1.20\", Tdes​=1.0392\", CR=0.0125\"/yr.",
+      "Option A": "16.8 years",
+      "Option B": "12.86 years",
+      "Option C": "4 years",
+      "Option D": "14.5 years",
+      "Answer": "B",
+      "Explanation": "RL=CorrosionRateTactual​−Trequired​​=0.01251.20−1.0392​=12.864 years."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Min thickness allowed for plate under pressure?",
+      "Option A": "1/16\"",
+      "Option B": "1/8\"",
+      "Option C": "1/4\"",
+      "Option D": "1/32\"",
+      "Answer": "A",
+      "Explanation": "Per ASME VIII, UG-16(b), the minimum thickness of shells/heads after forming (excluding CA) is 1/16\"."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Max out-of-roundness for ID=100\" vessel?",
+      "Option A": "0.5\"",
+      "Option B": "1\"",
+      "Option C": "1.5\"",
+      "Option D": "2\"",
+      "Answer": "B",
+      "Explanation": "Per UG-80(a), max internal pressure out-of-roundness is 1% of nominal diameter (1%×100\"=1\")."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "WPS needs impact tests added; what must be tested?",
+      "Option A": "Impact properties only",
+      "Option B": "Tensile and impacts",
+      "Option C": "Bend and impacts",
+      "Option D": "Tensile, bend, and impacts",
+      "Answer": "A",
+      "Explanation": "Per ASME IX, when adding supplemental essential variables (like impacts) to a qualified WPS, only impacts are needed for requalification."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "Circumferential stress acts on category ____ seams?",
+      "Option A": "A",
+      "Option B": "B",
+      "Option C": "C",
+      "Option D": "D",
+      "Answer": "A",
+      "Explanation": "Circumferential (Hoop) stress is twice the longitudinal stress and acts upon the longitudinal joints (Category A)."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Carbon content limit for welding?",
+      "Option A": 0.0025,
+      "Option B": 0.003,
+      "Option C": 0.0035,
+      "Option D": 0.004,
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.5.3.2 states carbon steel with carbon >0.35% shall not be welded."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "Who designates lethal service?",
+      "Option A": "Inspector",
+      "Option B": "Stamp Holder",
+      "Option C": "User/Designated Agent",
+      "Option D": "Jurisdiction",
+      "Answer": "C",
+      "Explanation": "Per ASME VIII, UW-2(a), it is the responsibility of the user or their agent to determine if a vessel is in lethal service."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "PT relevant indication size?",
+      "Option A": "1/32\"",
+      "Option B": "1/16\"",
+      "Option C": "1/8\"",
+      "Option D": "1/4\"",
+      "Answer": "B",
+      "Explanation": "Per ASME VIII, Mandatory Appendix 8, only indications with dimensions greater than 1/16\" are considered relevant."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Define Supplemental Essential Variables.",
+      "Option A": "Affect mechanical properties",
+      "Option B": "Changes made without requalification",
+      "Option C": "Optional variables",
+      "Option D": "Affect notch-toughness",
+      "Answer": "D",
+      "Explanation": "Per ASME IX, QW-401.3, these are variables that affect the notch-toughness properties of the weldment."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "Valve that minimizes back pressure effects?",
+      "Option A": "Conventional",
+      "Option B": "Balanced",
+      "Option C": "Safety",
+      "Option D": "Relief",
+      "Answer": "B",
+      "Explanation": "API 520 defines a Balanced Pressure Relief Valve as one that incorporates a bellows to minimize back pressure effects."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Frequency of visual external inspection?",
+      "Option A": "5 years or internal interval",
+      "Option B": "10 years or internal interval",
+      "Option C": "4 years or internal interval",
+      "Option D": "8 years or internal interval",
+      "Answer": "A",
+      "Explanation": "Per API 510, 6.4.1, external inspections are required every 5 years or at the same interval as the internal/on-stream."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "MDMT reduction if non-required PWHT is done?",
+      "Option A": "10∘F",
+      "Option B": "20∘F",
+      "Option C": "30∘F",
+      "Option D": "40∘F",
+      "Answer": "C",
+      "Explanation": "Per ASME VIII, UCS-68(c), a 30∘F reduction in MDMT is permitted for P-No. 1 materials if PWHT is performed voluntarily."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Most important method of examination?",
+      "Option A": "Radiographic",
+      "Option B": "Visual",
+      "Option C": "Ultrasonic",
+      "Option D": "Hydrostatic",
+      "Answer": "B",
+      "Explanation": "API 510 considers Visual Inspection (VT) the most important because it identifies the most common types of deterioration."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Element added to increase corrosion resistance?",
+      "Option A": "Silicon",
+      "Option B": "Chromium",
+      "Option C": "Molybdenum",
+      "Option D": "Nickel",
+      "Answer": "B",
+      "Explanation": "Chromium is the primary alloying element used to provide oxidation and corrosion resistance in steels."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Bottom gauge pressure for 200ft vessel (Top = 500 psi)?",
+      "Option A": "586.6 psi",
+      "Option B": "413.4 psi",
+      "Option C": "420.8 psi",
+      "Option D": "430.1 psi",
+      "Answer": "A",
+      "Explanation": "500 psi+(200′×0.433 psi/ft)=586.6 psi."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "Where are location markers placed?",
+      "Option A": "On the part",
+      "Option B": "On the cassette",
+      "Option C": "Technique sheet",
+      "Option D": "Design drawing",
+      "Answer": "A",
+      "Explanation": "Per ASME V, Article 2, location markers must be placed on the part, not the film/cassette, to ensure mapping."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "Hydrostatic gauge graduation range?",
+      "Option A": "1 to 3 times test pressure",
+      "Option B": "1.5 to 4 times test pressure",
+      "Option C": "1.5 to 5 times",
+      "Option D": "2 to 5 times",
+      "Answer": "B",
+      "Explanation": "Per ASME VIII, UG-102, the dial should be graduated from roughly double the intended pressure, but not less than 1.5 nor more than 4 times."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "When is a rerating considered complete?",
+      "Option A": "Pressure test complete",
+      "Option B": "Welding complete",
+      "Option C": "Nameplate attached",
+      "Option D": "NDE complete",
+      "Answer": "C",
+      "Explanation": "Per API 510, 8.2.1, rerating is complete when the Inspector oversees the attachment of the new nameplate or stamping."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "Number of specimens for Charpy impact test?",
+      "Option A": 2,
+      "Option B": 3,
+      "Option C": 4,
+      "Option D": 5,
+      "Answer": "B",
+      "Explanation": "Per ASME VIII, UG-84, a standard impact test consists of breaking three specimens."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "Purpose of qualifying a welder?",
+      "Option A": "Ability to deposit sound metal",
+      "Option B": "Ability to operate equipment",
+      "Option C": "Meet procedure variables",
+      "Option D": "Multiple processes",
+      "Answer": "A",
+      "Explanation": "Per ASME IX, QW-100.2, welder qualification is to demonstrate the ability to produce a sound weld."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "When is film-side IQI allowed?",
+      "Option A": "Option of radiographer",
+      "Option B": "Option of owner",
+      "Option C": "Requested by AI",
+      "Option D": "Inaccessibility of source side",
+      "Answer": "D",
+      "Explanation": "Per ASME V, Art 2, IQIs are placed on the source side unless that side is inaccessible."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "PT detects what discontinuities?",
+      "Option A": "Slight subsurface",
+      "Option B": "Subsurface and surface",
+      "Option C": "Surface only",
+      "Option D": "Cracks only",
+      "Answer": "C",
+      "Explanation": "Liquid Penetrant (PT) is strictly a surface-breaking flaw detection method."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "PWHT thickness for P-1 materials?",
+      "Option A": "1.25\" (unless 200∘F preheat)",
+      "Option B": "1.50\"",
+      "Option C": "1.75\"",
+      "Option D": "2.00\"",
+      "Answer": "A",
+      "Explanation": "Per Table UCS-56-1, PWHT is required over 1.25\" (32mm) for P-1 material unless 200∘F preheat is used."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "When can scattered pits be ignored?",
+      "Option A": "Depth <1/8 wall",
+      "Option B": "Depth <1/4 wall",
+      "Option C": "Depth <1/2 wall",
+      "Option D": "Depth <9/16 wall",
+      "Answer": "C",
+      "Explanation": "Per API 510, 7.4.3, pits can be ignored if the depth is less than half the required thickness and the total area is limited."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "Placement of Code Nameplate?",
+      "Option A": "Approved by AI",
+      "Option B": "Option of manufacturer",
+      "Option C": "Option of owner",
+      "Option D": "Bracket within 30\" of vessel",
+      "Answer": "D",
+      "Explanation": "Per ASME VIII, UG-119, if not on the vessel, it must be on a bracket/pad within 30\" and require \"willful destruction\" to remove."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "Letter \"L\" under \"U\" symbol indicates?",
+      "Option A": "Liquid",
+      "Option B": "Lithium",
+      "Option C": "Lethal",
+      "Option D": "Low Hydrogen",
+      "Answer": "C",
+      "Explanation": "Per ASME VIII, UG-116, \"L\" indicates lethal service."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "Amine service repair, no PWHT, 200∘F preheat used?",
+      "Option A": "Nothing",
+      "Option B": "Metallurgical review needed",
+      "Option C": "Local PWHT required",
+      "Option D": "Out of service",
+      "Answer": "B",
+      "Explanation": "Amine service is a \"service-induced\" cracking environment. Under API 510, 8.1.7, deviations from PWHT in such services require metallurgical review."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "Intent of the WPS?",
+      "Option A": "List essential variables",
+      "Option B": "Direction to welder",
+      "Option C": "Record of tests",
+      "Option D": "List non-essential",
+      "Answer": "B",
+      "Explanation": "Per ASME IX, QW-100.1, the WPS provides the direction for making production welds."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "Max diameter for openings in shells?",
+      "Option A": "24\"",
+      "Option B": "30\"",
+      "Option C": "60\"",
+      "Option D": "No limit if reinforced",
+      "Answer": "D",
+      "Explanation": "ASME VIII allows any size opening provided the reinforcement requirements of UG-37 through UG-42 are met."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "Calibration frequency for hydro gauges?",
+      "Option A": "Quarterly",
+      "Option B": "Semi-annually",
+      "Option C": "Annually",
+      "Option D": "When error is suspected",
+      "Answer": "D",
+      "Explanation": "Per ASME VIII, UG-102, gauges must be calibrated at least annually or whenever there is a reason to believe they are in error."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "Max out of roundness for 120ft diameter?",
+      "Option A": "13.6\"",
+      "Option B": "13.8\"",
+      "Option C": "14.4\"",
+      "Option D": "15.2\"",
+      "Answer": "C",
+      "Explanation": "1% of 120ft=1.2ft. 1.2ft×12 inches/ft=14.4 inches."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "A \"P-Number\" is assigned based on?",
+      "Option A": "Electrode usability",
+      "Option B": "Base metal characteristics",
+      "Option C": "As-deposited analysis",
+      "Option D": "Impact properties",
+      "Answer": "B",
+      "Explanation": "ASME IX, QW/QB-420 assigns P-numbers based on weldability and mechanical properties to reduce the number of PQR's."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Mechanical working of weld via impact blows?",
+      "Option A": "Hammering",
+      "Option B": "Forge welding",
+      "Option C": "Impact testing",
+      "Option D": "Peening",
+      "Answer": "D",
+      "Explanation": "Peening is the mechanical working of metals using impact blows to relieve stress or reduce distortion."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "After API-510 repairs, when is pressure test needed?",
+      "Option A": "After all repairs",
+      "Option B": "Not necessary",
+      "Option C": "When Inspector believes necessary",
+      "Option D": "As required by ASME",
+      "Answer": "C",
+      "Explanation": "Per API 510, 8.1.11.1, a pressure test is not required for all repairs but shall be performed if the Inspector deems it necessary."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "How are IQI materials distinguished?",
+      "Option A": "Notches on the edges",
+      "Option B": "Stamped on edge",
+      "Option C": "Lead letters",
+      "Option D": "Thickness differences",
+      "Answer": "A",
+      "Explanation": "Per ASME V, Article 2, hole-type IQIs are identified by notches in the edge to signify the material group."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "Joint MDMT <120∘F, thickness for mandatory impact?",
+      "Option A": "3\"",
+      "Option B": "4\"",
+      "Option C": "5\"",
+      "Option D": "6\"",
+      "Answer": "B",
+      "Explanation": "Per UCS-66, for thickness exceeding 4\", impact testing is required (referencing the intersection of the curves)."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "Procedure qualified on plate can weld?",
+      "Option A": "Plate or pipe",
+      "Option B": "Pipe >6\"",
+      "Option C": "Plate only",
+      "Option D": "Pipe >24\"",
+      "Answer": "A",
+      "Explanation": "Per ASME IX, QW-211, qualification on plate also qualifies for pipe welding and vice versa (within diameter limits for performance)."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "Lamination in plates looks like?",
+      "Option A": "Slag",
+      "Option B": "Cracks",
+      "Option C": "Porosity",
+      "Option D": "Lack of fusion",
+      "Answer": "B",
+      "Explanation": "During UT or VT, laminations (internal separations) appear as linear indications similar to cracks."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "API-510 recertification interval?",
+      "Option A": "5 years",
+      "Option B": "4 years",
+      "Option C": "3 years",
+      "Option D": "2 years",
+      "Answer": "C",
+      "Explanation": "API certification cycles for 510/570/653 are every 3 years."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "Describe 1G plate position.",
+      "Option A": "Horizontal plane, weld from above",
+      "Option B": "Vertical plane, axis horizontal",
+      "Option C": "Vertical plane, axis vertical",
+      "Option D": "Horizontal plane, weld from below",
+      "Answer": "A",
+      "Explanation": "1G is the \"Flat\" position."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "Monel is an alloy of?",
+      "Option A": "Nickel",
+      "Option B": "Copper",
+      "Option C": "Carbon steel",
+      "Option D": "Ferrous steel",
+      "Answer": "A",
+      "Explanation": "Monel is a group of nickel alloys, primarily composed of nickel (up to 67%) and copper."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "SMAW PQR 1/2\", what is WPS max thickness?",
+      "Option A": "3/16\" to 1/2\"",
+      "Option B": "1/16\" to 1/2\"",
+      "Option C": "3/16\" to 1\"",
+      "Option D": "1/16\" to 1\"",
+      "Answer": "C",
+      "Explanation": "Per ASME IX QW-451.1, for 1/2\", the range is 3/16\" to 2T (2×1/2\"=1\")."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "PWHT requirements for P-8 (Stainless)?",
+      "Option A": "If >1.5\"",
+      "Option B": "Neither required nor prohibited",
+      "Option C": "If >1.25\"",
+      "Option D": "Required any thickness",
+      "Answer": "B",
+      "Explanation": "Per ASME VIII, Table UHA-32-1, PWHT for P-8 is generally not required."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "Why are vessel safety precautions extra important?",
+      "Option A": "Height",
+      "Option B": "Rotating equipment",
+      "Option C": "Confined spaces",
+      "Option D": "Internals",
+      "Answer": "C",
+      "Explanation": "Vessels involve \"Entry into Confined Spaces\" which carries significant atmospheric and egress risks."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "Acceptance criteria for operators qualifying by RT?",
+      "Option A": "Section IX",
+      "Option B": "Section VIII",
+      "Option C": "API-510",
+      "Option D": "Section V",
+      "Answer": "A",
+      "Explanation": "Per ASME IX, QW-191, the acceptance criteria for RT of welder/operator qualifications are found in Sec IX itself."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "Balanced safety valves should NOT be used?",
+      "Option A": "Corrosive service",
+      "Option B": "Gas/Vapor service",
+      "Option C": "Remote piping",
+      "Option D": "Pressure control/bypass",
+      "Answer": "D",
+      "Explanation": "Relief valves are for emergency overpressure, not continuous pressure control or bypass service."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "\"U\" symbol stamp renewal interval?",
+      "Option A": "1 year",
+      "Option B": "2 years",
+      "Option C": "3 years",
+      "Option D": "4 years",
+      "Answer": "C",
+      "Explanation": "ASME Certificates of Authorization (U, S, PP stamps) are valid for 3 years."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "PT temperature range?",
+      "Option A": "60∘ to 100∘F",
+      "Option B": "40∘ to 125∘F",
+      "Option C": "70∘ to 100∘F",
+      "Option D": "70∘ to 125∘F",
+      "Answer": "B",
+      "Explanation": "Per ASME V, Article 6, standard PT procedure is valid between 40∘F and 125∘F (5∘C to 52∘C)."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "Affects conventional safety valve operation?",
+      "Option A": "Back pressure",
+      "Option B": "Upstream pressure",
+      "Option C": "Spring setting",
+      "Option D": "Disk tightness",
+      "Answer": "C",
+      "Explanation": "For a conventional valve, the set pressure is directly controlled by the spring tension against the disk."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "Why are buried vessels monitored?",
+      "Option A": "Shifting",
+      "Option B": "Cracks",
+      "Option C": "Leaks",
+      "Option D": "External environmental condition",
+      "Answer": "D",
+      "Explanation": "API 510, 6.4.1 notes monitoring buried vessels (often via CP or test stations) to assess the external environment."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "Normal number of thickness checks?",
+      "Option A": "One/ring and one/head",
+      "Option B": "Two/ring and two/head",
+      "Option C": "Three/ring and head",
+      "Option D": "Four/ring and head",
+      "Answer": "A",
+      "Explanation": "API 510, 6.5.2.1 suggests a minimum of one thickness reading per shell course and one per head as a baseline."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "Ferrite is?",
+      "Option A": "High carbon",
+      "Option B": "Pure iron, soft/ductile",
+      "Option C": "Very hard",
+      "Option D": "Contains chromium",
+      "Answer": "B",
+      "Explanation": "Ferrite is the alpha phase of iron, characterized by a BCC structure; it is soft and magnetic."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "Fit-up misalignment exceeds UW-33?",
+      "Option A": "Approved by AI",
+      "Option B": "Approved by Owner",
+      "Option C": "3:1 taper",
+      "Option D": "Unacceptable, must redo",
+      "Answer": "D",
+      "Explanation": "Per ASME VIII, UW-33, if misalignment exceeds the table limits, it is a code violation and must be corrected."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "Retest for failed bend test?",
+      "Option A": "Mech and RT",
+      "Option B": "Mechanical only",
+      "Option C": "RT only",
+      "Option D": "More training",
+      "Answer": "B",
+      "Explanation": "Per ASME IX, QW-320, if a welder fails a bend test, the retest must also be by bend (mechanical) testing."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "Alternative term for Image Quality Indicator?",
+      "Option A": "Penetrameter",
+      "Option B": "Cassette",
+      "Option C": "Film",
+      "Option D": "Isotope",
+      "Answer": "A",
+      "Explanation": "\"Penetrameter\" is the older term used interchangeably with IQI in ASME Section V."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "Who approves repair methods and WPS?",
+      "Option A": "Jurisdiction",
+      "Option B": "\"R\" Stamp holder",
+      "Option C": "Owner",
+      "Option D": "API Authorized Inspector",
+      "Answer": "D",
+      "Explanation": "API 510, 8.1.1 requires the Authorized Inspector to approve all repair/alteration methods prior to work."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "Welding procedure qualification timing?",
+      "Option A": "On first joint",
+      "Option B": "Prior to welding",
+      "Option C": "With the welder",
+      "Option D": "Process of being qualified",
+      "Answer": "B",
+      "Explanation": "Per ASME IX, a WPS must be fully qualified (PQR supported) before any production welding occurs."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "Min temp below which impact is always required?",
+      "Option A": "−20∘F",
+      "Option B": "−30∘F",
+      "Option C": "−40∘F",
+      "Option D": "−55∘F",
+      "Answer": "D",
+      "Explanation": "Per ASME VIII, UCS-66, −55∘F is the absolute \"floor\" for most carbon steels before impacts are mandatory regardless of stress."
+    }
+  ]

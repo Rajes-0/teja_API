@@ -1,0 +1,342 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "A film side penetrameter can be used for",
+      "Option A": "Inaccessible welds (unable to hand place a source penetrameter)",
+      "Option B": "All welds",
+      "Option C": "All castings at any time",
+      "Option D": "An alternative to a source-side wire penetrameter",
+      "Answer": "A",
+      "Explanation": "Per ASME V, Article 2, T-277.1(b), IQIs shall be placed on the source side except where inaccessibility prevents it, in which case they may be placed on the film side."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "A dark image of the “B” on a lighter background is:",
+      "Option A": "Acceptable",
+      "Option B": "Rejectable",
+      "Option C": "Sometimes rejectable",
+      "Option D": "None of the above",
+      "Answer": "A",
+      "Explanation": "Per ASME V, Article 2, T-284, a light image of the \"B\" on a darker background is a cause for rejection. A dark image of the \"B\" is not mentioned as a reason for rejection and is therefore acceptable."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "The accuracy of a piece of magnetizing equipment that is equipped with an ammeter shall be verified:",
+      "Option A": "Each year",
+      "Option B": "Each two years",
+      "Option C": "When possible",
+      "Option D": "Every 6 months",
+      "Answer": "A",
+      "Explanation": "ASME V, Article 7, T-761.1 requires that the accuracy of magnetizing equipment with an ammeter be verified at least once a year."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "By which standard densitometer should be calibrated?",
+      "Option A": "ASME",
+      "Option B": "API",
+      "Option C": "INTERNATIONAL",
+      "Option D": "NATIONAL.",
+      "Answer": "D",
+      "Explanation": "ASME V, Article 2, T-262.1 specifies that densitometers shall be calibrated against a step wedge comparison film traceable to a National Standard."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "When using fluorescent penetrant the examiner shall be in a darkened area for at least ___________ minutes prior to performing the examination",
+      "Option A": 7,
+      "Option B": 10,
+      "Option C": 9,
+      "Option D": 5,
+      "Answer": "D",
+      "Explanation": "Per ASME V, Article 6, T-676.4, the examiner must allow at least 5 minutes for dark adaptation of the eyes before performing the inspection."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "A field indicator is composed of _____________ low carbon steel pie sections, furnace brazed together",
+      "Option A": 2,
+      "Option B": 6,
+      "Option C": 10,
+      "Option D": 8,
+      "Answer": "D",
+      "Explanation": "ASME V, Article 7, Fig. T-764.2.1 describes the magnetic particle field indicator (pie gauge) as being made of 8 low carbon steel sections."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Black light intensity shall be measured with a _______________ when conducting fluorescent PT",
+      "Option A": "Dark room meter",
+      "Option B": "Photo - meter",
+      "Option C": "UV-A light meter",
+      "Option D": "None of the above",
+      "Answer": "C",
+      "Explanation": "Per ASME V, Article 6, black light intensity must be measured using a calibrated UV-A light meter."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "How many total liquid penetrant techniques are listed in ASME V?",
+      "Option A": 4,
+      "Option B": 3,
+      "Option C": 2,
+      "Option D": 1,
+      "Answer": "B",
+      "Explanation": "ASME V, Article 6, T-621.1 identifies 3 techniques: Water Washable, Post-Emulsifiable, and Solvent Removable."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "For penetrant and magnetic particle testing prior to examination, each adjacent surface shall be cleaned within at least _______” of the area to be examined.",
+      "Option A": 1,
+      "Option B": 1.5,
+      "Option C": 2,
+      "Option D": 3,
+      "Answer": "A",
+      "Explanation": "ASME V, Article 6 (T-642) and Article 7 (T-741.1) both specify cleaning of the area to be examined and at least 1 inch of adjacent surface."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Densitometers shall be calibrated by verification with a calibrated:",
+      "Option A": "Densitometer",
+      "Option B": "Step Wedge Comparison film.",
+      "Option C": "Light Meter",
+      "Option D": "Transmission monitor",
+      "Answer": "B",
+      "Explanation": "Per ASME V, Article 2, calibration involves comparing the device's readings against a certified Step Wedge Comparison Film."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "All indications are to be evaluated in accordance with",
+      "Option A": "ASME VIII",
+      "Option B": "ASME V",
+      "Option C": "The referencing Code section",
+      "Option D": "The contractor standards.",
+      "Answer": "C",
+      "Explanation": "ASME V, Article 1, T-160 clarifies that Section V provides the \"how-to,\" but the referencing code section (like API 510 or ASME VIII) provides the acceptance criteria."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "The scope of the ASME Boiler and Pressure Vessel, Code, Section V includes:",
+      "Option A": "NDE acceptance criteria",
+      "Option B": "How to perform NDE to achieve a desired result",
+      "Option C": "Where to do NDE (i.e. what weld to examine)",
+      "Option D": "Who can be the Authorized inspector",
+      "Answer": "B",
+      "Explanation": "Section V is a \"procedural\" code that details how to perform various examination methods."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "What finished surface is required of butt welds for PT examination?",
+      "Option A": "Smooth surface prepared by grinding",
+      "Option B": "Cosmetically clean acid etched surface",
+      "Option C": "A near white blast surface",
+      "Option D": "As welded surface.",
+      "Answer": "D",
+      "Explanation": "ASME V, Article 6, T-641 states that NDE may be performed on an \"as welded\" surface if the surface does not interfere with the interpretation of indications."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "A suitable means for applying penetrant",
+      "Option A": "Dipping",
+      "Option B": "Brushing",
+      "Option C": "Spraying",
+      "Option D": "Any or all of the above",
+      "Answer": "D",
+      "Explanation": "Per ASME V, Article 6, T-671, any of these methods (brushing, dipping, or spraying) are acceptable for application."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "What materials require the use of tested and certified liquid penetrants as to the contaminants in the penetrant",
+      "Option A": "Nickel alloys",
+      "Option B": "Austenitic stainless steel alloys",
+      "Option C": "Ferritic / martensite stainless steel",
+      "Option D": "Both a and b above",
+      "Answer": "D",
+      "Explanation": "ASME V, Article 6, T-641 requires certification of low contaminants (halogens/sulfur) for Nickel alloys and Austenitic stainless steels."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Which NDE methods are considered “surface” methods?",
+      "Option A": "PT",
+      "Option B": "RT",
+      "Option C": "MT",
+      "Option D": "Both A & C above",
+      "Answer": "D",
+      "Explanation": "Liquid Penetrant (PT) and Magnetic Particle (MT) are used primarily to find surface-breaking discontinuities."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "What designation is used to indicate the penetrameter is on the film side?",
+      "Option A": "An “F”",
+      "Option B": "An “E”",
+      "Option C": "A “D”",
+      "Option D": "An “FS”",
+      "Answer": "A",
+      "Explanation": "ASME V, Article 2, T-277.1(b) requires the lead letter \"F\" to be placed adjacent to the IQI if it is positioned on the film side."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Name one typical discontinuity detectable by the magnetic particle method",
+      "Option A": "Lack of penetration",
+      "Option B": "Interpass lack of fusion",
+      "Option C": "Slag inclusions",
+      "Option D": "Toe cracks",
+      "Answer": "D",
+      "Explanation": "Toe cracks are surface-breaking and create a clear magnetic flux leakage field, making them easily detectable by MT."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Name one typical discontinuity detectable by the liquid penetrant method",
+      "Option A": "Incomplete penetration on an NPS 2 girth weld",
+      "Option B": "Incomplete fusion at the root of an NPS 2 girth weld",
+      "Option C": "HAZ surface cracks on a NPS 2 girth weld",
+      "Option D": "Slag inclusions on a NPS 8 longitudinal weld",
+      "Answer": "C",
+      "Explanation": "PT is only capable of finding surface-breaking defects; sub-surface or root flaws (like options A, B, and D) are not detectable by PT."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "A _____ is a device used to determine the image quality of radiograph",
+      "Option A": "A step wedge comparison film",
+      "Option B": "A densitometer",
+      "Option C": "An IQI",
+      "Option D": "All of the above",
+      "Answer": "C",
+      "Explanation": "An Image Quality Indicator (IQI), also known as a penetrameter, is used to verify the sensitivity of the radiographic image."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "A radiograph is made using an X-ray source and two films in each film holder. If the film is to be viewed separately the minimum permitted density would be.",
+      "Option A": 4,
+      "Option B": 1.8,
+      "Option C": 2,
+      "Option D": 1.3,
+      "Answer": "D",
+      "Explanation": "Per ASME V, Article 2, T-282.1, the minimum density for a single film viewed alone (X-ray) is 1.3."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "What is the maximum ammeter tolerance allowed during MPI equipment calibration?",
+      "Option A": "± 10%",
+      "Option B": "±5%",
+      "Option C": "±15%.",
+      "Option D": "Depends on manufacturer recommendation.",
+      "Answer": "A",
+      "Explanation": "Per ASME V, Article 7, T-761.1, the ammeter reading shall be within ±10% of the full scale."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "Dry powder applicators qualified in vertical position may be used in",
+      "Option A": "All positions.",
+      "Option B": "Only vertical position and overhead.",
+      "Option C": "Only vertical, flat and horizontal.",
+      "Option D": "Only vertical position.",
+      "Answer": "C",
+      "Explanation": "Qualification in the vertical position covers flat and horizontal, but not the more difficult overhead position."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "Dry powder applicators qualified in overhead position may be used in:",
+      "Option A": "Any position.",
+      "Option B": "Only vertical position and overhead.",
+      "Option C": "Only vertical, flat and horizontal.",
+      "Option D": "Only overhead position.",
+      "Answer": "A",
+      "Explanation": "Qualification in the overhead position is the most inclusive and qualifies the applicator for all other positions."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "For those documents that directly refer ASME V for the qualification of NDE personnel, the qualification shall be in accordance with:",
+      "Option A": "SNT-TC-1A.",
+      "Option B": "employers written practice.",
+      "Option C": "CP-189.",
+      "Option D": "ASME VIII.",
+      "Answer": "B",
+      "Explanation": "ASME V, Article 1, T-120 requires that personnel be qualified according to their employer's written practice."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "Densitometers periodic calibration verification checks shall be performed:",
+      "Option A": "at the beginning of each shift.",
+      "Option B": "after 8 hr of continuous use.",
+      "Option C": "after change of apertures.",
+      "Option D": "whichever of the above comes first.",
+      "Answer": "D",
+      "Explanation": "This represents the standard verification frequency specified in ASME V, Article 2, T-262.1."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "Whenever practical which of the following RT technique is preferred:",
+      "Option A": "single wall single image.",
+      "Option B": "double wall single image.",
+      "Option C": "double wall double image.",
+      "Option D": "single wall double image.",
+      "Answer": "A",
+      "Explanation": "The Single Wall Single Image (SWSI) technique provides the best image quality and sensitivity."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "Location markers which shall appear as radiographic images on the radiograph, shall be placed:",
+      "Option A": "on the part.",
+      "Option B": "on the exposure holder/cassette.",
+      "Option C": "on the film.",
+      "Option D": "any of the above.",
+      "Answer": "A",
+      "Explanation": "Per ASME V, Article 2, T-275, markers must be placed on the part to ensure accurate mapping of any defects found."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "For cylindrical components where the source is placed on the axis of the component for a single exposure (panoramic technique) how may IQI shall be placed if total number of films are 21 around circumference?",
+      "Option A": 21,
+      "Option B": 3,
+      "Option C": 7,
+      "Option D": 5,
+      "Answer": "B",
+      "Explanation": "For a panoramic exposure (source internal, center), ASME V, Article 2 requires at least 3 IQIs spaced approximately 120 degrees apart."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "Excess solvent removable penetrants shall be removed by:",
+      "Option A": "water rinsing.",
+      "Option B": "wiping with a clean, dry, lint-free cloth or absorbent paper.",
+      "Option C": "chemical cleaning.",
+      "Option D": "emulsifier cleaning.",
+      "Answer": "B",
+      "Explanation": "Per ASME V, Article 6, T-673.3, removal is done by wiping with dry cloth/paper first, then dampening with solvent for a final wipe."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "A liquid penetrant examination is performed using colour contrast penetrants. The minimum white light intensity shall be:",
+      "Option A": "50 foot-candles",
+      "Option B": "100 foot-candles",
+      "Option C": "500 micro-watt/cm2",
+      "Option D": "1000 micro-watt/cm2",
+      "Answer": "B",
+      "Explanation": "Per ASME V, Article 6, T-676.3, a minimum of 100 foot-candles (1076 lux) is required at the examination surface."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "In magnetic particle examination maximum sensitivity for defect detection will be when:",
+      "Option A": "linear discontinuities oriented parallel to the lines of flux.",
+      "Option B": "linear discontinuities-oriented perpendicular to the lines of flux.",
+      "Option C": "linear discontinuities-oriented perpendicular to the current.",
+      "Option D": "voluminal discontinuities oriented parallel to the lines of flux.",
+      "Answer": "B",
+      "Explanation": "The strongest leakage field is created when the magnetic flux is interrupted at a 90-degree (perpendicular) angle by the discontinuity."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "Which of the following provides satisfactory evidence that radiographic examination technique is in compliance with ASME Sec V?",
+      "Option A": "Certification of the personnel to ASNT RP SNT TC 1A.",
+      "Option B": "Acceptance to RT film images that indicates no rejectable defects.",
+      "Option C": "The absence of light symbol “B” and that the IQI meets requirements.",
+      "Option D": "Demonstration that the film density and IQI requirement meet code.",
+      "Answer": "D",
+      "Explanation": "Compliance is proven when the technical parameters (density and IQI sensitivity) satisfy the requirements of Article 2."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "ASNT SNT TC 1A applies to:",
+      "Option A": "Risk based inspection.",
+      "Option B": "Personnel qualification.",
+      "Option C": "NDE procedure.",
+      "Option D": "Welder certification.",
+      "Answer": "B",
+      "Explanation": "SNT-TC-1A is the recommended practice for the qualification and certification of NDE personnel."
+    }
+  ]

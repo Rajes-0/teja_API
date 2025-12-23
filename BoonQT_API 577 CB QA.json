@@ -1,0 +1,782 @@
+ [
+    {
+      "SerialNo": 1,
+      "Question": "Spray transfer is considered to be.",
+      "Option A": "the mode of highly directed stream of discrete drops that are accelerated by arc forces.",
+      "Option B": "the least amount of heating to the base metal",
+      "Option C": "the process with the least deposition rate for the process",
+      "Option D": "the process that is a program of exact combination of high and low currents",
+      "Answer": "A",
+      "Explanation": "API 577 Section 5.2.1.2: In spray transfer, small droplets of molten metal are transferred through the arc at a high rate, accelerated by electromagnetic forces."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "When using GMAW, the type of metal transfer depends on:",
+      "Option A": "shielding gas",
+      "Option B": "current and voltage",
+      "Option C": "power supply characteristics",
+      "Option D": "all of the above",
+      "Answer": "D",
+      "Explanation": "Metal transfer modes (Short-circuiting, Globular, Spray) are dictated by electrical parameters and the chemical composition of the shielding gas."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "In the electrode identification for GMAW, what does the “S” stand for, in the electrode ER 70S-1?",
+      "Option A": "Silicon",
+      "Option B": "Spray arc",
+      "Option C": "Solid wire",
+      "Option D": "none of the above",
+      "Answer": "C",
+      "Explanation": "In AWS A5.18, the \"S\" designates a Solid wire electrode or rod."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "Gasses for GMAW can be:",
+      "Option A": "inert and reactive",
+      "Option B": "argon or helium for some applications",
+      "Option C": "inert, mixed with some type of reactive gas",
+      "Option D": "all of the above",
+      "Answer": "D",
+      "Explanation": "GMAW uses pure inert gases (Ar, He) or reactive mixtures (containing CO2​ or O2​) depending on the base metal and transfer mode."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "GMAW is characterized by a _________",
+      "Option A": "cut length electrode",
+      "Option B": "flux core electrode",
+      "Option C": "coated electrode",
+      "Option D": "solid wire electrode which is fed continuously through a welding gun",
+      "Answer": "D",
+      "Explanation": "Gas Metal Arc Welding is a semi-automatic or automatic process utilizing a continuous solid wire feed."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "The electrode coating does which of the following:",
+      "Option A": "acts as a shielding",
+      "Option B": "acts as a deoxidation agent",
+      "Option C": "acts as an alloying and ionizing agent",
+      "Option D": "all of the above",
+      "Answer": "D",
+      "Explanation": "API 577 Section 5.1: SMAW electrode flux coatings provide shielding gas, slag protection, deoxidizers, and alloy additions to the weld pool."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "In the SMAW electrode identification system, a “1” in the third position would mean:",
+      "Option A": "AC & DCEN",
+      "Option B": "digging arc with deep penetration",
+      "Option C": "all position electrode",
+      "Option D": "both a and b",
+      "Answer": "C",
+      "Explanation": "AWS A5.1: The third digit represents welding position. \"1\" means all positions (Flat, Horizontal, Vertical, Overhead)."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "Which of the following is considered as fillet weld size?",
+      "Option A": "Throat length.",
+      "Option B": "Throat thickness.",
+      "Option C": "Leg length.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "For equal-leg fillet welds, the size is the Leg Length. For unequal-leg welds, it is the leg lengths of the largest right triangle that can be inscribed."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "The portion of base metal whose mechanical properties or microstructure have been altered is called as:",
+      "Option A": "Weld zone.",
+      "Option B": "Fusion zone.",
+      "Option C": "Heat affected zone.",
+      "Option D": "Weld boundary.",
+      "Answer": "C",
+      "Explanation": "API 577 Section 3.1.34: The HAZ is the base metal area not melted, but where properties were changed by the heat of welding."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "For welding aluminum and magnesium, the best current type using GTAW process is:",
+      "Option A": "AC",
+      "Option B": "DC positive.",
+      "Option C": "DC negative.",
+      "Option D": "Any of the above.",
+      "Answer": "A",
+      "Explanation": "Alternating Current (AC) provides a \"cleaning action\" that breaks up the tough oxide layer on the surface of Al and Mg alloys."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "ACFM is used to detect?",
+      "Option A": "Defects in only magnetic materials",
+      "Option B": "Defects in all materials.",
+      "Option C": "Defect in entire thickness.",
+      "Option D": "Surface breaking defects in all conductive materials.",
+      "Answer": "D",
+      "Explanation": "Alternating Current Field Measurement (ACFM) is an electromagnetic technique used to detect and size surface-breaking cracks through coatings."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "How many welds should be inspected as per API 577?",
+      "Option A": 1,
+      "Option B": "At least 10%",
+      "Option C": "A representative number.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "API 577 Section 4.3: Unless otherwise specified by the construction code, the inspector should examine a representative number of welds to ensure quality."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Globular transfer is considered to be:",
+      "Option A": "the hottest GMAW welding type transfer",
+      "Option B": "the least amount of heating to the base metal",
+      "Option C": "the drop size less than electrode diameter.",
+      "Option D": "the process that is least desirable.",
+      "Answer": "D",
+      "Explanation": "Globular transfer is characterized by large, irregular drops that cause excessive spatter and a lack of control, making it generally undesirable."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "Pulsed arc transfer is considered to be:",
+      "Option A": "the hottest GMAW welding type transfer",
+      "Option B": "the least amount of heating to the base metal",
+      "Option C": "the process with the highest deposition rate for the process",
+      "Option D": "the process that is a program of exact combination of high and low currents",
+      "Answer": "D",
+      "Explanation": "Pulsed-GMAW cycles between a high peak current (for metal transfer) and a low background current (to maintain the arc) to control heat."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Short circuiting transfer is considered to be ________.",
+      "Option A": "the hottest GMAW welding type transfer",
+      "Option B": "the lowest range of both welding current and electrode diameters.",
+      "Option C": "the process with the highest deposition rate for the process",
+      "Option D": "the process that is a program of exact combination of high and low currents",
+      "Answer": "B",
+      "Explanation": "GMAW-S uses the lowest heat input and is prone to Lack of Fusion (LOF) on thick sections."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "GMAW is very sensitive to _________ which tends to leave the metal unprotected during welding.",
+      "Option A": "wind or drafts which tend to blow the shielding gas away",
+      "Option B": "ultraviolet light waves",
+      "Option C": "arc lengths",
+      "Option D": "all of the above",
+      "Answer": "A",
+      "Explanation": "Because GMAW relies on an external gas shield, even minor wind can displace the gas, leading to porosity."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "The ________ process has an electrode that is not intended to be consumed during the welding operation.",
+      "Option A": "SMAW",
+      "Option B": "GMAW",
+      "Option C": "FCAW",
+      "Option D": "GTAW",
+      "Answer": "D",
+      "Explanation": "Gas Tungsten Arc Welding (TIG) uses a non-consumable tungsten electrode."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "_______and __________ are the two most commonly used inert gasses for the GTAW process.",
+      "Option A": "CO2 and oxygen",
+      "Option B": "Argon and helium",
+      "Option C": "Acetylene and oxygen",
+      "Option D": "none of the above",
+      "Answer": "B",
+      "Explanation": "Argon and Helium are noble (inert) gases used to protect the tungsten electrode and weld pool from oxidation."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "The problems associated with GTAW is:",
+      "Option A": "inability to tolerate contamination",
+      "Option B": "it is a slow process",
+      "Option C": "tungsten inclusions",
+      "Option D": "all of the above.",
+      "Answer": "D",
+      "Explanation": "GTAW provides high quality but is limited by slow speeds and high sensitivity to cleanliness and electrode contact."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "The ___________ Process is characterized by the use of a continuously – fed solid wire electrode which provides an arc that is totally covered by a layer of granular flux.",
+      "Option A": "SMAW",
+      "Option B": "GMAW",
+      "Option C": "GTAW",
+      "Option D": "SAW",
+      "Answer": "D",
+      "Explanation": "Submerged Arc Welding uses a granular flux blanket to shield the arc and weld pool."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "The biggest advantage of SAW is its __________.",
+      "Option A": "portability",
+      "Option B": "ability to weld out of position",
+      "Option C": "high deposition rate",
+      "Option D": "ability to produce almost no weld defects",
+      "Answer": "C",
+      "Explanation": "SAW allows for very high currents and high metal deposition rates compared to other processes."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "A major limitation when using the SAW process is _________.",
+      "Option A": "high deposition rate",
+      "Option B": "weld contour",
+      "Option C": "A power supply capable of providing high amperage at 100 % duty cycle.",
+      "Option D": "none of these",
+      "Answer": "C",
+      "Explanation": "Due to the high heat and continuous nature, SAW requires specialized, heavy-duty power sources."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "A weld “joint” is defined as _____________.",
+      "Option A": "any fillet weld",
+      "Option B": "any place a weld can be performed",
+      "Option C": "the junction of members or edges of members which are to be joined or have been joined",
+      "Option D": "the area which is to be welded",
+      "Answer": "C",
+      "Explanation": "This is the standard AWS/API definition of a joint."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "Which of the following is not a type of weld joint?",
+      "Option A": "butt joint",
+      "Option B": "corner joint",
+      "Option C": "lap joint",
+      "Option D": "fillet weld",
+      "Answer": "D",
+      "Explanation": "Butt, Corner, and Lap are Joint Types. A \"fillet weld\" is a Weld Type that can be applied to many joints."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "The exposed surface of a weld on the side from which welding was done is called the _______________.",
+      "Option A": "weld face",
+      "Option B": "face reinforcement",
+      "Option C": "root surface",
+      "Option D": "root opening",
+      "Answer": "A",
+      "Explanation": "API 577 Section 3.1.86: The weld face is the exposed surface on the welding side."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "In ASME SEC, IX which of the following grouping is based on chemical composition of deposited weld metal.",
+      "Option A": "P-number.",
+      "Option B": "F-number.",
+      "Option C": "A-number.",
+      "Option D": "all of the above",
+      "Answer": "C",
+      "Explanation": "QW-442: A-Numbers group ferrous weld metals based on their chemical analysis (e.g., A-1 is Carbon Steel)."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "A ________is interruption of the typical structure of a material, such as a lack of homogeneity in its mechanical, metallurgical, or physical characteristics:",
+      "Option A": "defect",
+      "Option B": "fault",
+      "Option C": "discontinuity",
+      "Option D": "none of the above.",
+      "Answer": "C",
+      "Explanation": "API 577 Section 3.1.22: A discontinuity is any interruption in the normal structure. It is not necessarily a defect."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "A ________is by nature or accumulated effect, render a part or product unable to meet minimum applicable acceptance standards or specifications:",
+      "Option A": "defect",
+      "Option B": "fault",
+      "Option C": "discontinuity",
+      "Option D": "none of the above",
+      "Answer": "A",
+      "Explanation": "API 577 Section 3.1.20: A defect is a discontinuity that must be rejected according to the code."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "Generally, _________ are considered to be the most critical discontinuity.",
+      "Option A": "undercut",
+      "Option B": "cracks",
+      "Option C": "overlap",
+      "Option D": "porosity",
+      "Answer": "B",
+      "Explanation": "Cracks are linear discontinuities that act as severe stress raisers and are prone to propagation."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "__________ is described as the condition where the weld is not completely fused either to the base metal or to adjacent weld passes.",
+      "Option A": "Incomplete penetration",
+      "Option B": "Incomplete fusion",
+      "Option C": "Porosity",
+      "Option D": "none of the above",
+      "Answer": "B",
+      "Explanation": "Lack of Fusion (LOF) is a surface or weld-to-weld discontinuity where the metal didn't bond."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "_________ describes the situation where the weld metal does not extend through the joint thickness:",
+      "Option A": "Incomplete joint penetration",
+      "Option B": "Incomplete joint fusion",
+      "Option C": "Porosity",
+      "Option D": "none of the above",
+      "Answer": "A",
+      "Explanation": "Lack of Penetration (LOP) occurs when the weld metal doesn't reach the root of the joint."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "__________are regions within the weld cross section or at the weld surface where the molten flux is mechanically trapped within the solidified metal.",
+      "Option A": "Incomplete penetration",
+      "Option B": "Incomplete fusion",
+      "Option C": "Overlap",
+      "Option D": "Slag Inclusion",
+      "Answer": "D",
+      "Explanation": "Slag is non-metallic trapped residue, common in SMAW, SAW, and FCAW."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "_________is defined as a cavity type discontinuity formed by gas entrapment during solidification.",
+      "Option A": "Crack",
+      "Option B": "Lamination",
+      "Option C": "Porosity",
+      "Option D": "Undercut",
+      "Answer": "C",
+      "Explanation": "Porosity consists of gas bubbles trapped in the weld as it cools."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "Protrusion of weld metal beyond the weld toe or weld root is: ____________.",
+      "Option A": "incomplete penetration",
+      "Option B": "incomplete fusion",
+      "Option C": "overlap",
+      "Option D": "none of the above",
+      "Answer": "C",
+      "Explanation": "API 577 Section 3.1.53: Overlap is weld metal that rolls over onto the base metal without fusion."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "Which of the following is true about laminations?",
+      "Option A": "a base metal flaw",
+      "Option B": "result from nonmetallic inclusions in steel",
+      "Option C": "formed when steel was produced",
+      "Option D": "all of the above",
+      "Answer": "D",
+      "Explanation": "Laminations are pre-existing internal base metal separations, not caused by welding."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "For qualification of welding operator using RT test coupon, it Requires --------- Length to be examined",
+      "Option A": "3 feet",
+      "Option B": "3 meter",
+      "Option C": "30 inch",
+      "Option D": "6 inch",
+      "Answer": "D",
+      "Explanation": "ASME IX QW-305.2: While 3 feet is often required for production welds, the minimum length for a test coupon is 6 inches."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "In order to avoid Hydrogen cracking in the weldment:",
+      "Option A": "use Pre Heat",
+      "Option B": "Use PWHT",
+      "Option C": "Use Low Hydrogen electrode",
+      "Option D": "All",
+      "Answer": "D",
+      "Explanation": "Managing moisture (Low-H electrodes), cooling rate (Preheat), and residual stress (PWHT) are the three pillars of hydrogen control."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "As per API 577, the pressure test should be held at least for:",
+      "Option A": "3 mts",
+      "Option B": "30 mts",
+      "Option C": "10 mts",
+      "Option D": "All",
+      "Answer": "B",
+      "Explanation": "A 30-minute hold time is recommended to allow for a thorough visual examination for leaks."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "Choose correct answer.",
+      "Option A": "Steels with CE < 0.35 require no Pre Heat",
+      "Option B": "CE 0.35 to 0.55 requires pre heating",
+      "Option C": "CE > 0.55 requires both Preheat & PWHT",
+      "Option D": "All",
+      "Answer": "D",
+      "Explanation": "Carbon Equivalent (CE) is used to predict the hardenability and crack-sensitivity of steel."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "Choose correct option",
+      "Option A": "Aus SS considerations: cracking, distortion, corrosion resistance",
+      "Option B": "Cracking due to low-melting phases",
+      "Option C": "Prevent cracking with 5% to 20% ferrite",
+      "Option D": "All",
+      "Answer": "D",
+      "Explanation": "Austenitic Stainless Steels require specific ferrite content (measured by Ferrite Number) to prevent hot cracking."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "In the case of Hot Taping carbon steel will burn in the presence of ----and high heat",
+      "Option A": "Hydrogen",
+      "Option B": "Oxygen",
+      "Option C": "Chlorine",
+      "Option D": "Steam",
+      "Answer": "C",
+      "Explanation": "API 2201: Carbon steel will support combustion in a pure Chlorine environment if the temperature is high enough."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "Which is the most mandatory part of the weld symbol",
+      "Option A": "Head",
+      "Option B": "Tail",
+      "Option C": "Reference Line",
+      "Option D": "Arrow",
+      "Answer": "C",
+      "Explanation": "The Reference Line is the foundation upon which all other symbols and dimensions are placed."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "What is disadvantage of FCAW",
+      "Option A": "More susceptible to wind & Drafts",
+      "Option B": "Backing material is required for root pass welding",
+      "Option C": "Low deposition rates",
+      "Option D": "all",
+      "Answer": "B",
+      "Explanation": "Because FCAW uses a slag system, root passes without backing are difficult to control and prone to LOP."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "Choose correct option",
+      "Option A": "One PQR may support several WPS",
+      "Option B": "one WPS may be qualified by more than one PQR",
+      "Option C": "both",
+      "Option D": "none",
+      "Answer": "C",
+      "Explanation": "There is no 1-to-1 requirement between procedures and qualifications."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "Any electrode has become wet So",
+      "Option A": "It can be reused as it is",
+      "Option B": "It has to be baked at 200°F",
+      "Option C": "It has to be discarded",
+      "Option D": "Reused with permission",
+      "Answer": "C",
+      "Explanation": "Per most code requirements (e.g., AWS D1.1), electrodes that have been physically wet cannot be reliably \"re-baked\" and must be scrapped."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "RT is not allowed in Welder qualification of",
+      "Option A": "SMAW",
+      "Option B": "GTAW",
+      "Option C": "GMAW- S",
+      "Option D": "All",
+      "Answer": "C",
+      "Explanation": "ASME IX QW-304: RT is prohibited for GMAW with Short-Circuiting (GMAW-S) due to the risk of undetected \"cold lap.\""
+    },
+    {
+      "SerialNo": 47,
+      "Question": "In film interpretation",
+      "Option A": "use of Magnifying device is not allowed",
+      "Option B": "low power ( 1.5 X to 3 X) Magnifying devices can be used",
+      "Option C": "Only high power Lenses is allowed",
+      "Option D": "Only high intensity light is needed",
+      "Answer": "B",
+      "Explanation": "Low magnification helps identify small features without creating excessive distortion."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "A film density of 3 allows",
+      "Option A": "1% of the incident light",
+      "Option B": "0.1 % of the incident light",
+      "Option C": "0.01 % of the incident light",
+      "Option D": "all",
+      "Answer": "B",
+      "Explanation": "Density = log10​(Iincident​/Itransmitted​). 3=log(1000), so 1/1000=0.1%."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "Applications where final product quality is important for safety & reliability",
+      "Option A": "One API approved radiographer judge",
+      "Option B": "More than one qualified interpreter judge",
+      "Option C": "X-ray quality Radiographs used",
+      "Option D": "Radiograph free of indications",
+      "Answer": "B",
+      "Explanation": "Double interpretation reduces the probability of human error in critical calls."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "Which of the following MTR is important for inspector?",
+      "Option A": "Heat analysis",
+      "Option B": "Ingot analysis.",
+      "Option C": "Product analysis.",
+      "Option D": "All of the above.",
+      "Answer": "C",
+      "Explanation": "Product Analysis (Check Analysis) is performed on the finished material to verify it meets the chemistry after processing."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "Shortest distance between the weld root and the face of a fillet weld is:",
+      "Option A": "Actual throat.",
+      "Option B": "theoretical throat.",
+      "Option C": "Leg length.",
+      "Option D": "Effective throat.",
+      "Answer": "A",
+      "Explanation": "API 577 Section 3.1.2: Actual throat is the shortest distance from the root to the face."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "Deflection of an arc from its normal path due to by magnetic forces is:",
+      "Option A": "Arc length.",
+      "Option B": "Arc strike.",
+      "Option C": "Arc blow.",
+      "Option D": "Arc deflection.",
+      "Answer": "C",
+      "Explanation": "Arc blow is caused by electromagnetic fields, particularly in DC welding of magnetic materials."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "Indications on radiographic film that may be caused by damage to the film before, during, or after processing is:",
+      "Option A": "indications.",
+      "Option B": "imperfections.",
+      "Option C": "Artifacts.",
+      "Option D": "Film marks.",
+      "Answer": "C",
+      "Explanation": "Artifacts include scratches, finger marks, and chemical spots that are not related to the actual weld quality."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "Hole or depression in the root bead of a single-groove weld due to excess penetration is",
+      "Option A": "undercut.",
+      "Option B": "burn through.",
+      "Option C": "Root concavity.",
+      "Option D": "Piping.",
+      "Answer": "B",
+      "Explanation": "Burn-through is common when the arc melts completely through the thickness of the joint."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "Welding technique used to obtain controlled grain refinement and tempering of the underlying heat-affected zone in the base metal is:",
+      "Option A": "controlled deposition welding.",
+      "Option B": "temper bead welding only.",
+      "Option C": "Half bead welding only.",
+      "Option D": "Grain refinement welding.",
+      "Answer": "A",
+      "Explanation": "API 510 Section 8.1.7.1: Controlled deposition (which includes temper bead) is an alternative to PWHT."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "Person, acceptable to the owner–user, with knowledge and experience in corrosion, metallurgy, material selection, and monitoring:",
+      "Option A": "corrosion specialist.",
+      "Option B": "metallurgist.",
+      "Option C": "Qualified person.",
+      "Option D": "Process engineer.",
+      "Answer": "A",
+      "Explanation": "API 510 Section 3.1.15: This is the specific definition of the Corrosion Specialist."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "Signal of discontinuity in the material under NDE is:",
+      "Option A": "indication.",
+      "Option B": "imperfection.",
+      "Option C": "non relevant.",
+      "Option D": "flaw.",
+      "Answer": "A",
+      "Explanation": "An indication is the initial response from an NDE method that requires evaluation."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "Groove melted into the base metal adjacent to the weld toe or weld root and left unfilled by weld metal is:",
+      "Option A": "underfill.",
+      "Option B": "undercut.",
+      "Option C": "overlap.",
+      "Option D": "Burn through.",
+      "Answer": "B",
+      "Explanation": "Undercut reduces the cross-sectional area and creates a stress raiser."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "Junction of the weld face and the base metal is:",
+      "Option A": "weld root.",
+      "Option B": "weld toe.",
+      "Option C": "weld boundary.",
+      "Option D": "fusion line.",
+      "Answer": "B",
+      "Explanation": "The toe is where the weld meets the parent metal on the face side."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "Which of the following process is more susceptible to lack of adequate fusion and RT is not employed for inspection?",
+      "Option A": "GMAW-S.",
+      "Option B": "GMAW-GLOBULAR.",
+      "Option C": "GTAW.",
+      "Option D": "SMAW.",
+      "Answer": "A",
+      "Explanation": "GMAW-S (Short Circuit) has the highest risk of \"cold lap\" defects."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "Welding performance qualification is limited by:",
+      "Option A": "essential variables only.",
+      "Option B": "both essential and non-essential variables.",
+      "Option C": "essential, non-essential and supplementary essential.",
+      "Option D": "variables are not applicable.",
+      "Answer": "A",
+      "Explanation": "ASME IX QW-302.1: Performance qualifications (WPQ) are only tracked by essential variables."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "The most extensively used NDE method for weld inspection is:",
+      "Option A": "PT.",
+      "Option B": "RT.",
+      "Option C": "VT.",
+      "Option D": "MT.",
+      "Answer": "C",
+      "Explanation": "Visual Testing is the first and most common method used during all stages of fabrication and repair."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "Visual inspection personnel are required to document which type of eye vision test?",
+      "Option A": "annual completion of a J-1 Jaeger-type.",
+      "Option B": "annual completion of a J-2 Jaeger-type.",
+      "Option C": "Bi annual completion of a J-1 Jaeger-type.",
+      "Option D": "Bi annual completion of a J-1 Jaeger-type.",
+      "Answer": "A",
+      "Explanation": "Per ASME V, near-distance vision must be verified annually using J-1."
+    },
+    {
+      "SerialNo": 64,
+      "Question": "If a residual field is left in a partially completed weld, this field may:",
+      "Option A": "deflect the weld arc and create arc blow.",
+      "Option B": "deflect the weld arc and create burn through.",
+      "Option C": "not affect welding.",
+      "Option D": "not deflect the weld arc.",
+      "Answer": "A",
+      "Explanation": "Magnetism in the steel causes the arc to wander, leading to poor fusion and spatter."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "The film is required to be of a sufficient length and width to allow a minimum of ______overlap on consecutive circumferential exposures, and ____ coverage on either side of the weld:",
+      "Option A": "1 inch, ¾ inch.",
+      "Option B": "1 inch. 1 inch.",
+      "Option C": "2 inch. 1 inch.",
+      "Option D": "1 inch, 2 inch.",
+      "Answer": "A",
+      "Explanation": "This ensures full coverage and sensitivity at the edges of the radiographic image."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "Typical film development time is:",
+      "Option A": "3 to 8 min at 68 °F.",
+      "Option B": "5 to 8 min at 68 °F.",
+      "Option C": "3 to 5 min at 68 °F.",
+      "Option D": "5 to 10 min at 68 °F.",
+      "Answer": "B",
+      "Explanation": "Standard manual film processing timing for optimal contrast."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "Of the following discontinuities which can not detect by radiography normally:",
+      "Option A": "porosity.",
+      "Option B": "crack.",
+      "Option C": "undercut.",
+      "Option D": "slag inclusion.",
+      "Answer": "B",
+      "Explanation": "Cracks must be oriented parallel to the radiation beam to be detected; fine or tight cracks are often missed."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "To aid film interpretation the recommended magnification device is of:",
+      "Option A": "1x to 5x.",
+      "Option B": "5x to 10x.",
+      "Option C": "1.5x to 3x.",
+      "Option D": "1,5x to 5x.",
+      "Answer": "C",
+      "Explanation": "Recommended range to avoid eye strain while identifying small flaws."
+    },
+    {
+      "SerialNo": 69,
+      "Question": "If a lighter density image of the letter “B” appears on any radiograph of a darker background:",
+      "Option A": "the radiograph is considered acceptable.",
+      "Option B": "the radiograph is considered unacceptable.",
+      "Option C": "the radiograph is require a reshoot.",
+      "Option D": "no action required.",
+      "Answer": "B",
+      "Explanation": "A light \"B\" means backscattered radiation reached the film, which can obscure defects."
+    },
+    {
+      "SerialNo": 70,
+      "Question": "In ultrasonic examination the rate of search unit movement should not exceed:",
+      "Option A": "6 in. per second.",
+      "Option B": "12 in. per second.",
+      "Option C": "6 minutes per second.",
+      "Option D": "5 minutes per second.",
+      "Answer": "A",
+      "Explanation": "ASME V Article 4: Moving the probe too fast prevents the examiner from seeing the screen signals properly."
+    },
+    {
+      "SerialNo": 71,
+      "Question": "Hardness test requirements for PQR and weldments are covered in:",
+      "Option A": "API 577.",
+      "Option B": "API 582.",
+      "Option C": "ASME IX.",
+      "Option D": "API 581",
+      "Answer": "B",
+      "Explanation": "API 582 is the standard for supplementary welding requirements for the chemical and petroleum industries."
+    },
+    {
+      "SerialNo": 72,
+      "Question": "Corrective action for a nonconformance depends upon the:",
+      "Option A": "nature and its impact.",
+      "Option B": "impact on the properties.",
+      "Option C": "nature of the nonconformance and its impact on the properties of the weldment.",
+      "Option D": "nature or its impact.",
+      "Answer": "C",
+      "Explanation": "Decisions are based on both the defect type and its potential to cause failure."
+    },
+    {
+      "SerialNo": 73,
+      "Question": "When inspection identifies a rejectable defect, who should should mark the area for repair?",
+      "Option A": "inspector or engineer.",
+      "Option B": "inspector.",
+      "Option C": "welder.",
+      "Option D": "inspection supervisor.",
+      "Answer": "B",
+      "Explanation": "The Authorized Inspector is responsible for designating the specific area needing remediation."
+    },
+    {
+      "SerialNo": 74,
+      "Question": "Repair welding should be performed according to a weld repair procedure accepted by the:",
+      "Option A": "inspector or engineer.",
+      "Option B": "inspector.",
+      "Option C": "engineer.",
+      "Option D": "inspection supervisor.",
+      "Answer": "A",
+      "Explanation": "API 510 Section 8.1.1: The repair plan must be accepted by the AI and, where applicable, the Engineer."
+    },
+    {
+      "SerialNo": 75,
+      "Question": "The ability of a material to deform plastically without fracturing, measured by elongation or reduction of area is defined as:",
+      "Option A": "ductility.",
+      "Option B": "toughness.",
+      "Option C": "hardness.",
+      "Option D": "yield strength.",
+      "Answer": "A",
+      "Explanation": "Ductility allows a material to \"stretch\" under load before breaking."
+    },
+    {
+      "SerialNo": 76,
+      "Question": "The resistance to plastic deformation by indentation is:",
+      "Option A": "ductility.",
+      "Option B": "toughness.",
+      "Option C": "hardness.",
+      "Option D": "yield strength.",
+      "Answer": "C",
+      "Explanation": "Hardness is measured via Brinell (HB) or Rockwell (HR) indentation tests."
+    },
+    {
+      "SerialNo": 77,
+      "Question": "Two primary concerns when welding on in-service piping and equipment are:",
+      "Option A": "Burn-through and cracking.",
+      "Option B": "lack of fusion and cracking.",
+      "Option C": "burn through and fracture.",
+      "Option D": "cracking and shrinkage.",
+      "Answer": "A",
+      "Explanation": "API 2201: High heat leads to burn-through of the pressurized wall; fast cooling leads to hydrogen cracking."
+    },
+    {
+      "SerialNo": 78,
+      "Question": "In AWS welding symbol NDE details and welding process are marked in:",
+      "Option A": "field flag.",
+      "Option B": "Tail",
+      "Option C": "Reference Line",
+      "Option D": "Arrow",
+      "Answer": "B",
+      "Explanation": "The Tail is used for supplementary information like welding process (e.g., SMAW) or NDE methods."
+    }
+  ]

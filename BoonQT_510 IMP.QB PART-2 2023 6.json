@@ -1,0 +1,692 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "Which of the following statement is correct?",
+      "Option A": "Pressure tests are not normally conducted as part of routine inspection.",
+      "Option B": "A pressure test is normally required after an alteration or major repair.",
+      "Option C": "After repairs (other than major repairs) are completed, a pressure test shall be applied if the inspector believes that one is necessary and specifies it in the repair plan",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "API 510, 5.8.1.1: Outlines the conditions under which pressure tests are required, including alterations, major repairs, or at the inspector's discretion."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "Who should be consulted when a pressure test of vessel component/ sections is to be performed to ensure it is suitable for the intended purpose?",
+      "Option A": "Engineer.",
+      "Option B": "Inspector.",
+      "Option C": "Engineer and inspector.",
+      "Option D": "Engineer or inspector.",
+      "Answer": "A",
+      "Explanation": "API 510, 5.8.2.1: The engineer is responsible for verifying the structural integrity of the vessel to withstand the test pressure and weight."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Which of the following should be reviewed before hydro test of in-service vessel?",
+      "Option A": "Hydro test procedure.",
+      "Option B": "Testing personal.",
+      "Option C": "Supporting structure and foundation design.",
+      "Option D": "Draining facilities.",
+      "Answer": "C",
+      "Explanation": "API 510, 5.8.4: Foundation and supports must be verified to handle the added weight of the test medium (usually water)."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "Hydrostatic pressure tests of equipment having components of Type 300 series stainless steel should be conducted with potable water or steam condensate or other fluid having a chloride concentration of:",
+      "Option A": "At least 50 ppm.",
+      "Option B": "Less than 50 ppm. .",
+      "Option C": "Less than or equal to 50 ppm.",
+      "Option D": "Less than 100 ppm",
+      "Answer": "B",
+      "Explanation": "API 510, 5.8.6.2: High chloride levels in hydrotest water can lead to chloride stress corrosion cracking in 300 series stainless steels."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "If potable water is not available or if immediate draining and drying is not possible, water having a very low chloride level (e.g.steam condensate), higher pH (>10), and inhibitor addition should be considered to reduce the risk of:",
+      "Option A": "Pitting.",
+      "Option B": "Chloride SCC.",
+      "Option C": "MIC.",
+      "Option D": "All of the above",
+      "Answer": "C",
+      "Explanation": "API 510, 5.8.6.3: Higher pH and inhibitors are used specifically to minimize the risk of Microbiologically Induced Corrosion."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "During hydrotest of sensitized austenitic stainless-steel piping subject to polythionic stress corrosion cracking, consideration should be given to using:",
+      "Option A": "Water with PH 7.",
+      "Option B": "Alkaline water solution.",
+      "Option C": "Acid water solution.",
+      "Option D": "Demineralized water solution",
+      "Answer": "B",
+      "Explanation": "API 510, 5.8.6.2: An alkaline water solution helps neutralize acidic components that cause Polythionic Stress Corrosion Cracking."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Before pneumatic testing who shall consider the potential personnel and property risks of pneumatic testing?",
+      "Option A": "Engineer.",
+      "Option B": "Inspector.",
+      "Option C": "Engineer and inspector.",
+      "Option D": "Engineer or inspector",
+      "Answer": "A",
+      "Explanation": "API 510, 5.8.8: Pneumatic testing carries high stored energy, requiring the engineer to evaluate safety risks."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "Most brittle fractures have occurred on:",
+      "Option A": "During start up.",
+      "Option B": "During shut down.",
+      "Option C": "During hydrotest.",
+      "Option D": "Any of the above.",
+      "Answer": "C",
+      "Explanation": "API 510, 5.8.7.1: Brittle fractures are most common during hydrotests when high stress is applied at temperatures near the transition range."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "What should be the metal temperature to be maintained during hydrotest of 2” thickness in service vessel?",
+      "Option A": "MDMT + 30°F.",
+      "Option B": "MDMT + 10°F.",
+      "Option C": "MDMT + 120°F.",
+      "Option D": "Any of the above.",
+      "Answer": "B",
+      "Explanation": "API 510, 5.8.7.2: For vessels with thickness greater than 2 inches, the test temperature must be at least MDMT + 10°F."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "What is the maximum test temperature need not to be exceeded during hydro test?",
+      "Option A": "MDMT + 30°F.",
+      "Option B": "MDMT + 10°F.",
+      "Option C": "120°F.",
+      "Option D": "140°F.",
+      "Answer": "C",
+      "Explanation": "API 510, 5.8.7.2: Test temperatures are typically capped at 120°F to prevent potential cracking issues and for personnel safety."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "When hydrotesting solid or clad austenitic stainless steel, the water temperature should not exceed 120 °F (50 °C) to avoid possible:",
+      "Option A": "Chloride stress corrosion cracking.",
+      "Option B": "Caustic stress corrosion cracking.",
+      "Option C": "Hydrogen cracking.",
+      "Option D": "All of the above.",
+      "Answer": "A",
+      "Explanation": "API 510, 5.8.7.2: Increased temperatures accelerate the risk of chloride-induced stress corrosion cracking in stainless steels."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "Who should approve substituting NDE procedures for a pressure test after an alteration or major repair?",
+      "Option A": "Engineer.",
+      "Option B": "Inspector.",
+      "Option C": "Engineer and inspector.",
+      "Option D": "Engineer or inspector.",
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.11.1: Agreement from both the engineer and the authorized inspector is required to waive a pressure test."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Who is responsible for material verification program during repairs or alterations?",
+      "Option A": "Owner/user or the inspector for the percentage of assessment.",
+      "Option B": "Inspector for retroactive PMI of same or similar vessel.",
+      "Option C": "Engineer for new and existing materials.",
+      "Option D": "Only a and b.",
+      "Answer": "D",
+      "Explanation": "API 510, 5.9.1: Material verification involves the owner/user’s program and the inspector’s assessment of that program."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "Which of the following is the correct statement?",
+      "Option A": "When preferential weld corrosion or cracking is noted, additional welds of the pressure vessel should be examined to determine the extent of damage.",
+      "Option B": "Crack-like flaws and environmental cracking shall be assessed by inspector and either an engineer or corrosion specialist (refer to API 579-1/ASME FFS-1)",
+      "Option C": "Preferential weld corrosion shall be assessed by the inspector and either an engineer or corrosion specialist (refer to API 579-1/ASME FFS-1)",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "API 510, 5.5.2: Discusses the requirements for assessing weld corrosion and the involvement of specialists for cracking."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Flanged joints should be examined for evidence of leakage, such as:",
+      "Option A": "Stains",
+      "Option B": "Deposits",
+      "Option C": "drips.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "API 510, 5.5.3: External evidence of leakage like staining or drips is a primary part of the external inspection."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Accessible flange faces should be examined for:",
+      "Option A": "Distortion.",
+      "Option B": "condition of gasket-seating surfaces.",
+      "Option C": "Flange leakage.",
+      "Option D": "Only a and b.",
+      "Answer": "D",
+      "Explanation": "API 510, 5.5.3: Direct examination of flange faces is to identify mechanical damage or deformation."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "If flanges are excessively bent or distorted which of the following should be checked?",
+      "Option A": "Flange markings and thickness",
+      "Option B": "Flange face condition.",
+      "Option C": "Gasket seating surface.",
+      "Option D": "All of the above.",
+      "Answer": "A",
+      "Explanation": "API 510, 5.5.3: Distortion indicates potential over-stressing or under-sizing, requiring verification of flange rating and thickness."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Any fastener failing to do so is considered acceptably engaged if the lack of complete engagement is:",
+      "Option A": "More than one thread.",
+      "Option B": "Not more than one thread.",
+      "Option C": "Lack of engagement not allowed.",
+      "Option D": "Not more than two threads.",
+      "Answer": "B",
+      "Explanation": "API 510, 5.5.3: Bolts are acceptable if they are no more than one thread short of being flush with the nut."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "The purpose of pressure vessel inspection at the time of installation is to verify:",
+      "Option A": "Equipment is safe for operation.",
+      "Option B": "No unacceptable damage occurred during transportation to the installation site.",
+      "Option C": "Initiate plant inspection records for the equipment.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "API 510, 6.2.1: Installation inspections confirm the vessel is correct for its application and has arrived undamaged."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "Verifying the nameplate information (is correct per the manufacturer’s data reports and design requirements) is part of:",
+      "Option A": "Installation inspection.",
+      "Option B": "External inspection.",
+      "Option C": "Internal inspection.",
+      "Option D": "Onstream inspection",
+      "Answer": "A",
+      "Explanation": "API 510, 6.2.1: Nameplate verification is a critical part of the initial installation inspection."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "When internal field inspection is not required?",
+      "Option A": "Manufacturer data report assures that vessel comply with design requirements.",
+      "Option B": "Material test reports are correct.",
+      "Option C": "Inspector decides based on vessel size.",
+      "Option D": "Owner/user decides.",
+      "Answer": "A",
+      "Explanation": "API 510, 6.2.1: A certificate of compliance or manufacturer's data report can waive the initial internal field inspection."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "If the service conditions of a vessel are changed:",
+      "Option A": "The inspection intervals shall be established for the new service conditions.",
+      "Option B": "The vessel shall be internally and externally inspected. .",
+      "Option C": "Vessel inspection intervals is not affected.",
+      "Option D": "Both a and b",
+      "Answer": "A",
+      "Explanation": "API 510, 6.2.2.1: A change in service environment requires a recalculation of inspection frequency."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "If both the ownership and the location of a vessel are changed:",
+      "Option A": "The inspection intervals shall be established for the new service conditions.",
+      "Option B": "The vessel shall be internally and externally inspected.",
+      "Option C": "Vessel inspection intervals is not affected.",
+      "Option D": "Both a and b.",
+      "Answer": "B",
+      "Explanation": "API 510, 6.2.2.2: A full physical inspection is required when a vessel changes hands and location to ensure it is fit for the new service."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "When RBI interval for the internal or on-stream inspection exceeds the 10-year limit:",
+      "Option A": "The vessel shall be internally and externally inspected.",
+      "Option B": "the RBI assessment shall be reviewed and approved by the engineer and inspector.",
+      "Option C": "RBI assessment shall be reviewed at intervals not to exceed 10 years or more often if warranted by process, equipment, or consequence changes.",
+      "Option D": "Both b and c.",
+      "Answer": "D",
+      "Explanation": "API 510, 6.3.3: Extended RBI intervals require documented reviews and joint approval by inspector and engineer."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "The inspection interval for internal, external, onstream and thickness measurement is established by:",
+      "Option A": "Inspector or engineer..",
+      "Option B": "Inspector and engineer.",
+      "Option C": "Inspector, engineer or other qualified individual.",
+      "Option D": "Inspector",
+      "Answer": "A",
+      "Explanation": "API 510, 6.3.1: The authority to set standard vessel inspection dates lies with the inspector or engineer."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "The inspection interval for pressure relieving devices is established by:",
+      "Option A": "Inspector or engineer",
+      "Option B": "Inspector and engineer.",
+      "Option C": "Inspector, engineer or other qualified individual.",
+      "Option D": "Inspector",
+      "Answer": "C",
+      "Explanation": "API 510, 6.6.2.1: PRD intervals include \"other qualified individuals\" because of the specialized nature of valve testing."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "Which of the following statement is correct?",
+      "Option A": "External inspection intervals for vessels in noncontinuous service are the same as for vessels in continuous service.",
+      "Option B": "Internal inspection intervals for vessels in non-continuous service is based on number of years of actual service.",
+      "Option C": "Vessels that are in noncontinuous service and not adequately protected from corrosive environments may experience increased internal corrosion while idle.",
+      "Option D": "All are correct statements.",
+      "Answer": "C",
+      "Explanation": "API 510, 6.5.1.1: Noncontinuous service vessels are prone to corrosion from moisture and air if not properly preserved during idle periods."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "At the discretion of the inspector, an on-stream inspection may be substituted for the internal inspection in which of the following situations?",
+      "Option A": "when vessel entry for internal inspection is physically possible and corrosion rate is less than 0.005” per year.",
+      "Option B": "The remaining life is greater than 10 years and vessel not to subject environmental cracking.",
+      "Option C": "the vessel does not have a nonintegrally bonded liner such as strip lining and no questionable condition is discovered during the external inspection.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "API 510, 6.5.2.1: Lists all the specific conditions under which an on-stream inspection is technically sufficient."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "For a large vessel with two or more zones of differing corrosion rates which zone should be taken for corrosion rate calculations?",
+      "Option A": "The zone with higher corrosion rate.",
+      "Option B": "The zone with lower corrosion rate.",
+      "Option C": "Each zone shall be inspected based on the interval for that zone.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "API 510, 6.5.3: Large vessels can be managed by treating different corrosion zones as separate entities for interval purposes."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "Each valve repair organization shall have:",
+      "Option A": "Fully documented training program.",
+      "Option B": "Fully documented QA process.",
+      "Option C": "Qualification and experience in relieve valve maintenance.",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "API 510, Annex C: Valve repair organizations must maintain rigorous documentation and qualification standards."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "Pressure relieve valves shall be inspected and tested at intervals:",
+      "Option A": "Frequent enough to verify that the devices perform reliably in the particular service conditions.",
+      "Option B": "Maximum 5 years for typical process services.",
+      "Option C": "Maximum 10 years for clean non corrosive services.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "API 510, 6.6.2.2: Intervals are based on reliability, with industry-standard caps of 5 and 10 years."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "When the inspection and testing interval shall be reevaluated to determine if the interval should be shortened?",
+      "Option A": "When a pressure-relieving device is found to be heavily fouled or stuck shut.",
+      "Option B": "When maximum 5 years for typical process services exceeds.",
+      "Option C": "When maximum 10 years for clean non corrosive services exceeds.",
+      "Option D": "All of the above",
+      "Answer": "A",
+      "Explanation": "API 510, 6.6.2.2: A device that is stuck or fouled is evidence that the current interval is too long."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "When evaluating corrosion rates as part of the data assessment, who shall select the corrosion rate that best reflects the current conditions?",
+      "Option A": "Inspector.",
+      "Option B": "Inspector in consultation with corrosion specialist.",
+      "Option C": "Inspector or engineer.",
+      "Option D": "Inspector and engineer.",
+      "Answer": "B",
+      "Explanation": "API 510, 7.1.1.2: In complex cases, the inspector must work with a specialist to ensure the selected rate is accurate."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "For a new vessel or for a vessel for which service conditions are being changed which of the following methods shall be used to determine the vessel’s probable corrosion rate?",
+      "Option A": "data collected by the owner/user on vessels operating in the same or similar service.",
+      "Option B": "estimated by a corrosion specialist.",
+      "Option C": "approximately three to six months of service by using suitable corrosion monitoring devices.",
+      "Option D": "Any of the above",
+      "Answer": "D",
+      "Explanation": "API 510, 7.1.1.1: Provides multiple methods for predicting behavior when historical data is missing."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "Which of the following conditions statistical analysis may not be applicable?",
+      "Option A": "vessels with random but significant localized corrosion.",
+      "Option B": "vessels with random pitting corrosion.",
+      "Option C": "vessels with high corrosion rates.",
+      "Option D": "vessels with less remaining life.",
+      "Answer": "A",
+      "Explanation": "API 510, 7.1.3: Statistical methods are unreliable for isolated areas of high-thickness loss."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "For MAWP calculation of in service -vessels the code used should be?",
+      "Option A": "Original edition of the construction code.",
+      "Option B": "Latest edition of the construction code.",
+      "Option C": "Any code as decided by owner-user.",
+      "Option D": "Any of the above.",
+      "Answer": "B",
+      "Explanation": "API 510, 7.2.1: In-service MAWP calculations must utilize the current rules of the construction code."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "The thickness measurement procedure shall be approved by:",
+      "Option A": "Inspector.",
+      "Option B": "Engineer.",
+      "Option C": "Inspector or engineer.",
+      "Option D": "Inspector and engineer.",
+      "Answer": "A",
+      "Explanation": "API 510, 5.7.1: The inspector is responsible for the technical approval of the thickness measurement process."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "Which of the following widely scattered pits should be evaluated as per 510 if actual thickness is 0.500” and required thickness is 0.300”?",
+      "Option A": "Pit with depth 0.300”",
+      "Option B": "Pit with depth 0.400”",
+      "Option C": "Pit with depth 0.100”",
+      "Option D": "All should be evaluated",
+      "Answer": "A",
+      "Explanation": "API 510, 7.4.3: Pits are evaluated if the depth exceeds half the required thickness (1/2×0.300=0.150). 0.300>0.150."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "A vessel actual thickness is 0.400\" and required thickness is 0.300\". there are four pits in a straight line of 8\" length. Pit 1 depth =0.100\" and length =0.750\". pit 2 depth =0.150\" and length = 0.500\". pit 3 depth = 0.200\" and length = 0.600\". pit 4 depth =0.225\" length = 0.600\". which of the following statement is correct ?",
+      "Option A": "Pits are rejected because total length exceeds 2”",
+      "Option B": "Pits are rejected because depth exceed 0.225”",
+      "Option C": "Pits are acceptable.",
+      "Option D": "None of the above. Pits should be further evaluated.",
+      "Answer": "C",
+      "Explanation": "API 510, 7.4.3: The criteria for cumulative length (<2\") and individual pit depth are satisfied."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "When using hemispherical formula for 2:1 ellipsoidal head what should be the L value to be used?",
+      "Option A": "0.9R.",
+      "Option B": "0.9D.",
+      "Option C": "1.0D",
+      "Option D": "0.17D.",
+      "Answer": "B",
+      "Explanation": "API 510, 7.4.6.2: The equivalent radius for an ellipsoidal head's spherical portion is 0.9× Diameter."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "For services with high potential consequences if failure were to occur, who should consider increasing the required thickness above the calculated minimum thickness to provide for unanticipated or unknown loadings?",
+      "Option A": "Inspector.",
+      "Option B": "Engineer.",
+      "Option C": "Inspector or engineer.",
+      "Option D": "Inspector and engineer",
+      "Answer": "B",
+      "Explanation": "API 510: Engineering judgment is used to add safety margins for high-consequence vessels."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "For pressure vessels that have no nameplate and minimal or no design and construction documentation when hydro test should be conducted?",
+      "Option A": "Before attaching name plate.",
+      "Option B": "After attaching name plate.",
+      "Option C": "Hydro test is not mandatory.",
+      "Option D": "Before evaluating the vessel.",
+      "Answer": "B",
+      "Explanation": "API 510: When recertifying non-standard vessels, the hydrotest follows the application of a nameplate."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "Inspection history is part of:",
+      "Option A": "Permanent record.",
+      "Option B": "Progressive record.",
+      "Option C": "Permanent and progressive record.",
+      "Option D": "Inspector record",
+      "Answer": "B",
+      "Explanation": "API 510, 6.7.1: Progressive records contain information that evolves, like inspection and repair histories."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "A vessel to be repaired as per ASME VIII division 1 with PWHT. Which of the following statement is correct?",
+      "Option A": "authorization by inspector is required.",
+      "Option B": "authorization by inspector and engineer is required.",
+      "Option C": "Inspector may give prior general authorization.",
+      "Option D": "Both a and c",
+      "Answer": "A",
+      "Explanation": "API 510, 8.1.1: All repair work must be authorized by the inspector before beginning."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "For which of the following welding and ndt procedures approval by both inspector and engineer required?",
+      "Option A": "Major repairs and alterations.",
+      "Option B": "Temporary repairs.",
+      "Option C": "Temporary repairs, major repairs and alterations.",
+      "Option D": "Temporary repairs, permanent repairs, major repairs and alterations",
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.1: These high-risk categories require agreement from both the engineer and inspector."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "Special attention and preheating to avoid weld cracking may required when:",
+      "Option A": "Carbon content >0.35%.",
+      "Option B": "Carbon content >0.30%.",
+      "Option C": "Carbon equivalent >0.35%.",
+      "Option D": "Carbon equivalent >0.30%.",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.5.3.2: Higher carbon levels increase weld hardenability and crack sensitivity."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "Temporary repairs may remain in place for a longer period of time only if evaluated, approved, and documented by the:",
+      "Option A": "Inspector.",
+      "Option B": "Engineer.",
+      "Option C": "Engineer or inspector.",
+      "Option D": "Engineer and inspector.",
+      "Answer": "D",
+      "Explanation": "API 510, 8.1.5.1.1: Extending a temporary repair requires a joint review of safety and risk."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "The minimum corner radius of 1” is applicable for:",
+      "Option A": "Fillet weld patches only.",
+      "Option B": "Insert patches only.",
+      "Option C": "Both fillet weld and insert patches.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.5.1: Rounded corners (1\" min radius) reduce stress concentrations in the patch area."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "Nonpenetrating nozzles (including pipe caps attached as nozzles) may be used as:",
+      "Option A": "Temporary repairs.",
+      "Option B": "Permanent repairs..",
+      "Option C": "Either temporary or permanent repairs.",
+      "Option D": "none of the above",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.5.2.2: Certain nozzle types can be considered permanent if properly designed."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "When using lower strength filler metals what is the maximum repair depth allowed if actual thickness is 0.400” and required thickness is 0.300” ?",
+      "Option A": "0.100”",
+      "Option B": "0.250”",
+      "Option C": "0.300”",
+      "Option D": "0.200”.",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.5.3.4: Lower strength filler is limited to a repair depth of 50% of the base metal thickness."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "Which of the following vessel material ASME P numbers to be tested with ultrasonic testing after 24 hours of stainlesssteel lining welding?",
+      "Option A": "P1,P2,P3.",
+      "Option B": "P1,P3,P4.",
+      "Option C": "P3,P4,P5.",
+      "Option D": "P3,P5,P8",
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.5.4.3: Low-alloy steels require a 24-hour delay before final UT to check for delayed hydrogen cracking."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "The responsibility of repair organization include:",
+      "Option A": "Qualify welders and welding operators in accordance with ASME Code, Section IX or those referenced by the construction code.",
+      "Option B": "maintain records of its qualified welding procedures and its procedure qualification records.",
+      "Option C": "Design requirements.",
+      "Option D": "Only a and b.",
+      "Answer": "D",
+      "Explanation": "API 510, 4.2.2: The repair organization's primary mandate is the management of welding and NDE qualifications."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "Preheating exceptions for temporary repairs shall be approved by:",
+      "Option A": "Inspector..",
+      "Option B": "Engineer.",
+      "Option C": "Engineer or inspector.",
+      "Option D": "Engineer and inspector",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.7.1: Deviations from standard preheat rules require an engineering assessment."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "Local PWHT substitution procedure for 360° PWHT shall be developed by:",
+      "Option A": "Inspector. .",
+      "Option B": "Engineer",
+      "Option C": "Engineer or inspector.",
+      "Option D": "Engineer and inspector",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.7.4.3: Substituting a 360-degree wrap for a local band requires a specialized procedure from an engineer."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "When local PWHT is substituted for 360° PWHT what is the preheat temperature to be maintained during welding?",
+      "Option A": "300°F maximum.",
+      "Option B": "300°F minimum.",
+      "Option C": "500°F minimum.",
+      "Option D": "600°F maximum.",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.7.4.3: A minimum preheat of 300∘F is mandated to lower thermal stresses during the local PWHT."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "When PWHT is performed for environmental-assisted cracking resistance local PWHT shall not be substituted for 360° PWHT unless:",
+      "Option A": "Approved by engineer.",
+      "Option B": "Approved by owner/user.",
+      "Option C": "Metallurgical review is conducted to access whether the procedure is acceptable.",
+      "Option D": "Approved by inspector and engineer.",
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.7.4.3: For crack-susceptible environments, a metallurgical review ensures a local band is sufficient."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "Preheating method in lieu of PWHT is not allowed for:",
+      "Option A": "P1 group 3 steel.",
+      "Option B": "P3 group 3 steel.",
+      "Option C": "P3 group 2 Mn-Mo steel.",
+      "Option D": "Both b and c.",
+      "Answer": "D",
+      "Explanation": "API 510, 8.1.7.3.3: Lists materials where preheating is not an acceptable alternative to PWHT."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "If base metal thickness is 4.0” and maximum repair depth is 1.5” what distance preheating temperature should be maintained during preheating method and control deposition method for substituting PWHT?",
+      "Option A": "4.0”",
+      "Option B": "16.0”",
+      "Option C": "6.0”",
+      "Option D": "2.0”.",
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.7.3.2: Preheat must cover a distance of 1.5×Thickness or 4 inches. 1.5×4=6 inches."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "Control deposition welding means:",
+      "Option A": "Temper bead welding only.",
+      "Option B": "Half bead welding only.",
+      "Option C": "Both temper bead and half bead welding.",
+      "Option D": "All of the above",
+      "Answer": "C",
+      "Explanation": "API 510, 8.1.7.1: Includes both half-bead and temper-bead methods under the definition of controlled deposition."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "When using SMAW process for controlled deposition welding which of the following electrodes require hydrogen bake out treatment?",
+      "Option A": "E 7018.",
+      "Option B": "E 7018-H8.",
+      "Option C": "E 7018-H4.",
+      "Option D": "E 7010.",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.7.3.2: Electrodes with a higher hydrogen rating like H8 require bake-out to reach lower hydrogen levels."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "Rerating calculations should be performed by:",
+      "Option A": "Manufacturer engineer.",
+      "Option B": "Owner/user engineer",
+      "Option C": "Manufacturer or owner/user engineer.",
+      "Option D": "Manufacturer and owner/user engineer.",
+      "Answer": "C",
+      "Explanation": "API 510, 8.2.1: Either the manufacturer or the owner’s engineer can perform the design check for rerating."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "Rerating shall be performed in accordance with requirements of:",
+      "Option A": "Vessel construction code.",
+      "Option B": "Applicable construction code.",
+      "Option C": "Vessel in service code.",
+      "Option D": "API 510.",
+      "Answer": "A",
+      "Explanation": "API 510, 8.2.1: Rerating rules must comply with the code the vessel was originally constructed under."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "The pressure vessel rerating will be considered complete:",
+      "Option A": "When engineer accept the rerate.",
+      "Option B": "With the attachment of an additional nameplate.",
+      "Option C": "Once hydro test is accepted.",
+      "Option D": "When owner/user accepts the rerate.",
+      "Answer": "B",
+      "Explanation": "API 510, 8.2.1: Attaching the physical nameplate or restamping is the final step in a legal rerate."
+    },
+    {
+      "SerialNo": 64,
+      "Question": "When hydro test of rerated pressure vessel is not mandatory?",
+      "Option A": "The pressure vessel has at some time been pressure tested to a test pressure equal to or higher than the test pressure required by the construction code.",
+      "Option B": "The vessel integrity is confirmed by special nondestructive evaluation inspection techniques in lieu of testing",
+      "Option C": "When pneumatic test is substituted",
+      "Option D": "Both a and b",
+      "Answer": "D",
+      "Explanation": "API 510, 8.2.1: Previous higher test results or specialized NDE can waive the new pressure test requirement."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "Which of the following vessels are exempted from API 510?",
+      "Option A": "A 300psi pressure caustic vessel.",
+      "Option B": "A 250 psi amin vessel mounted on a truck.",
+      "Option C": "A 150 psi HCL vessel located offsite.",
+      "Option D": "Both b and c.",
+      "Answer": "B",
+      "Explanation": "API 510, 1.2.2: Vessels on mobile structures covered by other regulations are exempt from the scope."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "Which of the following vessels are exempted from API 510?",
+      "Option A": "U stamped vessel.",
+      "Option B": "UM stamped vessel.",
+      "Option C": "Vessel without any stamping.",
+      "Option D": "Non-standard vessels.",
+      "Answer": "B",
+      "Explanation": "API 510, 1.2.2: UM (Miniature) vessels are outside the code's application scope."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "Actively engaged as an inspector means:",
+      "Option A": "Minimum of 20 % of time spent performing inspection activities or supervision inspection activities or engineering support of inspection activities as described in the API 510.",
+      "Option B": "performance of inspection activities or supervision of inspection activities or engineering support of inspection activities on 75 pressure vessels as described in API 510.",
+      "Option C": "performance of inspection activities or supervision of inspection activities or engineering support of inspection activities on 25 pressure vessels as described in API 510.",
+      "Option D": "Either a or b.",
+      "Answer": "B",
+      "Explanation": "API 510, Annex B: Defines \"active engagement\" for recertification purposes."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "If it is later determined that an inaccurate corrosion rate was assumed, the corrosion rate in the remaining life calculations shall be:",
+      "Option A": "Re-evaluated.",
+      "Option B": "changed to the actual corrosion rate.",
+      "Option C": "Adjusted with the original corrosion rate.",
+      "Option D": "Averaged between original and actual corrosion",
+      "Answer": "B",
+      "Explanation": "API 510, 7.1.1.2: Assumed rates must be replaced by actual measured rates once they are available."
+    },
+    {
+      "SerialNo": 69,
+      "Question": "When using lower strength filler metals what is the maximum repair depth allowed if actual thickness is 0.400” and required thickness is 0.300”?",
+      "Option A": "0.100”",
+      "Option B": "0.250”",
+      "Option C": "0.300”",
+      "Option D": "0.200”.",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.5.3.4: The limit is 50% of the base metal thickness. 0.5×0.5=0.25."
+    }
+  ]

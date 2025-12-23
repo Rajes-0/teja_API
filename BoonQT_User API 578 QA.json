@@ -1,0 +1,442 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "API 578 provides guidelines for a quality assurance system to verify:",
+      "Option A": "All materials.",
+      "Option B": "All alloy materials.",
+      "Option C": "Only non-ferrous material",
+      "Option D": "Only high-alloy materials.",
+      "Answer": "B",
+      "Explanation": "API 578 specifically addresses the verification of alloy materials in piping systems to prevent \"incorrect material substitution.\""
+    },
+    {
+      "SerialNo": 2,
+      "Question": "An alloy material is any metallic material that contains alloying elements that are added:",
+      "Option A": "Only to improve mechanical properties.",
+      "Option B": "Only to improve corrosion resistance",
+      "Option C": "To improve either mechanical properties or improve corrosion resistance",
+      "Option D": "none of the above.",
+      "Answer": "C",
+      "Explanation": "By definition in API 578, alloys are added to enhance specific properties, primarily for strength or resistance to environmental degradation."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "An inspection lot includes:",
+      "Option A": "All materials from same supplier",
+      "Option B": "All materials included on the same purchase order",
+      "Option C": "All materials of the same material type (i.e. 316 SS)",
+      "Option D": "All materials of the same material type from the same supplier and heat.",
+      "Answer": "D",
+      "Explanation": "An inspection lot is a grouping of items of the same type, from a common source (supplier) and common heat, for sampling purposes."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "A documented material verification program should be established by the:",
+      "Option A": "Authorized Inspector",
+      "Option B": "Owner/User",
+      "Option C": "Repair organization",
+      "Option D": "Engineering organization.",
+      "Answer": "B",
+      "Explanation": "The Owner/User is ultimately responsible for establishing, documenting, and implementing the material verification program."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "The material verification program should cover PMI testing of materials:",
+      "Option A": "During construction of piping systems.",
+      "Option B": "In existing piping systems.",
+      "Option C": "During repairs and alterations of piping systems.",
+      "Option D": "In existing piping systems and during construction, repairs and alterations of piping systems",
+      "Answer": "D",
+      "Explanation": "A comprehensive MVP covers the entire lifecycle: new construction, existing assets, and any subsequent repairs or alterations."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Random sampling is most appropriate for:",
+      "Option A": "Low-risk systems",
+      "Option B": "Low alloy systems",
+      "Option C": "Stainless steel systems",
+      "Option D": "Ferritic steel systems",
+      "Answer": "A",
+      "Explanation": "100% PMI is preferred for high-risk systems; random sampling may be acceptable for low-risk systems as defined by the Owner/User."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Who has the responsibility to determine the extent of PMI performed?",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner/User",
+      "Option C": "Repair organization",
+      "Option D": "Engineering organization",
+      "Answer": "B",
+      "Explanation": "Per API 578 Section 4, the Owner/User determines the extent of testing based on risk."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "Who has the responsibility to verify that the material verification program is properly implemented?",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner/User",
+      "Option C": "Repair organization",
+      "Option D": "Engineering organization",
+      "Answer": "B",
+      "Explanation": "The Owner/User must ensure the program is active and followed by all relevant parties."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "Who has the responsibility to review and approve the adequacy of the PMI program used by fabricators and material suppliers?",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner/User",
+      "Option C": "Repair organization",
+      "Option D": "Engineering organization",
+      "Answer": "B",
+      "Explanation": "It is the Owner/User’s duty to audit and approve the programs of their vendors and contractors."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "A mill test report:",
+      "Option A": "Eliminates the need for further material verification",
+      "Option B": "Is a report showing material discrepancies?",
+      "Option C": "Is an important part of the material qualify assurance program",
+      "Option D": "Is issued by the owner upon receipt of materials",
+      "Answer": "C",
+      "Explanation": "While an MTR is a key document, it does not replace the need for physical PMI if the Owner/User deems it necessary."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "A group of items or materials of the same type from a common source from which a sample is to be drawn for examination is:",
+      "Option A": "Heat.",
+      "Option B": "Inspection lot.",
+      "Option C": "Representative sample.",
+      "Option D": "Reference materials.",
+      "Answer": "B",
+      "Explanation": "This is the specific definition of an \"Inspection Lot\" provided in the code."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "During alloy welding:",
+      "Option A": "One electrode from each box should be sampled",
+      "Option B": "Two electrodes from each box should be sampled",
+      "Option C": "One electrode from each lot should be sampled",
+      "Option D": "Two electrodes from each lot should be sampled",
+      "Answer": "C",
+      "Explanation": "To ensure filler metal compliance, one electrode or a sample of wire from each lot must be tested."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "If alloy elements(s) are contained in the flux of a welding electrode, PMI testing:",
+      "Option A": "Is not necessary",
+      "Option B": "Is not necessary provided appropriate documentation is provided by the supplier",
+      "Option C": "Could be conducted on any of the production welds.",
+      "Option D": "Could be conducted on a weld button prior to production welds.",
+      "Answer": "D",
+      "Explanation": "A \"weld button\" (as-deposited weld metal) is required because the alloy is only present after the flux and wire melt together."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "New longitudinal welded alloyed pipe should:",
+      "Option A": "Never be used.",
+      "Option B": "Be used only if the Quality Factors is 1.0.",
+      "Option C": "Receive PMI testing of weld and base metal",
+      "Option D": "Receive 100% PMI testing of weld and base metal",
+      "Answer": "C",
+      "Explanation": "For welded pipe, both the base metal and the weld metal must be verified to ensure the entire component is correct."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Who has the responsibility to determine the extent of PMI testing required on existing piping systems?",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner / User",
+      "Option C": "Repair organization",
+      "Option D": "Engineering organization",
+      "Answer": "B",
+      "Explanation": "The Owner/User determines the retroactive PMI requirements for existing systems based on risk and history."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Incorrect substitution of carbon steel is most likely to be found in:",
+      "Option A": "Low alloy steel",
+      "Option B": "Stainless steels",
+      "Option C": "Any ferritic steel",
+      "Option D": "Any non-ferrous",
+      "Answer": "A",
+      "Explanation": "Carbon steel is visually identical to low alloy steels (like 1.25Cr or 5Cr), making it a high-risk area for accidental substitution."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Which of the following piping components is most likely to have a substitution with the wrong material?",
+      "Option A": "A 20’ length of 6 NPS pipe",
+      "Option B": "Weld-neck flange",
+      "Option C": "Expansion joint",
+      "Option D": "Bolting",
+      "Answer": "D",
+      "Explanation": "Small components like bolts and nuts are frequently mixed up in bins or during maintenance."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Who has the responsibility to determine the extent of PMI testing required during repairs and alterations of piping systems?",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner/User",
+      "Option C": "Repair organization",
+      "Option D": "Engineering organization",
+      "Answer": "B",
+      "Explanation": "Consistent with other sections, the Owner/User sets the scope for repairs and alterations."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Identification of materials by visual stamps or markings:",
+      "Option A": "Is not an important part of the material verification program",
+      "Option B": "Is not a substitute for MVP.",
+      "Option C": "Is important only on high alloy materials",
+      "Option D": "Should only be done by inspectors.",
+      "Answer": "B",
+      "Explanation": "Marking is necessary for traceability, but it cannot be relied upon as the sole \"verification\" in an MVP."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "MVP tools that use X-Ray fluorescence can not detect:",
+      "Option A": "Carbon and boron content.",
+      "Option B": "Chrome content",
+      "Option C": "Iron content",
+      "Option D": "Molybdenum content",
+      "Answer": "A",
+      "Explanation": "XRF technology is generally limited to elements heavier than Magnesium; it cannot detect light elements like Carbon."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "How does Portable Optical Emission Spectrometry determine the elements in a material?",
+      "Option A": "An electric arc causes a spectrum of light to be emitted from the tested material. The light is analyzed",
+      "Option B": "X-rays striking the material cause a spectrum of x-rays to be emitted from the tested material. The x-rays are analyzed.",
+      "Option C": "Specific chemicals deposited on the tested material cause a spectrum of colors to be emitted. The colors are analyzed",
+      "Option D": "The surface is polished and etched. A replication is preformed and is analyzed with a microscope.",
+      "Answer": "A",
+      "Explanation": "OES uses an arc or spark to vaporize metal, creating a light spectrum that identifies the chemical elements."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "PMI testing equipment should be:",
+      "Option A": "Calibrated every 4 hours",
+      "Option B": "Calibrated as specified by the manufacturer",
+      "Option C": "Used only by the manufacturer’s personnel",
+      "Option D": "Used by owner/user personnel",
+      "Answer": "B",
+      "Explanation": "Adhering to the manufacturer's calibration schedule ensures the accuracy and reliability of the data."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "All personnel performing PMI tests should be:",
+      "Option A": "Qualified by national exam",
+      "Option B": "Qualified by the owner/user",
+      "Option C": "Knowledgeable about the operation of the PMI test equipment",
+      "Option D": "Knowledgeable about the operation of the plant where the PMI is conducted.",
+      "Answer": "C",
+      "Explanation": "While the Owner/User qualifies them, the person must be technically proficient in the specific device they are using."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "An alloy weld overlay is applied to carbon steel base metal. Who has the responsibility to establish the minimum alloy requirements of the as-deposited weld metal?",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner/User",
+      "Option C": "Repair organization",
+      "Option D": "Engineering organization",
+      "Answer": "B",
+      "Explanation": "The Owner/User (often through their materials engineer) sets the acceptance criteria for weld overlays."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "Marking pens should not contain:",
+      "Option A": "Carbon",
+      "Option B": "Chrome",
+      "Option C": "Oxides",
+      "Option D": "Sulfur",
+      "Answer": "D",
+      "Explanation": "Sulfur and chlorides in marking pens can cause Stress Corrosion Cracking (SCC) in certain alloys, especially stainless steels."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "Sample materials for which laboratory chemical analysis data are available and are used in demonstrating the accuracy and reliability of a test instrument is called:",
+      "Option A": "Standard reference materials.",
+      "Option B": "Weld button.",
+      "Option C": "Representative sample.",
+      "Option D": "None of the above.",
+      "Answer": "A",
+      "Explanation": "Standard Reference Materials (SRMs) are used as a \"benchmark\" to verify the instrument's reading against a known value."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "A higher degree of PMI should be conducted on materials supplied by:",
+      "Option A": "stocking distributors",
+      "Option B": "Vendors.",
+      "Option C": "Manufacturers.",
+      "Option D": "None of the above.",
+      "Answer": "A",
+      "Explanation": "Stocking distributors often handle materials from multiple sources and heats, increasing the potential for mixed stock."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "When PMI indicates that alloying elements are outside the ranges indicated in the material specification:",
+      "Option A": "The material should be rejected.",
+      "Option B": "Further samples should be tested.",
+      "Option C": "The owner/user may still allow the use of the tested materials in situations where a person knowledgeable of the appropriate damage mechanisms confirms that the material will perform satisfactorily in the service.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "If a material is slightly off-spec but fit-for-service, an engineering evaluation by a corrosion/materials specialist can justify its use."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "When PMI is conducted on new or existing assets and systems, records of the results should be kept:",
+      "Option A": "For 5 years.",
+      "Option B": "For 1 year.",
+      "Option C": "As long as the equipment exists in its original location.",
+      "Option D": "10 year.",
+      "Answer": "C",
+      "Explanation": "These records provide lifelong traceability for the asset; they are essential for future repairs or incident investigations."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "The advantage of optical emission spectrometry is that they can detect:",
+      "Option A": "chromium.",
+      "Option B": "Nickel.",
+      "Option C": "Carbon.",
+      "Option D": "Molybdenum.",
+      "Answer": "C",
+      "Explanation": "Unlike standard XRF, OES has the capability to detect carbon, which is critical for verifying carbon steel grades and L-grade stainless."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "Portable optical emission spectrometry includes light weight portable operator evaluated device, laboratory grade analysers and:",
+      "Option A": "Laboratory chemical analysis.",
+      "Option B": "Resistivity testing.",
+      "Option C": "Chemical spot testing.",
+      "Option D": "Laser induced breakdown spectroscopy.",
+      "Answer": "D",
+      "Explanation": "LIBS is a modern form of OES that uses a laser instead of an electric spark to create the light spectrum."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "A batch of metal made at the same time, able to be traced from its original constituents and manufacturing process is",
+      "Option A": "A lot size.",
+      "Option B": "An inspection lot.",
+      "Option C": "A heat.",
+      "Option D": "A representative sample.",
+      "Answer": "C",
+      "Explanation": "A \"Heat\" refers to the specific batch of molten metal from a single furnace melt."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "When installing an unapproved high alloy into a system, PMI should be considered by the owner/user based upon the;",
+      "Option A": "Extent of the installation.",
+      "Option B": "Potential damage mechanisms and damage rates.",
+      "Option C": "The stress level of the installation location.",
+      "Option D": "Silicon levels and anticipated corrosion rate.",
+      "Answer": "B",
+      "Explanation": "The decision to test is risk-based, focusing on what would happen (and how fast) if the material were wrong."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "When calibrated for metal analysis, which device can provide qualitative and quantitative information to determine which elements are present and in what quantity?",
+      "Option A": "Wavelength dispersive spectrometers.",
+      "Option B": "X-ray fluorescence spectrometers.",
+      "Option C": "Laser-induced breakdown spectroscopy.",
+      "Option D": "Silica draft detectors.",
+      "Answer": "C",
+      "Explanation": "LIBS provides both identification (qualitative) and the exact percentage (quantitative) of elements."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "What is a sample of welding filler material deposited on relevant base metal in order to provide the basis for PMI of the filler?",
+      "Option A": "A button.",
+      "Option B": "A heat.",
+      "Option C": "A tab.",
+      "Option D": "A representative sample.",
+      "Answer": "A",
+      "Explanation": "This is the standard terminology for the small sample of as-deposited weld metal."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "Which of the following may inhibit near laboratory quality measurements from XRF technology?",
+      "Option A": "Surface contamination.",
+      "Option B": "Inaccurate calibration.",
+      "Option C": "Operator interpretation.",
+      "Option D": "Size of measurement area.",
+      "Answer": "A",
+      "Explanation": "Paint, grease, or oxidation (rust) on the surface can block X-rays and skew the results."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Which of the following is an acceptable method to address in process PMI during welding?",
+      "Option A": "Weld copy.",
+      "Option B": "Sample buttons.",
+      "Option C": "MTR.",
+      "Option D": "Chemical shopping.",
+      "Answer": "B",
+      "Explanation": "Testing a sample button is the best way to verify that the welder is using the correct alloy filler during the job."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "Users of XRF analysers should be aware of what type of hazards?",
+      "Option A": "Radiation.",
+      "Option B": "Toxins.",
+      "Option C": "Gas.",
+      "Option D": "Flammability.",
+      "Answer": "A",
+      "Explanation": "XRF devices emit ionizing radiation; operators must be trained in safety and never point the device at themselves or others."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "A quality assurance document used in the steelmaking industry that certifies a material’s compliance with appropriate standards, including physical and chemical specifications, and applicable dimensions is:",
+      "Option A": "mil test report.",
+      "Option B": "manufacturer data report.",
+      "Option C": "material conformance report.",
+      "Option D": "all of the above.",
+      "Answer": "A",
+      "Explanation": "This is the definition of a Mill Test Report (MTR)."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "If alloys are used in equipment systems for reasons other than corrosion resistance or structural integrity:",
+      "Option A": "material verification program may not be necessary.",
+      "Option B": "random PMI is sufficient.",
+      "Option C": "100% PMI is required.",
+      "Option D": "owner/ user shall specify the percentage of PMI.",
+      "Answer": "A",
+      "Explanation": "If the alloy's specific chemistry is not critical to the safety or integrity of the system, the Owner/User may waive the PMI requirement."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "Qualifications of the person performing the test, including training and experience, should be submitted for review and approval by the:",
+      "Option A": "authorized inspector.",
+      "Option B": "owner/user.",
+      "Option C": "process engineer.",
+      "Option D": "manufacturer.",
+      "Answer": "B",
+      "Explanation": "The Owner/User is responsible for verifying that the PMI technicians are competent."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "The owner/user is responsible to assure that all individuals performing PMI are trained and qualified in accordance with the:",
+      "Option A": "applicable procedure used during the examination.",
+      "Option B": "owner/user specification.",
+      "Option C": "contract requirements.",
+      "Option D": "all of the above.",
+      "Answer": "A",
+      "Explanation": "Training must be specific to the written procedure being followed for the inspection."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "Material verification program by resistivity testing is based on:",
+      "Option A": "Seebeck effect.",
+      "Option B": "tribo electric principle.",
+      "Option C": "thermo electric principle.",
+      "Option D": "a or c.",
+      "Answer": "D",
+      "Explanation": "Both the Seebeck effect and the Thermoelectric principle describe the generation of voltage due to temperature differences, which is how resistivity/thermo-electric sorting works."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "Ferrite meters are working based on:",
+      "Option A": "Seebeck effect.",
+      "Option B": "tribo electric principle.",
+      "Option C": "thermo electric principle.",
+      "Option D": "a or c.",
+      "Answer": "B",
+      "Explanation": "While many modern ferrite meters use magnetic induction, basic sorting for \"tribo-electric\" (static charge) is sometimes categorized this way in older study materials. (Note: In pure metallurgy, magnetic induction is the standard for Ferrite measurement)."
+    }
+  ]

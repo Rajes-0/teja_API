@@ -1,48 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Google Drive Video Player</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      text-align: center;
-      padding: 30px;
-      background-color: #f4f4f4;
-    }
-    iframe {
-      width: 80%;
-      max-width: 720px;
-      height: 405px;
-      border: none;
-      margin-bottom: 20px;
-    }
-    .download-link {
-      display: inline-block;
-      padding: 12px 24px;
-      font-size: 16px;
-      background-color: #0078D4;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-    }
-    .download-link:hover {
-      background-color: #005A9E;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Selector</title>
+    <link rel="stylesheet" href="home_style.css">
 </head>
 <body>
+    <div class="container">
+        <header>
+            <h1>Select Your Exam</h1>
+            <p>Choose an exam category and subject to begin.</p>
+        </header>
 
-  <h2>🎬 Google Drive Video Playback & Download</h2>
+        <main>
+            
+            <div class="category">
+                <h2>Closed Book Exams</h2>
+                <div class="button-grid">
+                    <button class="exam-btn" data-json="BoonQT_510_FINAL_CB_QA.json">BoonQT_510_FINAL_CB_QA</button>
+                    <button class="exam-btn" data-json="BoonQT_510 FINAL OB 15NO QA.json">BoonQT_510 FINAL OB 15NO QA</button>
+                    <button class="exam-btn" data-json="BoonQT_510 IMP.QB PART-2 2023 6.json">BoonQT_510 IMP.QB PART-2 2023 6</button>
+                    <button class="exam-btn" data-json="BoonQT_510 REVIEW-1 JULY 2024.json">BoonQT_510 REVIEW-1 JULY 2024</button>
+                    <button class="exam-btn" data-json="BoonQT_510 REVIEW-1 SEP 2023  5.json">BoonQT_510 REVIEW-1 SEP 2023  5</button>
+                    <button class="exam-btn" data-json="BoonQT_510 REVIEW-2 AUG 2024.json">BoonQT_510 REVIEW-2 AUG 2024</button>
+                    <button class="exam-btn" data-json="BoonQT_510 REVIEW-2 SEP 2023.json">BoonQT_510 REVIEW-2 SEP 2023</button>
+                    <button class="exam-btn" data-json="BoonQT_API 510 2022 IMP-175 QA.json">BoonQT_API 510 2022 IMP-175 QA</button>
+                    <button class="exam-btn" data-json="BoonQT_API 510 2023 QA,QB IMP-8.json">BoonQT_API 510 2023 QA,QB IMP-8</button>
+                    <button class="exam-btn" data-json="BoonQT_API 510 JULY 2025 CB QA.json">BoonQT_API 510 JULY 2025 CB QA</button>
+                    <button class="exam-btn" data-json="BoonQT_API 577 CB QA.json">BoonQT_API 577 CB QA</button>
+                    <button class="exam-btn" data-json="BoonQT_ASME V CB QA.json">BoonQT_ASME V CB QA</button>
+                    <button class="exam-btn" data-json="BoonQT_User API 571 CB QA.json">BoonQT_User API 571 CB QA</button>
+                    <button class="exam-btn" data-json="BoonQT_User API 576 QA.json">BoonQT_User API 576 QA</button>
+                    <button class="exam-btn" data-json="BoonQT_User API 578 QA.json">BoonQT_User API 578 QA</button>
+                    <button class="exam-btn" data-json="BoonQT_User PCC-2  QA.json">BoonQT_User PCC-2  QA</button>
 
-  <!-- Replace YOUR_FILE_ID with your actual Google Drive file ID -->
-  <iframe src="https://drive.google.com/file/d/1AKkTQwV-cwJBtqpn5178B-x3AavfLCgx/preview" allow="autoplay" allowfullscreen></iframe>
-
-  <br>
-
-  <a class="download-link" href="https://drive.google.com/uc?export=download&id=1AKkTQwV-cwJBtqpn5178B-x3AavfLCgx" download>
-    ⬇️ Download Video
-  </a>
-
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="home_script.js"></script>
 </body>
 </html>

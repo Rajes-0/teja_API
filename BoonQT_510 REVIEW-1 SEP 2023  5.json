@@ -1,0 +1,502 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "A new pressure vessel should be inspected to which of the following codes?",
+      "Option A": "API 510",
+      "Option B": "API 572",
+      "Option C": "ASME Sec. VIII Div. 1",
+      "Option D": "All of the above",
+      "Answer": "C",
+      "Explanation": "New construction is governed by the ASME Boiler and Pressure Vessel Code. API 510 is for in-service inspection."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "For repairs as per API 510, the welders and welding procedures shall be qualified to the requirement of:",
+      "Option A": "API 1104 code",
+      "Option B": "ASME Section V",
+      "Option C": "ASME Section IX",
+      "Option D": "AWS D 1.1",
+      "Answer": "C",
+      "Explanation": "ASME Section IX is the standard for qualifying welding procedures and welders used for pressure vessel work under API 510."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "For all repairs and alterations under API 510, the ultimate responsibility rests with:",
+      "Option A": "Owner/operator.",
+      "Option B": "API Committee",
+      "Option C": "API-510 Inspector",
+      "Option D": "Jurisdiction authority",
+      "Answer": "A",
+      "Explanation": "Per API 510, 4.2.1, the Owner/User has ultimate responsibility for the vessel's compliance and safety."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "Repair Organization is__________ and carries out repairs as per API 510:",
+      "Option A": "Holder of ASME certificate & appropriate code symbol stamp",
+      "Option B": "Owner-Operator",
+      "Option C": "Contractor under contract with owner-operator",
+      "Option D": "Any of above",
+      "Answer": "D",
+      "Explanation": "API 510, 3.1.61 defines a repair organization as any of these three entities."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "In API-510, the term “RBI” means:",
+      "Option A": "Repairing Before Inspection",
+      "Option B": "Report Based Inspection",
+      "Option C": "Repair Based Inspection",
+      "Option D": "Risk Based Inspection",
+      "Answer": "D",
+      "Explanation": "RBI is a risk assessment and management process focused on inspection planning."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Repair on pressure vessels will:",
+      "Option A": "Restore the vessels to intended (original) design conditions",
+      "Option B": "Not change the rating of vessel",
+      "Option C": "A and B",
+      "Option D": "Restore the vessels to some other usable conditions",
+      "Answer": "C",
+      "Explanation": "Repairs are meant to restore integrity to original design without changing the pressure/temperature ratings."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "According to API 510, authorized inspection agency is:",
+      "Option A": "Jurisdiction organization",
+      "Option B": "Insurance company which under writes insurance of pressure vessels",
+      "Option C": "Inspection organization of owner-Operator",
+      "Option D": "Any of above",
+      "Answer": "D",
+      "Explanation": "API 510, 3.1.8 defines the authorized inspection agency as any of these listed entities."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "As per API 510, _________ is responsible for design, engineering review, analysis, or evaluation of pressure vessels and pressure-relieving devices.",
+      "Option A": "Pressure vessel engineer",
+      "Option B": "The Owner /User",
+      "Option C": "Repair organization",
+      "Option D": "The examiner",
+      "Answer": "A",
+      "Explanation": "The Pressure Vessel Engineer is technically responsible for design and evaluation per API 510, 3.1.54."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "Who is responsible to execute the inspection plan?",
+      "Option A": "The Inspector",
+      "Option B": "The Engineer",
+      "Option C": "The Owner/user",
+      "Option D": "The authorized inspection agency (AIA)",
+      "Answer": "D",
+      "Explanation": "While the inspector supervises, the AIA is the responsible body to ensure the execution of the plan."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Who is responsible for engineering review, analysis, or evaluation of pressure vessels and pressure-relieving devices",
+      "Option A": "The Inspector",
+      "Option B": "The Engineer",
+      "Option C": "The Owner/operator",
+      "Option D": "The repair organization",
+      "Answer": "B",
+      "Explanation": "Engineering evaluations are the specific domain of the Engineer."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "Who is responsible to provide the materials, equipment, quality control, and workmanship",
+      "Option A": "The jurisdiction",
+      "Option B": "The Engineer",
+      "Option C": "The Owner/operator",
+      "Option D": "The repair organization",
+      "Answer": "D",
+      "Explanation": "Per API 510, 4.2.2, the repair organization provides the resources and quality control for the work."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "Who is responsible for the inspection, NDE, and pressure testing activities meet API 510 requirements",
+      "Option A": "The Inspector",
+      "Option B": "The Engineer",
+      "Option C": "The Owner/operator",
+      "Option D": "The Examiner",
+      "Answer": "A",
+      "Explanation": "The Authorized Inspector is responsible for ensuring all inspection and test activities comply with the code."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Following are some contents of an Inspection Plan except:",
+      "Option A": "define the type(s) of inspection needed",
+      "Option B": "identify the next inspection date",
+      "Option C": "describe personnel qualification",
+      "Option D": "describe the inspection and NDE techniques",
+      "Answer": "C",
+      "Explanation": "Inspection plans focus on what, when, and how to inspect, not the specific personnel's individual certifications."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "Temper embrittlement is?",
+      "Option A": "Occur in some low alloy steels",
+      "Option B": "Reduction in toughness due to metallurgical change (650°F to 1070°F)",
+      "Option C": "Both A & B.",
+      "Option D": "Occur below transition temperature.",
+      "Answer": "C",
+      "Explanation": "It is a loss of toughness in low-alloy steels (like 2.25Cr-1Mo) after long exposure to high temperatures."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Transition temperature?",
+      "Option A": "Temperature at which material changes mechanical properties.",
+      "Option B": "Temperature at which a material failed.",
+      "Option C": "Temperature at which a material fracture mode changes from ductile to brittle.",
+      "Option D": "Temp at which a material fracture mode changes from fatigue to brittle.",
+      "Answer": "C",
+      "Explanation": "It is the critical temperature where a material becomes susceptible to brittle fracture."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Who can act as authorized inspection agency?",
+      "Option A": "jurisdiction organization",
+      "Option B": "insurance company licensed to write PV insurance",
+      "Option C": "owner-operator inspection organization",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "This matches the standard definition in API 510, 3.1.8."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "A RBI assessment determines risk by combining the?",
+      "Option A": "Cause and effect",
+      "Option B": "Probability and possibility",
+      "Option C": "probability and the consequence",
+      "Option D": "All of the above",
+      "Answer": "C",
+      "Explanation": "Risk = Probability x Consequence."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "The probability assessment should be based on:",
+      "Option A": "General and local metal loss",
+      "Option B": "Surface connected cracking",
+      "Option C": "Metallurgical changes",
+      "Option D": "all forms of damage that could reasonably be expected",
+      "Answer": "D",
+      "Explanation": "API 510, 5.2.3 requires consideration of all credible damage mechanisms."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Consequence assessment must consider:",
+      "Option A": "potential incidents from fluid release",
+      "Option B": "size of a potential release",
+      "Option C": "type of a potential release",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "API 510, 5.2.4 states that the consequence of failure must account for all release impacts."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "When individuals are inside a vessel for an internal inspection:",
+      "Option A": "persons around should be informed",
+      "Option B": "inside workers should be informed of exterior work",
+      "Option C": "Safety officer informed",
+      "Option D": "a and b above",
+      "Answer": "D",
+      "Explanation": "This is a safety requirement for confined space and vessel coordination."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "What the inspectors shall do before performing any of the required API 510 inspections:",
+      "Option A": "consult with the Engineer",
+      "Option B": "consult with the corrosion specialist",
+      "Option C": "Familiarize themselves with prior history",
+      "Option D": "All of the above",
+      "Answer": "C",
+      "Explanation": "Reviewing the vessel history is a mandatory preliminary step per API 510, 5.3."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "Following are types of inspection in API 510 except:",
+      "Option A": "on-stream inspection",
+      "Option B": "integrity inspection",
+      "Option C": "thickness inspection",
+      "Option D": "CUI inspection",
+      "Answer": "B",
+      "Explanation": "\"Integrity inspection\" is a general goal, not a specific inspection type listed in the code."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "The internal inspection shall be performed by",
+      "Option A": "The Inspector",
+      "Option B": "The Owner /User",
+      "Option C": "The examiner",
+      "Option D": "A and/or C above",
+      "Answer": "A",
+      "Explanation": "API 510, 5.5.1.1 specifies that the Authorized Inspector must perform the internal inspection."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "During internal inspection, when vessels are equipped with removable internals:",
+      "Option A": "internals removed to allow inspection of pressure boundary",
+      "Option B": "internals need not be removed if damage is not expected in inaccessible regions",
+      "Option C": "inspected by process engineers",
+      "Option D": "Any of the above",
+      "Answer": "D",
+      "Explanation": "The inspector has discretion based on the vessel's history and condition."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "The inspector, should determine when it is necessary to remove deposits or linings, he should consult with:",
+      "Option A": "The Engineer",
+      "Option B": "The Owner /User",
+      "Option C": "The examiner",
+      "Option D": "The corrosion specialist",
+      "Answer": "D",
+      "Explanation": "API 510, 5.3 suggests consulting a specialist regarding potential damage behind linings."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "If the lining appears damaged, bulged or cracked",
+      "Option A": "The lining shall be removed",
+      "Option B": "portion may be removed for investigation",
+      "Option C": "External NDE may be advisable",
+      "Option D": "B or c above",
+      "Answer": "D",
+      "Explanation": "API 510, 5.5.1.1 allows for localized removal or external NDE to check for damage beneath liners."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "The On-stream inspection shall be performed by",
+      "Option A": "The Inspector",
+      "Option B": "The Owner /User",
+      "Option C": "The examiner",
+      "Option D": "A or C above",
+      "Answer": "D",
+      "Explanation": "Per API 510, 5.5.2.1, an on-stream inspection can be done by an inspector or an examiner."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "Thickness inspection may be a part",
+      "Option A": "The internal inspection",
+      "Option B": "The external inspection",
+      "Option C": "The On-stream inspection",
+      "Option D": "Any of the above",
+      "Answer": "C",
+      "Explanation": "Though part of overall data, thickness measurement is specifically categorized as on-stream or part of internal."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "External inspections are normally performed by",
+      "Option A": "The examiner",
+      "Option B": "The inspector",
+      "Option C": "The owner/user",
+      "Option D": "Any of the above",
+      "Answer": "B",
+      "Explanation": "Per API 510, 5.5.4.1, the authorized inspector performs the external inspection."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "Buried vessels condition and corrosion rate information obtained from",
+      "Option A": "maintenance activity on similar vessel",
+      "Option B": "interval exam of similarly buried vessel",
+      "Option C": "representative portions of actual vessel",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "API 510, 6.4.1 allows these methods to evaluate inaccessible external surfaces of buried vessels."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "When the short-term corrosion rate changes significantly from previous rate",
+      "Option A": "inspector should consult with the corrosion Engineer",
+      "Option B": "inspector analyze cause",
+      "Option C": "inspector report to owner",
+      "Option D": "None of the above",
+      "Answer": "A",
+      "Explanation": "Significant deviations in corrosion behavior require engineering/corrosion specialist review."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "CUI inspection considered for insulated vessels operating between",
+      "Option A": "10°C and 350°C (CS)",
+      "Option B": "140ºC and 350ºC (SS)",
+      "Option C": "A and B",
+      "Option D": "None of the above",
+      "Answer": "D",
+      "Explanation": "Per API 510, 5.6, the range for CUI is 10∘F to 350∘F ($ -12^\\circ\\text{C}$ to 175∘C). The options provided list different units/ranges."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "It is not necessary to remove the insulation for inspection of the vessel",
+      "Option A": "external coverings in good condition",
+      "Option B": "no evidence of fluid leakage.",
+      "Option C": "Equipment not in intermittent service",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "If visual indicators (casings/leaks) are sound and service isn't cyclic, insulation may stay."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "The minimum hydro test temperature for in-service vessel of 2” thickness is:",
+      "Option A": "MDMT+10° F",
+      "Option B": "MDMT+30°F",
+      "Option C": "MDMT+ 0°C",
+      "Option D": "MDMT+ 15°C",
+      "Answer": "A",
+      "Explanation": "Per API 510, 5.8.7.2, for thickness >2\", temp is MDMT+10∘F. (Note: if thickness was ≤2\", it would be MDMT+30∘F)."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "When the service is changed from highly corrosive to clean non corrosive hydrocarbon service",
+      "Option A": "CMLs may be eliminated or the number significantly reduced",
+      "Option B": "inspector should consult with the engineer",
+      "Option C": "A and B",
+      "Option D": "None of the above",
+      "Answer": "A",
+      "Explanation": "Transitioning to clean service allows for a reduction in monitoring density."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "When detection/sizing by manual UT in lieu of pressure test:",
+      "Option A": "Inspector specify qualified examiners",
+      "Option B": "owner/user specify industry-qualified UT angle beam examiners",
+      "Option C": "owner/user specify angle beam procedure",
+      "Option D": "examiner shall be qualified and certified",
+      "Answer": "B",
+      "Explanation": "API 510, 5.7.3.2 requires industry-qualified examiners (e.g., API QUTE) for manual ultrasonic flaw sizing."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Possible sources of UT measurement inaccuracies",
+      "Option A": "Improper instrument calibration",
+      "Option B": "Excessive “rocking” of the probe",
+      "Option C": "Subsurface material flaws",
+      "Option D": "Any of the above",
+      "Answer": "D",
+      "Explanation": "These are all standard sources of ultrasonic error per API 572."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "After an alteration",
+      "Option A": "A pressure test is normally required",
+      "Option B": "pressure test applied if inspector necessary",
+      "Option C": "engineer should be consulted",
+      "Option D": "All of the above",
+      "Answer": "A",
+      "Explanation": "API 510, 8.1.11.1 states that a pressure test is normally required after alterations."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "Before applying a hydrostatic test",
+      "Option A": "Supporting structures and foundation design should be reviewed",
+      "Option B": "Engineer should be consulted",
+      "Option C": "Owner/user shall be informed",
+      "Option D": "repair organization provide water",
+      "Answer": "A",
+      "Explanation": "API 510, 5.8.4 requires structural review to ensure foundations can handle the weight of water."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "Appropriate NDE specified/conducted when pressure test not performed after major repair",
+      "Option A": "only after engineer approved",
+      "Option B": "only after inspector approved",
+      "Option C": "only after Owner/user approved",
+      "Option D": "a and b",
+      "Answer": "D",
+      "Explanation": "Waiving a pressure test requires agreement from both the Inspector and the Engineer."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "Calculate estimated inspection period (RL = 12 years).",
+      "Option A": "Internal = 6 yrs, external = 10 yrs",
+      "Option B": "Internal = 6 yrs, external = 5 yrs",
+      "Option C": "Internal = 5 yrs, external = 10 yrs",
+      "Option D": "None of the above",
+      "Answer": "B",
+      "Explanation": "Internal = 1/2RL=12/2=6 years. External max interval is 5 years per API 510."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "2.0\" thick vessel, MDMT= 50 deg. F. Min pressure-test temperature?",
+      "Option A": "70 deg F",
+      "Option B": "80 deg. F",
+      "Option C": "60 deg. F",
+      "Option D": "None of above",
+      "Answer": "C",
+      "Explanation": "For thickness ≤2\", min temp is MDMT+10∘F=50+10=60∘F."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "Calc RL: Tact​=0.955, Tmin​=0.787, Tprev​=1.015 (5 yrs ago).",
+      "Option A": "20 years",
+      "Option B": "14 years",
+      "Option C": "28 years",
+      "Option D": "None of the above",
+      "Answer": "B",
+      "Explanation": "CR=(1.015−0.955)/5=0.012 in/yr. RL=(0.955−0.787)/0.012=14 years."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "ASME Sec VIII Div 1, shell 7/8’’ (SA 387 gr 11, P-No 4) repair by insert plates. Radiography requirement?",
+      "Option A": "Full radiography",
+      "Option B": "Spot radiography",
+      "Option C": "Maybe A or B",
+      "Option D": "Data is not adequate",
+      "Answer": "A",
+      "Explanation": "P-No 4 materials (Cr-Mo) generally require Full RT for Category A and B joints per ASME VIII Table UCS-57."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "For non-continuous corrosive service (RL = 25 yrs), external inspection not later than:",
+      "Option A": "10 years",
+      "Option B": "12.5 years",
+      "Option C": "5 years",
+      "Option D": "None of above",
+      "Answer": "C",
+      "Explanation": "Max interval for external inspection is 5 years regardless of remaining life."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "12 yrs service. Torig​=1.9375; Tcurr​=1.405. Corrosion rate?",
+      "Option A": "0.044 inch per year",
+      "Option B": "0.089 inch per year",
+      "Option C": "0.266 inch per year",
+      "Option D": "0.532 inch per year",
+      "Answer": "A",
+      "Explanation": "CR=(1.9375−1.405)/12=0.0443 in/yr."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "Total metal loss after 10 years if CR=6 mpy.",
+      "Option A": "0.05 inch",
+      "Option B": "0.06 inch",
+      "Option C": "0.006 inch",
+      "Option D": "0.6 inch",
+      "Answer": "B",
+      "Explanation": "6 mills=0.006 in. 0.006×10 years=0.06 inches."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "Assumed rate is inaccurate initially, how do you determine rate for next period?",
+      "Option A": "Check original calculations",
+      "Option B": "Unless changed by jurisdiction, use initial rate",
+      "Option C": "Adjusted to agree with actual rate found.",
+      "Option D": "Call in corrosion specialist",
+      "Answer": "C",
+      "Explanation": "API 510, 7.1.1.2 requires using the actual measured rate once historical data is established."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "Limitations for materials used for welding repair in carbon steel vessels?",
+      "Option A": "Meet NACE requirements",
+      "Option B": "Carbon content shall not be over 0.35%",
+      "Option C": "repair only by GTAW",
+      "Option D": "All of the above",
+      "Answer": "B",
+      "Explanation": "API 510, 8.1.5.3.2 limits carbon content to 0.35% for weldability during repairs."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "For non-continuous corrosive service (RL = 25 yrs), internal inspection not later than:",
+      "Option A": "10 years",
+      "Option B": "12.5 years",
+      "Option C": "5 years",
+      "Option D": "None of above",
+      "Answer": "A",
+      "Explanation": "Internal interval is 1/2RL=12.5 years, but API 510 limits the max interval to 10 years."
+    }
+  ]

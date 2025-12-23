@@ -1,0 +1,772 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "In 300 series material classification the suffix L and H stands for:",
+      "Option A": "Low and high Hydrogen.",
+      "Option B": "Low and high Carbon.",
+      "Option C": "Lithium and hydrogen.",
+      "Option D": "None of the above.",
+      "Answer": "b",
+      "Explanation": "In austenitic stainless steels, \"L\" denotes low carbon (<0.03%) to prevent sensitization, and \"H\" denotes high carbon (0.04−0.10%) for better high-temperature strength."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "Nickel base alloys contain nickel greater than:",
+      "Option A": "30%.",
+      "Option B": "50%.",
+      "Option C": 0.75,
+      "Option D": "40%.",
+      "Answer": "a",
+      "Explanation": "Per API 578, a nickel-base alloy is defined as a family of alloys containing nickel as the major alloying element, typically greater than 30%."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "AUBT stands for:",
+      "Option A": "Automated ultrasonic back scatter testing.",
+      "Option B": "Automated universal bend testing.",
+      "Option C": "Automatic under bead testing.",
+      "Option D": "None of the above.",
+      "Answer": "a",
+      "Explanation": "AUBT is a specialized ultrasonic technique used primarily for detecting high-temperature hydrogen attack (HTHA)."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "The sudden rapid fracture under stress without plastic deformation is called?",
+      "Option A": "Temper embrittlement.",
+      "Option B": "Fatigue cracks.",
+      "Option C": "Brittle fracture.",
+      "Option D": "Ductile fracture.",
+      "Answer": "c",
+      "Explanation": "Brittle fracture is the sudden failure of a material with little or no evidence of prior plastic deformation."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "The mechanical removal of surface materials a result of relative movement between solid, liquids, vapor or any combination thereof is called as:",
+      "Option A": "Corrosion",
+      "Option B": "Erosion",
+      "Option C": "Erosion-corrosion",
+      "Option D": "None of the above.",
+      "Answer": "b",
+      "Explanation": "Erosion is a purely mechanical process of material removal caused by the impingement of solids or fluids."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Which of the following will have most severe atmospheric corrosion?",
+      "Option A": "Wet rural areas",
+      "Option B": "Dry rural areas",
+      "Option C": "Marine environment and moist polluted industrial environment.",
+      "Option D": "All of the above.",
+      "Answer": "c",
+      "Explanation": "High humidity and chlorides (marine) or sulfur compounds (industrial) significantly accelerate the corrosion of carbon steel."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Which of the following material will CUI affect?",
+      "Option A": "Carbon steel and low alloy steel.",
+      "Option B": "300 SS and 400 SS.",
+      "Option C": "Duplex stainless steel.",
+      "Option D": "All of the above.",
+      "Answer": "d",
+      "Explanation": "API 571 Section 3.8 identifies that nearly all common pressure vessel materials are susceptible to either thinning (CS/LA) or SCC (SS/Duplex) under insulation."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "Which of the following material is generally resistant to caustic corrosion until passivity is damaged?",
+      "Option A": "Carbon steel",
+      "Option B": "Low alloy steel",
+      "Option C": "400 series ss",
+      "Option D": "300 series ss.",
+      "Answer": "d",
+      "Explanation": "300 series stainless steels form a protective passive layer that provides excellent resistance until high temperatures or concentrations break it down."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "Sulfidation of iron-based alloys begin at above 450°F but normally become a practical concern above:",
+      "Option A": "600 °F.",
+      "Option B": "500 °F.",
+      "Option C": "550 F.",
+      "Option D": "Room temperature.",
+      "Answer": "b",
+      "Explanation": "Per API 571 Section 3.61, the rate of sulfidation (metal loss) becomes significantly high and an inspection concern above 500°F (260°C)."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Which of the following materials are highly susceptible to chloride SCC?",
+      "Option A": "Carbon steel",
+      "Option B": "Low alloy steel",
+      "Option C": "300 series SS.",
+      "Option D": "All of the above.",
+      "Answer": "c",
+      "Explanation": "300 Series Austenitic SS (e.g., 304, 316) are the most susceptible to cracking in the presence of chlorides and moisture."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "Caustic SCC occur in piping and equipment exposed to caustic at elevated temperatures primarily:",
+      "Option A": "In carbon steel only",
+      "Option B": "Adjacent to non Pwht’d welds.",
+      "Option C": "Heat affected zone",
+      "Option D": "All of the above.",
+      "Answer": "b",
+      "Explanation": "High residual stresses from welding promote Caustic SCC; therefore, Post-Weld Heat Treatment (PWHT) is the primary mitigation method."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "Which of the following materials are not affected by amine SCC?",
+      "Option A": "Carbon steel",
+      "Option B": "Low alloy steel",
+      "Option C": "300 series SS.",
+      "Option D": "All of the above.",
+      "Answer": "c",
+      "Explanation": "Amine SCC primarily affects carbon and low-alloy steels. Austenitic stainless steels (300 series) are generally immune."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Which of the following may form as surface bulges primarily on the ID of pressure vessels due to hydrogen?",
+      "Option A": "HIC",
+      "Option B": "SO HIC",
+      "Option C": "Hydrogen blisters",
+      "Option D": "SSC",
+      "Answer": "c",
+      "Explanation": "Hydrogen blisters form when atomic hydrogen migrates into internal voids or inclusions and forms molecular H2​ gas, creating high pressure."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "HTHA results from formation of:",
+      "Option A": "Methane.",
+      "Option B": "Propane.",
+      "Option C": "Hydroge",
+      "Option D": "Oxygen.",
+      "Answer": "a",
+      "Explanation": "High-Temperature Hydrogen Attack occurs when hydrogen reacts with carbon in steel to form Methane (CH4​), which cannot diffuse out, leading to fissures."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Inspection SOHIC damage generally focuses on weld seams and ------",
+      "Option A": "HAZ",
+      "Option B": "Nozzles",
+      "Option C": "Trays",
+      "Option D": "Down comer.",
+      "Answer": "b",
+      "Explanation": "SOHIC (Stress Oriented Hydrogen Induced Cracking) is driven by high stress; thus, weld seams and nozzles are the primary areas of concern."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Which of the following preparation methods is used for NDE of Amine SCC?",
+      "Option A": "Grit blasting",
+      "Option B": "High pressure water blasting",
+      "Option C": "Flapper wheel abrasive grinding.",
+      "Option D": "All of the above.",
+      "Answer": "d",
+      "Explanation": "All these methods are acceptable for exposing the surface for NDE (like WFMT) to find amine cracks."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Which of the following NDE is usually not effective in finding tight oxide filled cracks and should not be used to detect amine SCC?",
+      "Option A": "WFMT.",
+      "Option B": "ACFM",
+      "Option C": "PT.",
+      "Option D": "All of the above.",
+      "Answer": "c",
+      "Explanation": "Liquid Penetrant (PT) cannot enter cracks that are tight or filled with scale/oxide, making it unreliable for finding environmental SCC."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "The preferred NDE method for caustic SCC detection is:",
+      "Option A": "ET",
+      "Option B": "WFMT.",
+      "Option C": "ACFM",
+      "Option D": "PT",
+      "Answer": "b",
+      "Explanation": "Wet Fluorescent Magnetic Particle Testing (WFMT) is the most sensitive method for finding the branched, fine cracking typical of Caustic SCC."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Which of the following materials is more resistant to caustic SCC?",
+      "Option A": "Nickel base alloys",
+      "Option B": "Chromium base alloys",
+      "Option C": "Molybdenum based alloys",
+      "Option D": "300 series SS.",
+      "Answer": "a",
+      "Explanation": "High nickel alloys (e.g., Alloy 400, 600) provide superior resistance to caustic environments compared to carbon or stainless steels."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "Which of the following NDT methods can be used in piping and pressure Vessels to detect chloride SCC?",
+      "Option A": "PT and phased analysis ET",
+      "Option B": "PT and UT.",
+      "Option C": "ECT",
+      "Option D": "WFMT And UT.",
+      "Answer": "c",
+      "Explanation": "Eddy Current Testing (ECT) is highly effective for detecting and sizing SCC in non-ferromagnetic stainless steels."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "Which of the following surface preparation method is used for the detection of extreme fine chloride SCC?",
+      "Option A": "Grid blasting",
+      "Option B": "High pressure water blast",
+      "Option C": "Polishing",
+      "Option D": "Both B and C.",
+      "Answer": "d",
+      "Explanation": "Fine SCC requires a very clean, smooth surface; high-pressure washing and polishing ensure the cracks are not smeared over by mechanical blasting."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "Sulfidation is most often in the form of uniform thinning but also can occur as:",
+      "Option A": "Carbonate corrosion",
+      "Option B": "Localized corrosion.",
+      "Option C": "Erosion- corrosion",
+      "Option D": "B and C of the above.",
+      "Answer": "d",
+      "Explanation": "High velocity or turbulence can turn general sulfidation into localized Erosion-Corrosion."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "Caustic corrosion is typically characterized by localized metal loss that may appear as_____in a boiler tube.",
+      "Option A": "Uniform corrosion",
+      "Option B": "Pits",
+      "Option C": "Grooves.",
+      "Option D": "Cracks.",
+      "Answer": "c",
+      "Explanation": "Concentrated caustic in boiler systems often causes localized gouging or grooving under deposits."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "In steam generating equipment caustic corrosion is best prevented by:",
+      "Option A": "Proper design",
+      "Option B": "Upgrading material",
+      "Option C": "Heat treatment",
+      "Option D": "All of the above.",
+      "Answer": "a",
+      "Explanation": "Design that avoids \"hot spots\" or areas where caustic can concentrate via evaporation is the most effective prevention."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "Insulating materials often “hold moisture” that creates corrosion. The ability of insulation to draw and hold water or moisture is known as:",
+      "Option A": "Wicking",
+      "Option B": "Saturation",
+      "Option C": "Wetting",
+      "Option D": "None of these are correct",
+      "Answer": "a",
+      "Explanation": "Wicking is the capillary action that pulls water through insulation fibers toward the metal surface."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "Prevention of CUI is best achieved by:",
+      "Option A": "Carefully planned periodic inspections",
+      "Option B": "Using appropriate coatings.",
+      "Option C": "Careful visual exam of insulation covers",
+      "Option D": "None of these are correct.",
+      "Answer": "b",
+      "Explanation": "A high-quality immersion-grade coating system is the primary barrier preventing moisture from reaching the metal under the insulation."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "Which of the following NDT methods will detect wet insulation?",
+      "Option A": "PT",
+      "Option B": "Infrared thermography.",
+      "Option C": "Neutron backscatter",
+      "Option D": "Both B and C.",
+      "Answer": "d",
+      "Explanation": "IR and Neutron Backscatter are non-destructive screening methods specifically used to find water trapped in insulation."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "Atmospheric Corrosion rates increase with the temperature... At temperatures above 250°F (121°C), the equipment surfaces are:",
+      "Option A": "Susceptible to increased rates.",
+      "Option B": "Susceptible to decreased rates",
+      "Option C": "Too dry for corrosion",
+      "Option D": "Usually too dry for corrosion to occur, except under insulation.",
+      "Answer": "d",
+      "Explanation": "Surfaces above 250°F stay dry, but insulation can trap water and keep the surface wet even if the pipe is hot."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "The atmospheric corrosion rate of marine environment will be:",
+      "Option A": "Less than 1mpy",
+      "Option B": "5 to 10 mpy",
+      "Option C": "20 mpy",
+      "Option D": "1-3 mpy",
+      "Answer": "c",
+      "Explanation": "In severe marine environments, carbon steel can thin at rates as high as 20 mpy due to chloride salts."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "Improved resistance to erosion is usually achieved through:",
+      "Option A": "increasing component hardness",
+      "Option B": "more corrosion resistant alloy",
+      "Option C": "Altering process environment,",
+      "Option D": "all of the above.",
+      "Answer": "a",
+      "Explanation": "API 571 Section 3.22 specifies that increasing hardness (Hard facing/Hard alloys) is the most effective way to resist mechanical erosion."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "Refractory loss inside a vessel due to erosion can be detected by:",
+      "Option A": "IR",
+      "Option B": "RT",
+      "Option C": "UT",
+      "Option D": "All of the above.",
+      "Answer": "a",
+      "Explanation": "Infrared (IR) Thermography identifies \"hot spots\" on the external shell that indicate internal refractory has eroded away."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "Which of the following materials are not affected by brittle fracture?",
+      "Option A": "Carbon steel.",
+      "Option B": "Austenitic stainless steel.",
+      "Option C": "Low alloy steel.",
+      "Option D": "400 series SS.",
+      "Answer": "b",
+      "Explanation": "Austenitic SS (300 series) have a Face-Centered Cubic (FCC) structure and do not undergo a ductile-to-brittle transition."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "Brittle Fracture only occurs at:",
+      "Option A": "Below room temperature",
+      "Option B": "Below transition temperature",
+      "Option C": "At high temperature",
+      "Option D": "None of the above",
+      "Answer": "b",
+      "Explanation": "Brittle fracture occurs when the metal temperature is below its Ductile-to-Brittle Transition Temperature (DBTT)."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "Erosion - corrosion is a description for the damage that occurs when:",
+      "Option A": "Erosion contributes to corrosion by removing protective films",
+      "Option B": "Corrosion contributes to erosion by removing protective films",
+      "Option C": "Both of the above",
+      "Option D": "None of the above",
+      "Answer": "a",
+      "Explanation": "Erosion removes the passive oxide layer (protective film), allowing fresh corrosion to occur at an accelerated rate."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "Which of the following is the characteristic appearance of erosion and erosion-corrosion?",
+      "Option A": "Grooves and valleys",
+      "Option B": "Holes and gulleys.",
+      "Option C": "Directional pattern",
+      "Option D": "All of the above.",
+      "Answer": "d",
+      "Explanation": "These features (especially a directional pattern) are visual hallmarks of material removal by fluid flow."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "Which of the following temperature atmospheric corrosion generally occurs?",
+      "Option A": "Below 350°F.",
+      "Option B": "Below 250°F.",
+      "Option C": "At 100°F.",
+      "Option D": "Above 250°F.",
+      "Answer": "b",
+      "Explanation": "Atmospheric corrosion requires liquid water; above 250°F, water evaporates too quickly."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Which of the following are critical for long term protection from atmospheric corrosion?",
+      "Option A": "CP and surface prep",
+      "Option B": "CP and coating",
+      "Option C": "Surface preparation and proper coating application.",
+      "Option D": "Change in atmospheric conditions.",
+      "Answer": "c",
+      "Explanation": "Coating life is 90% dependent on the quality of the surface preparation performed before application."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "CUI will appear in Austenitic stainless steel as:",
+      "Option A": "General corrosion",
+      "Option B": "Chloride stress corrosion cracking",
+      "Option C": "Caustic stress corrosion cracking",
+      "Option D": "Hydrogen induced cracking",
+      "Answer": "b",
+      "Explanation": "For stainless steel, the primary CUI risk is Chloride SCC (Cl−SCC) from leachable chlorides in the insulation."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "For insulated CS, LA, and 400 SS CUI is the concern for components operating in the temperature between:",
+      "Option A": "10 °F to 350°F.",
+      "Option B": "212°F to 350°F.",
+      "Option C": "140°F to 350°F.",
+      "Option D": "None of the above.",
+      "Answer": "a",
+      "Explanation": "API 571 Section 3.8.3 identifies the CUI risk range for carbon and low alloy steels as 10°F to 350°F (-12°C to 175°C)."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "Which of the following is the best way to mitigate erosion-corrosion?",
+      "Option A": "Using more corrosion resistant alloy",
+      "Option B": "Altering process environment",
+      "Option C": "Increasing surface hardness",
+      "Option D": "Only a & b of above.",
+      "Answer": "d",
+      "Explanation": "Unlike pure erosion (which needs hardness), erosion-corrosion is managed by process changes or better corrosion resistance to maintain the protective film."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "Resistance to sulfidation is achieved by increasing:",
+      "Option A": "Chromium content",
+      "Option B": "Nickel content",
+      "Option C": "Carbon content",
+      "Option D": "None of the above",
+      "Answer": "a",
+      "Explanation": "Chromium content in steel is the single most important factor for providing resistance to high-temperature sulfidation."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "Proactive and retroactive PMI programs are used to check the possibility of:",
+      "Option A": "caustic corrosion",
+      "Option B": "sulfidation",
+      "Option C": "chloride scc",
+      "Option D": "amine scc.",
+      "Answer": "b",
+      "Explanation": "Sulfidation is very sensitive to silicon and chromium levels; PMI ensures the correct alloy is installed to prevent unexpected failures."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "Which of the following are affected by sulfidation?",
+      "Option A": "Carbon steel",
+      "Option B": "300 Series SS",
+      "Option C": "400 Series SS",
+      "Option D": "All of the above",
+      "Answer": "d",
+      "Explanation": "Sulfidation affects most common alloys to some degree once the threshold temperature is exceeded."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "Chloride SCC usually occurs at metal temperature above:",
+      "Option A": "300 °F",
+      "Option B": "140 °F",
+      "Option C": "175 °F",
+      "Option D": "285 °F",
+      "Answer": "b",
+      "Explanation": "The threshold temperature for Cl−SCC in 300 series stainless steel is generally considered to be 140°F (60°C)."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "The greatest susceptibility for chloride SCC is at nickel content of:",
+      "Option A": "8% to 12%.",
+      "Option B": "Above 35%",
+      "Option C": "Above 45%",
+      "Option D": "None of the above.",
+      "Answer": "a",
+      "Explanation": "The \"Copson Curve\" shows that austenitic stainless steels with 8-12% Nickel (like 304/316) are at the peak of susceptibility."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "Above 45% nickel content the chloride SCC possibility are:",
+      "Option A": "Greatest possibility",
+      "Option B": "Highly resistant",
+      "Option C": "Nearly immune.",
+      "Option D": "None of the above.",
+      "Answer": "c",
+      "Explanation": "Alloys with high nickel content (>45%) are considered nearly immune to Chloride SCC."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "At what caustic concentration caustic SCC occurs when concentrating mechanism is present?",
+      "Option A": "Less than 100 ppm.",
+      "Option B": "1 to 20 ppm.",
+      "Option C": "50 to 100 ppm.",
+      "Option D": "250 to 500 ppm.",
+      "Answer": "c",
+      "Explanation": "Even low concentrations like 50-100 ppm can cause SCC if there is a way for it to concentrate (like a leak under insulation)."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "To prevent caustic SCC PWHT should be carried out at:",
+      "Option A": "1200 °F",
+      "Option B": "1150°F",
+      "Option C": "1100°F",
+      "Option D": "1000°F.",
+      "Answer": "b",
+      "Explanation": "API 571 specifies 1150°F (621°C) as a minimum soak temperature for effective stress relief in carbon steel to prevent caustic cracking."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "Amine SCC is often associated with:",
+      "Option A": "Rich amine services",
+      "Option B": "Lean amine service",
+      "Option C": "Caustic concentration",
+      "Option D": "None of the above",
+      "Answer": "b",
+      "Explanation": "Amine cracking is more likely in Lean Amine services where the H2​S (which can act as a protective film in rich amine) is absent."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "Amine cracking is a form of _ stress corrosion cracking.",
+      "Option A": "Hydrogen",
+      "Option B": "Caustic",
+      "Option C": "Polythionic",
+      "Option D": "Alkaline.",
+      "Answer": "d",
+      "Explanation": "Amine cracking is categorized as a form of Alkaline Stress Corrosion Cracking (ASCC)."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "Amine SCC cracks initiate on the (process side) surface of piping and equipment, primarily at:",
+      "Option A": "welds.",
+      "Option B": "HAZ.",
+      "Option C": "base metal.",
+      "Option D": "any of the above.",
+      "Answer": "a",
+      "Explanation": "Cracks typically initiate at or near welds because of the combined effect of residual welding stress and process environment."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "In amine SCC crack detection which NDE can be used for locating cracks and monitoring crack growth?",
+      "Option A": "RT.",
+      "Option B": "AET.",
+      "Option C": "MT.",
+      "Option D": "PAUT.",
+      "Answer": "b",
+      "Explanation": "Acoustic Emission Testing (AET) is a global monitoring method used to detect and locate growing SCC cracks during operation."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "The atmospheric corrosion rate of dry rural environment will be:",
+      "Option A": "Less than 1mpy.",
+      "Option B": "5 to 10 mpy",
+      "Option C": "20 mpyf",
+      "Option D": "1-3 mpy.",
+      "Answer": "a",
+      "Explanation": "Dry air lacks the moisture electrolyte required for corrosion, resulting in negligible rates (<1 mpy)."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "Routine inspection is not normally used to detect or mitigate:",
+      "Option A": "brittle fracture.",
+      "Option B": "atmospheric corrosion.",
+      "Option C": "CUI.",
+      "Option D": "none of the above.",
+      "Answer": "a",
+      "Explanation": "Brittle fracture is a sudden, non-corrosive failure; it is managed by design and MAT control, not routine thickness checks."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "Localized corrosion due to NaOH and KOH... usually occurs under evaporative or high heat transfer conditions:",
+      "Option A": "caustic gouging.",
+      "Option B": "caustic stress corrosion cracking.",
+      "Option C": "amine SCC",
+      "Option D": "amine corrosion.",
+      "Answer": "a",
+      "Explanation": "This is the specific definition of Caustic Gouging, as distinguished from cracking."
+    },
+    {
+      "SerialNo": 56,
+      "Question": "The pattern of caustic stress corrosion cracking observed on the steel surface is sometimes described as a:",
+      "Option A": "spider web of small cracks.",
+      "Option B": "spider web of large cracks.",
+      "Option C": "chevron cracks.",
+      "Option D": "sub surface cracks.",
+      "Answer": "a",
+      "Explanation": "Caustic SCC often exhibits a highly branched, spider-web pattern of fine surface-breaking cracks."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "Which materials are more resistant to caustic stress corrosion cracking and may be required at higher temperatures?",
+      "Option A": "chromium-based alloys.",
+      "Option B": "Nickel-based alloys.",
+      "Option C": "titanium.",
+      "Option D": "duplex ss.",
+      "Answer": "b",
+      "Explanation": "Nickel-base alloys provide the best immunity to caustic cracking at high concentrations and temperatures."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "Surface initiated cracking of 300 series SS and some nickel-based alloys... tensile stress, temperature, and aqueous chloride:",
+      "Option A": "chloride stress corrosion cracking.",
+      "Option B": "HCL corrosion.",
+      "Option C": "sour water corrosion.",
+      "Option D": "amine stress corrosion cracking.",
+      "Answer": "a",
+      "Explanation": "This describes the specific conditions required for Chloride SCC (Cl−SCC)."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "Corrosion... resulting from water trapped under insulation or fireproofing is called:",
+      "Option A": "corrosion under insulation.",
+      "Option B": "HCL corrosion.",
+      "Option C": "sour water corrosion.",
+      "Option D": "Cooling water corrosion.",
+      "Answer": "a",
+      "Explanation": "The standard term used in API 510/571 for this mechanism."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "For duplex stainless steel CUI refiners generally focus on the temperature range of:",
+      "Option A": "10 °F to 350°F.",
+      "Option B": "280°F to 350°F.",
+      "Option C": "140°F to 350°F.",
+      "Option D": "None of the above.",
+      "Answer": "b",
+      "Explanation": "Duplex SS are more resistant than 300 series SS; refiners focus on the higher end of the risk scale (280°F to 350°F)."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "Which of the changes in shape, geometry, and materials can help mitigate erosion and erosion-corrosion?",
+      "Option A": "increasing the pipe diameter",
+      "Option B": "streamlining bends",
+      "Option C": "replaceable impingement baffles",
+      "Option D": "any of the above.",
+      "Answer": "d",
+      "Explanation": "All these methods reduce fluid velocity or protect the pressure boundary from direct impingement."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "Resistance to HTHA increases with an increase in the alloy content, primarily the:",
+      "Option A": "chromium content.",
+      "Option B": "molybdenum content.",
+      "Option C": "chromium and molybdenum content.",
+      "Option D": "chromium or molybdenum content.",
+      "Answer": "c",
+      "Explanation": "Both Chromium and Molybdenum are carbide stabilizers that prevent HTHA per API 941."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "Which of the following materials are affected by boiler water condensate corrosion?",
+      "Option A": "Carbon steel.",
+      "Option B": "Low alloy steel.",
+      "Option C": "300 series SS.",
+      "Option D": "Both a and b.",
+      "Answer": "d",
+      "Explanation": "CO2​ and O2​ in condensate aggressive attack carbon and low-alloy steels, causing grooving or pitting."
+    },
+    {
+      "SerialNo": 64,
+      "Question": "Increasing Cr content improves resistance to H2S corrosion... little improvement until about ---- % Cr.",
+      "Option A": "3 to 5.",
+      "Option B": "5 to 7.",
+      "Option C": "7 to 9.",
+      "Option D": "9 to 12.",
+      "Answer": "c",
+      "Explanation": "API 571 notes that significant sulfidation resistance in iron-based alloys begins at approximately 7% to 9% Chromium."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "The major factors affecting high temperature corrosion are... presence of hydrogen, H2S concentration and the:",
+      "Option A": "chemical composition of alloy.",
+      "Option B": "Velocity",
+      "Option C": "Pressure",
+      "Option D": "Water content.",
+      "Answer": "a",
+      "Explanation": "The alloy's chemistry (specifically Chromium content) determines its ability to form a protective sulfide scale."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "Which of the following materials are highly resistance to High temp H2S corrosion?",
+      "Option A": "Carbon steel.",
+      "Option B": "400 SS.",
+      "Option C": "300 SS.",
+      "Option D": "All of the above.",
+      "Answer": "c",
+      "Explanation": "300 Series SS (Austenitic) are highly resistant to high-temperature sulfidation due to their high Cr and Ni content."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "NAC may be found in hot hydrocarbon streams... __________ any hydrogen mix point.",
+      "Option A": "Upstream of",
+      "Option B": "Downstream of",
+      "Option C": "Adjacent to",
+      "Option D": "Around.",
+      "Answer": "a",
+      "Explanation": "Naphthenic Acid Corrosion (NAC) is typically found upstream of hydrogen injection because hydrogen destruction of the acid occurs downstream."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "Higher ________ containing alloys are used for improved resistance to naphthenic acid corrosion.",
+      "Option A": "Chromium",
+      "Option B": "Carbon",
+      "Option C": "Molybdenum",
+      "Option D": "All of the above.",
+      "Answer": "c",
+      "Explanation": "Molybdenum (minimum 3%) is the key alloying element for resisting NAC in stainless steels."
+    },
+    {
+      "SerialNo": 69,
+      "Question": "Naphthenic acid corrosion is most severe in _________ flow; in areas of high velocity or turbulence.",
+      "Option A": "Single phase",
+      "Option B": "Two phase",
+      "Option C": "Three phase",
+      "Option D": "Negative phase.",
+      "Answer": "b",
+      "Explanation": "Two-phase (liquid/vapor) flow creates high turbulence and impingement, making NAC metal loss much more aggressive."
+    },
+    {
+      "SerialNo": 70,
+      "Question": "Which of the following materials is susceptible to naphthenic acid corrosion?",
+      "Option A": "Carbon steel",
+      "Option B": "300 Series SS",
+      "Option C": "400 Series SS",
+      "Option D": "All of the above.",
+      "Answer": "d",
+      "Explanation": "Nearly all commonly used iron-base alloys are susceptible to NAC metal loss."
+    },
+    {
+      "SerialNo": 71,
+      "Question": "Naphthenic acid is _____ by catalytic reactions in downstream hydro processing and FCC units.",
+      "Option A": "Enhanced",
+      "Option B": "Destroyed",
+      "Option C": "Concentrated",
+      "Option D": "Diluted.",
+      "Answer": "b",
+      "Explanation": "Downstream catalytic units effectively destroy the organic acids, mitigating the corrosion risk in those specific sections."
+    },
+    {
+      "SerialNo": 72,
+      "Question": "A minimum of __ molybdenum is needed in an alloy to Avoid naphthenic acid corrosion.",
+      "Option A": 0.03,
+      "Option B": "1 ½ %",
+      "Option C": "2%,",
+      "Option D": "4%.",
+      "Answer": "a",
+      "Explanation": "Alloys like 317L (3-4% Mo) perform significantly better in NAC service than 316L (2% Mo)."
+    },
+    {
+      "SerialNo": 73,
+      "Question": "Neutralization number or Total Acid Number (TAN) is a measure of organic acid content as determined by:",
+      "Option A": "ASTM D-664.",
+      "Option B": "API 571",
+      "Option C": "API 751",
+      "Option D": "None of the above",
+      "Answer": "a",
+      "Explanation": "ASTM D-664 is the industry-standard laboratory test for measuring the TAN of crude oils."
+    },
+    {
+      "SerialNo": 74,
+      "Question": "NAC can be reduced by blending crude to reduce the TAN and/or increase the:",
+      "Option A": "Sulfur content",
+      "Option B": "Velocity",
+      "Option C": "Pressure",
+      "Option D": "Water content.",
+      "Answer": "a",
+      "Explanation": "Sulfur can actually help mitigate NAC by forming a protective iron sulfide scale that acts as a barrier to the organic acid."
+    },
+    {
+      "SerialNo": 75,
+      "Question": "Brittle fracture can occur during ambient temperature hydrotesting due to:",
+      "Option A": "high stresses and low toughness.",
+      "Option B": "high stresses and high toughness.",
+      "Option C": "High thickness problems.",
+      "Option D": "Any of the above.",
+      "Answer": "a",
+      "Explanation": "Failure occurs when the stress intensity at a flaw exceeds the material's fracture toughness at the test temperature."
+    },
+    {
+      "SerialNo": 76,
+      "Question": "The presence of hydrogen in H2S streams increases sulfidation severity at temperatures above:",
+      "Option A": "450 °F.",
+      "Option B": "500 °F.",
+      "Option C": "550 F.",
+      "Option D": "Room temperature.",
+      "Answer": "a",
+      "Explanation": "High-temperature H2​/H2​S corrosion is a specific, more aggressive mechanism that begins at 450°F (230°C)."
+    },
+    {
+      "SerialNo": 77,
+      "Question": "To resist high temperature H2/H2S corrosion in carbon steel the minimum alloy content should be:",
+      "Option A": "9Cr-1Mo.",
+      "Option B": "7Cr-1Mo.",
+      "Option C": "18Cr-8 Ni.",
+      "Option D": "9Cr-0.5Mo.",
+      "Answer": "a",
+      "Explanation": "9Cr-1Mo steel is the standard selection for providing significantly improved resistance over carbon steel in H2​/H2​S environments."
+    }
+  ]

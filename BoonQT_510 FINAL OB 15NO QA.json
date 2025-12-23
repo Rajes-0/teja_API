@@ -1,0 +1,152 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "During the recent planned internal inspection showed two pits of following description. (Min. vessel thickness = 5/8” including C.A = 1/8”). Pits are separated by 12 inch distance (edge to edge). Pit A: Available thickness at bottom of pit = 0.4 inch. Pit dia. = 1.5” Pit B: Available thickness at bottom of pit = 0.34 inch. Pit dia. = 0.75” Your assessment is:",
+      "Option A": "Pitting is not harmful hence acceptable",
+      "Option B": "Pit A may be ignored but not Pit B",
+      "Option C": "Pit B may be ignored but not Pit A",
+      "Option D": "Both pits can not be ignored",
+      "Answer": "A",
+      "Explanation": "Per API 510, 7.4.3, widely scattered pits can be ignored if the remaining thickness is >1/2 the required thickness (1/2×0.5\"=0.25\"). Both pits (0.4\" and 0.34\") are >0.25\"."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "For a vessel which is planned for internal inspection after 8 years What should be the minimum remaining corrosion allowance in the vessel if corrosion rate is .015” per year?",
+      "Option A": "0.12”",
+      "Option B": "0.24”",
+      "Option C": "0.48”",
+      "Option D": "0.012”",
+      "Answer": "B",
+      "Explanation": "API 510, 6.5.1.1 states inspection interval ≤1/2 the remaining life (RL). If interval is 8 years, RL must be 16. CA=RL×CR=16×0.015=0.24\"."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "After completion of alterations a pressure test is:",
+      "Option A": "Normally required",
+      "Option B": "Subject to approval of the jurisdiction, appropriate NDE shall be required where pressure test is not performed",
+      "Option C": "Substituting NDE for a pressure test after an alteration should be done only after consulting a pressure vessel engineer and inspector experienced in pressure vessel design",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "Per API 510, 8.1.11, pressure tests are normally required after alterations unless substituted by NDE under specific engineering and inspector guidance."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "For corroded areas in vessel heads the central portion for torispherical head (ID=40 inches) may be considered as the portion lying entirely within a circle whose centre will be same as head centre and diameter will be:",
+      "Option A": "36’’",
+      "Option B": "40’’",
+      "Option C": "32’’",
+      "Option D": "200’’",
+      "Answer": "C",
+      "Explanation": "API 510, 7.4.6.1: The central portion of a torispherical head is defined as a circle with a diameter equal to 80% of the shell diameter. 0.8×40=32\"."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "For 2:1 Ellip. Head (ID=70 inches), the radius used in hemispherical formula would be:",
+      "Option A": "63”",
+      "Option B": "30’’",
+      "Option C": "54’’",
+      "Option D": "48’’",
+      "Answer": "A",
+      "Explanation": "API 510, 7.4.6.2: For a 2:1 ellipsoidal head, the spherical portion is evaluated using the hemispherical formula with R=0.9×D=0.9×70=63\"."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "A cluster of scattered of pits was observed on exterior of vessel shell. The description of pits is as follows: Nominal vessel thickness = 5/8” Corrosion allowance = 1/8 inch Total area of pits = 5.8 sq inch Pit of largest depth: 0.25 inch dia., 0.20” deep All pits could be enclosed in a circle of 8 inch dia. and maximum cumulative length is 1.75 inch within the circle.",
+      "Option A": "Pits may be ignored as per API 510",
+      "Option B": "Pits are unsafe as the total area of the pits is beyond limits",
+      "Option C": "The cluster is unsafe as depth of deepest pit is beyond limits",
+      "Option D": "The cluster is unsafe, they are exceeding cumulative length criteria",
+      "Answer": "A",
+      "Explanation": "API 510, 7.4.3: The criteria for area (8\" circle), total area (<7 in2), and cumulative length (<2\") are all satisfied, allowing the pits to be ignored."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Which of the following are excluded from the scope of application of API 510?",
+      "Option A": "Pressure vessels on movable structures covered by other jurisdictional regulations",
+      "Option B": "All classes of containers listed for exemption from construction in ASME Section VIII, Div. 1",
+      "Option C": "Pressure vessels which do not exceed volume of the five cubic feet and pressure of 250 psi",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "API 510, 1.2.2 lists specific exclusions including mobile vessels, ASME VIII-1 exemptions, and small/low-pressure vessels."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "What should be the minimum distance between adjacent fillet weld patches for 60” vessel diameter and 1.5” wall thickness?",
+      "Option A": "37.94”",
+      "Option B": "38.54”.",
+      "Option C": "24.34”",
+      "Option D": "26.83”.",
+      "Answer": "D",
+      "Explanation": "Calculated via the stress field separation formula d=4Rt​. Per API 510, 8.1.5.1.2, this ensures that the stress concentrations of the two patches do not overlap."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "A pressure vessel has been measured to have a minimum wall thickness of 0.235 inch after 5 years of service. The vessel’s original wall thickness was 0.250. Its minimum allowable wall thickness is 0.195 inch. How long until the next required internal inspection per API 510?",
+      "Option A": "10 years",
+      "Option B": "2.5 years",
+      "Option C": "6.6 years",
+      "Option D": "6-12 years",
+      "Answer": "C",
+      "Explanation": "CR=(0.250−0.235)/5=0.003\"/yr. RL=(0.235−0.195)/0.003=13.3 yrs. Max interval =1/2×RL=6.6 yrs."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Determine the MAWP for continuous service of the following vessel shell. The actual thickness reading of 1.270” was measured on a shell course. The allowable stress at 600 degrees is 14,500 psi. All joints are type 1 with full RT, vessel inside radius is 62”and corrosion rate is 0.025” per year and next internal inspection is scheduled after 6 years. The original MAWP of vessel is 350 psi?",
+      "Option A": "300 psi",
+      "Option B": "293 psi",
+      "Option C": "350 psi",
+      "Option D": "224 psi",
+      "Answer": "D",
+      "Explanation": "Tnext​=1.270−(2×0.025×6)=0.970\". P=(SEt)/(R+0.6t)=(14500×1×0.970)/(62+0.6×0.970)≈224 psi."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "For a corroded area with joint efficiency of 0.85, if the corroded area is .2.0” away from weld and base metal thickness is 1.25” which of the following joint efficiencies should be used for calculation?",
+      "Option A": "The joints efficiency must be 1.0.",
+      "Option B": "The joints efficiency must be 0.85.",
+      "Option C": "The joints efficiency must be exactly .90",
+      "Option D": "The joints efficiency has no bearing on corrosion evaluations.",
+      "Answer": "B",
+      "Explanation": "API 510, 7.4.5: If corrosion is within 2×T of a weld (2×1.25=2.5\"), the efficiency of that weld must be used. Since 2.0\"<2.5\", use 0.85."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "During in-service inspection of seamless 2:1 ellipsoidal head of inside diameter 72” a locally thinned area is located which is 25” away from the head center. Allowable stress is 16,500 psi and MAWP is 120 psi. What is the minimum required thickness in this corroded area?",
+      "Option A": "0.470”.",
+      "Option B": "0.131”.",
+      "Option C": "0.262”",
+      "Option D": "0.235”.",
+      "Answer": "D",
+      "Explanation": "Since 25\"<(0.8×36\"), use the hemispherical formula with R=0.9D=64.8\". T=(120×64.8)/(2×16500×1−0.2×120)=0.235\"."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "An ellipsoidal head has experienced corrosion at a radius 31 inches away the center of the head. The head is attached to a shell that is 8’ in diameter using a type 2 weld that has been fully radiographed. This corroded area may be considered within the spherical portion because the greatest distance allowed for this calculation form the heads center is;",
+      "Option A": "76.8 inches",
+      "Option B": "38.4 inches",
+      "Option C": "80.0 inches",
+      "Option D": "40.0 inches",
+      "Answer": "B",
+      "Explanation": "Central portion radius is 80% of shell radius. Shell D=96\", Radius =48\". 0.8×48=38.4\". Since 31<38.4, it is in the spherical portion."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "A vessel shell has scattered corrosive pits caused by hydrochloric acid. The greatest pit depth found is .333 inches deep in a shell, which has minimum required thickness of .521 inch. The sum of pit’s areas in a 8 inch diameter circle do not exceed 7 sq inches. This pit must be repaired because the limit of the pit depth in this situation is;",
+      "Option A": "0.1302”",
+      "Option B": "0.2805”",
+      "Option C": "0.2605”",
+      "Option D": "0.3250”",
+      "Answer": "C",
+      "Explanation": "API 510, 7.4.3: Maximum allowed pit depth is 1/2×Trequired​. 0.5×0.521=0.2605\". Since 0.333>0.2605, repair is required."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Pressure vessel records include construction and design information and:",
+      "Option A": "Design calculation and inspection history.",
+      "Option B": "Inspection history and repair alteration history.",
+      "Option C": "Inspection history, repair alteration and rerating information and FFS documentation.",
+      "Option D": "Only FFS documentation.",
+      "Answer": "C",
+      "Explanation": "API 510, 6.7.1 defines records as permanent and progressive, including history, repairs, alterations, rerating, and FFS assessments."
+    }
+]
