@@ -73,3 +73,60 @@ header p {
     background-color: #004494;
     transform: translateY(-1px);
 }
+
+
+
+
+/* Base Styles (Ensure these exist or update your current ones) */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.button-grid {
+    display: grid;
+    /* This creates as many columns as fit, at least 280px wide each */
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.exam-btn {
+    padding: 15px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%; /* Ensures button fills the grid cell */
+    border-radius: 8px;
+    /* Add your existing button colors/borders here */
+}
+
+/* --- Mobile Specific Adjustments --- */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.5rem; /* Slightly smaller title for small screens */
+    }
+
+    .container {
+        padding: 10px; /* Reduce padding to save screen real estate */
+    }
+
+    .button-grid {
+        /* On very small phones, switch to a single column */
+        grid-template-columns: 1fr; 
+        gap: 10px;
+    }
+
+    .exam-btn {
+        padding: 20px 10px; /* Larger touch target for fingers */
+        font-size: 14px;    /* Slightly smaller text to prevent overflow */
+        word-wrap: break-word; /* Prevents long file names from breaking the layout */
+    }
+    
+    .category h2 {
+        font-size: 1.2rem;
+        margin-top: 30px;
+    }
+}
