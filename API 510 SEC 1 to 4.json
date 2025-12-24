@@ -1,0 +1,462 @@
+[
+    {
+      "SerialNo": 1,
+      "Question": "Which of the following equipment types is not covered by API 510?",
+      "Option A": "Heat exchanger",
+      "Option B": "Safety relief valve",
+      "Option C": "Distillation column",
+      "Option D": "Process heater (furnace)",
+      "Answer": "D",
+      "Explanation": "API 510 applies to pressure vessels. Fired heaters (furnaces) are specifically excluded from the scope of API 510 and are generally covered by API 573."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "API 510 is used:",
+      "Option A": "For determining design details during a vessel alteration",
+      "Option B": "By hydro carbon and chemical process vessels.",
+      "Option C": "When evaluating furnace tubes.",
+      "Option D": "By all NBIC inspectors.",
+      "Answer": "B",
+      "Explanation": "Per Section 1.1, API 510 covers maintenance inspection, repair, alteration, and rerating procedures for pressure vessels used in the hydrocarbon and chemical process industries."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Which of the following activities is not included in the scope of API 510?",
+      "Option A": "Rerating a Vessel",
+      "Option B": "Operating a Vessel",
+      "Option C": "Replacing a Vessel head",
+      "Option D": "Internally Inspecting a Vessel",
+      "Answer": "B",
+      "Explanation": "API 510 focuses on the mechanical integrity (inspection, repair, alteration, and rerating) of vessels, not the daily operational procedures."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "API 510 covers vessels constructed to which fabrication code(s)?",
+      "Option A": "Only ASME B&PV Sect.VIII",
+      "Option B": "Only ASME B&PV Sect.VIII and the API /ASME Code for unfired pressure vessels",
+      "Option C": "ASME B&PV Sect.VIII and other current codes (except the French vessel code)",
+      "Option D": "Any fabrication code at owner/operator discretion",
+      "Answer": "D",
+      "Explanation": "API 510 is intended for vessels constructed to various codes (ASME, API/ASME, or others) as long as the owner/operator chooses to apply the API 510 standard for in-service inspection."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "API 510 takes effect:",
+      "Option A": "During the design stage of the vessel construction.",
+      "Option B": "During the fabrication stage of the vessel construction.",
+      "Option C": "Once the fabrication hydro or pneumatic test is completed.",
+      "Option D": "Once the vessel is placed in service.",
+      "Answer": "D",
+      "Explanation": "API 510 is an \"In-Service\" inspection code. It applies once the vessel has been placed in service, after initial construction and installation are complete."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Companies that use API 510 must:",
+      "Option A": "Employ an authorized inspection agency.",
+      "Option B": "Have access to an authorized inspection agency.",
+      "Option C": "Either employ or have access to an authorized inspection agency.",
+      "Option D": "Employ professional engineers.",
+      "Answer": "C",
+      "Explanation": "Section 4.2.1 states that the owner/operator of pressure vessels shall exercise control of the vessel and relief device inspection program... and shall either employ or have access to an authorized inspection agency."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "During vessel repair and alteration, if there is a conflict between the requirements of API 510 and the construction code which should be followed?",
+      "Option A": "API 510",
+      "Option B": "The construction code",
+      "Option C": "Either the API 510 or the construction code based on inspector’s recommendation",
+      "Option D": "The code with the most stringent requirements.",
+      "Answer": "A",
+      "Explanation": "API 510 Section 1.1.1 states: \"In the event of a conflict between the design/construction code and this inspection code, the requirements of this inspection code (API 510) shall take precedence.\""
+    },
+    {
+      "SerialNo": 8,
+      "Question": "An in – service vessel is being repaired or altered. If there is a conflict between the requirements of API 510 and the legal jurisdiction, which should be followed?",
+      "Option A": "API 510",
+      "Option B": "The legal jurisdiction",
+      "Option C": "The most stringent requirements",
+      "Option D": "Either set of the requirements",
+      "Answer": "C",
+      "Explanation": "While legal jurisdictions often take precedence, API 510 generally advises that the most stringent requirement be followed to ensure safety and compliance."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "A stainless steel vessel has a MAWP of 10 psig at 700°F. The vessel has a diameter of 24”and a length of 8’.The remaining life of the vessel is 48 years. What is the maximum internal interval?",
+      "Option A": "5 years",
+      "Option B": "10 years",
+      "Option C": "12 years",
+      "Option D": "Based on Owner/operator procedure.",
+      "Answer": "D",
+      "Explanation": "This vessel falls under specific exemptions (MAWP < 15 psig). API 510 Section 1.2.2 lists vessels that may be excluded from specific requirements. For exempted vessels, inspection is based on owner/operator procedures."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Vessels exempted from ASME section VIII:",
+      "Option A": "shall be inspected by API 510.",
+      "Option B": "shall not be inspected by API 510.",
+      "Option C": "should be considered in the owner/operator inspection program based on risk.",
+      "Option D": "none of the above",
+      "Answer": "C",
+      "Explanation": "Vessels exempted from the construction code (like ASME Sec VIII) are not strictly mandated by API 510 but should be managed by the owner/operator’s risk-based inspection program."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "During an in – service internal inspection, a crack is discovered on a longitudinal weld. this crack can be evaluated to which code?",
+      "Option A": "API 510",
+      "Option B": "API 579",
+      "Option C": "ASME B&PV Section VI",
+      "Option D": "Cracks are never allowed in an in – service vessel",
+      "Answer": "B",
+      "Explanation": "API 510 Section 5.10.1 allows for the evaluation of flaws (such as cracks) using Fitness-For-Service (FFS) assessments in accordance with API 579-1/ASME FFS-1."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "Which code provides requirements for Hot Tapping?",
+      "Option A": "API 578",
+      "Option B": "API 579",
+      "Option C": "API 651",
+      "Option D": "API 2201",
+      "Answer": "D",
+      "Explanation": "API 2201, \"Safe Hot Tapping Practices in the Petroleum & Petrochemical Industries,\" provides the necessary safety and technical requirements for performing hot taps on in-service equipment."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Which code provides information on RBI methodology in the refining industry?",
+      "Option A": "API 580",
+      "Option B": "API 581",
+      "Option C": "API 579",
+      "Option D": "ASME Section VIII",
+      "Answer": "B",
+      "Explanation": "API 581 provides the specific quantitative methodology for Risk-Based Inspection (RBI), whereas API 580 provides the general principles and guidelines for an RBI program."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "When performing corrosion under insulation and fireproofing inspection which standard should be followed?",
+      "Option A": "API 1104",
+      "Option B": "API 583",
+      "Option C": "API 584.",
+      "Option D": "WRC Bulletin 412.",
+      "Answer": "B",
+      "Explanation": "API 583 is specifically focused on \"Corrosion Under Insulation and Fireproofing\" and provides detailed guidelines for the inspection and mitigation of these issues."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Which of the following is considered a vessel alteration?",
+      "Option A": "Addition of non-reinforced nozzle less than the existing size.",
+      "Option B": "Weld build-up in a locally corroded area",
+      "Option C": "Replacement of a hemi-spherical head with a torispherical head",
+      "Option D": "Addition of fillet weld patch",
+      "Answer": "C",
+      "Explanation": "An alteration is a physical change that has design implications. Changing a head type (e.g., hemi to torispherical) changes the pressure-holding capability and design calculations."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "An alteration on a vessel is defined as:",
+      "Option A": "Any physical change with design implications.",
+      "Option B": "The work necessary to restore a vessel to new condition.",
+      "Option C": "The work necessary to restore a vessel to a suitable safe condition.",
+      "Option D": "Any cutting or welding performed on the vessel’s pressure boundary.",
+      "Answer": "A",
+      "Explanation": "Per API 510, Section 3.1.2, an alteration is a physical change that involves design implications affecting the pressure-containing capability."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "An 8 NPS nozzle is going to be added to a 2-to-1 ellipsoidal vessel head... Which of the following is true?",
+      "Option A": "This work will be considered an alteration",
+      "Option B": "The root pass on the welds must be checked with either MT or PT",
+      "Option C": "The vessel must be hydrotested after the nozzles are completed",
+      "Option D": "This work is considered as repair.",
+      "Answer": "D",
+      "Explanation": "Adding a nozzle that is not larger than an existing nozzle and does not require reinforcement is generally classified as a repair, not an alteration."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Which of the following inspection organizations is not considered an acceptable API 510 Authorized Inspections Agency?",
+      "Option A": "Fabrication department of owner/operator.",
+      "Option B": "Insurance company that writes pressure vessel insurance",
+      "Option C": "The owner/operator",
+      "Option D": "The jurisdiction",
+      "Answer": "A",
+      "Explanation": "A fabrication department has a conflict of interest. An Authorized Inspection Agency must be the jurisdiction, the owner/operator's inspection department, or an insurance company."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Which of the following is considered as API 510 Authorized Inspection Agency?",
+      "Option A": "The owner/operator’s operating department",
+      "Option B": "The inspection organization of the jurisdiction",
+      "Option C": "An NDE contract organization",
+      "Option D": "The inspection department of a vessel manufacturer",
+      "Answer": "B",
+      "Explanation": "The jurisdiction in which the vessel is erected is one of the four entities defined by API 510 as an Authorized Inspection Agency."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "A repair on a vessel is defined as:",
+      "Option A": "Any physical change with design implications.",
+      "Option B": "The work necessary to restore a vessel to new condition.",
+      "Option C": "The work necessary to restore a vessel to a suitable safe condition.",
+      "Option D": "Any cutting or welding performed on the pressure boundary.",
+      "Answer": "C",
+      "Explanation": "Section 3.1.53 defines repair as the work necessary to restore a vessel to a condition suitable for safe operation at the design conditions."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "Which of the following is not considered a vessel rerate?",
+      "Option A": "Decrease the MDMT",
+      "Option B": "Increase the design pressure",
+      "Option C": "Decrease the design temperature",
+      "Option D": "Increase the fluid viscosity",
+      "Answer": "D",
+      "Explanation": "Rerating involves changes to pressure or temperature ratings. Changing fluid viscosity is a process change, but does not inherently change the vessel's code rating."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "Temper embrittlement occurs in certain materials when:",
+      "Option A": "The operation temperature is within 30°F of the vessel‘s MDMT.",
+      "Option B": "Weld repairs are performed and the metal temperature is below 32°F.",
+      "Option C": "The process temperatures is 650°F to 1070°F.",
+      "Option D": "The process environment contains low temperature caustic.",
+      "Answer": "C",
+      "Explanation": "Temper embrittlement is the loss of ductility in low alloy steels (typically Cr-Mo) due to exposure in the 650°F to 1070°F (343°C to 577°C) range."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "Designated areas on pressure vessels where periodic external examinations are conducted... is called.",
+      "Option A": "Examination point.",
+      "Option B": "CML",
+      "Option C": "Inspection point.",
+      "Option D": "Repair area.",
+      "Answer": "B",
+      "Explanation": "Condition Monitoring Locations (CMLs) are designated areas on vessels where periodic inspections/thickness measurements are conducted."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "CML and examination point:",
+      "Option A": "Both have same meaning.",
+      "Option B": "Examination point is part of CML.",
+      "Option C": "CML is part of examination point.",
+      "Option D": "Both have no relation.",
+      "Answer": "B",
+      "Explanation": "A CML is a specific area; within that CML, there may be several specific \"examination points\" where measurements are actually taken."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "A welding technique used to obtain controlled grain refinement is called:",
+      "Option A": "Controlled deposition welding.",
+      "Option B": "Temper bead welding only.",
+      "Option C": "Half bead welding only.",
+      "Option D": "All of the above.",
+      "Answer": "A",
+      "Explanation": "Controlled deposition welding is the umbrella term for techniques like temper bead or half-bead used to achieve grain refinement in the Heat Affected Zone (HAZ)."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "CUI in austenitic stainless steel and duplex stainless steel will appear as:",
+      "Option A": "General corrosion.",
+      "Option B": "Localized corrosion.",
+      "Option C": "Internal cracking",
+      "Option D": "Stress corrosion cracking.",
+      "Answer": "D",
+      "Explanation": "Per API 571/583, while carbon steel suffers from localized/general thinning under insulation, stainless steels are prone to Chloride Stress Corrosion Cracking (Cl-SCC)."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "Examiner.",
+      "Option A": "Is an authorized inspector.",
+      "Option B": "Is a ndt personnel authorized to evaluate results based on acceptance criteria..",
+      "Option C": "Does not evaluate results in accordance with api 510 unless trained and authorized by owner/operator.",
+      "Option D": "Both b & c are correct answers.",
+      "Answer": "D",
+      "Explanation": "An examiner is NDE personnel who performs tests but does not have the same authorities as an Authorized Inspector (AI) unless specifically qualified/authorized."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "A visual inspection performed from outside to find the outside conditions is called:",
+      "Option A": "Internal inspection.",
+      "Option B": "CML.",
+      "Option C": "External inspection.",
+      "Option D": "Thickness measurement inspection.",
+      "Answer": "C",
+      "Explanation": "External inspection is a visual check of the vessel's exterior, including insulation, supports, and attachments, while in service."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "A methodology whereby flaws... are assessed in order to determine the integrity of the vessel for continued service is called:",
+      "Option A": "RBI",
+      "Option B": "FFS",
+      "Option C": "CUI",
+      "Option D": "CML.",
+      "Answer": "B",
+      "Explanation": "Fitness-For-Service (FFS) assessments (per API 579) are used to evaluate if equipment with flaws can continue to operate safely."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "A point in the repair or alteration process beyond which work may not proceed until the required inspection... is performed is:",
+      "Option A": "Examination point",
+      "Option B": "Hold point",
+      "Option C": "CML",
+      "Option D": "RBI",
+      "Answer": "B",
+      "Explanation": "A \"Hold Point\" is a mandatory stop-work point in the Quality Control plan requiring sign-off by the Inspector."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "Which of the following vessel is not considered as in service?",
+      "Option A": "a pressure vessel that has been placed in operation.",
+      "Option B": "A pressure vessel not in operation because of a process outage.",
+      "Option C": "A pressure vessels that are temporarily out of service",
+      "Option D": "A pressure vessel retired from service.",
+      "Answer": "D",
+      "Explanation": "Retired vessels are no longer part of the in-service inspection program governed by API 510."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "Inspection deferral is:",
+      "Option A": "Same as overdue.",
+      "Option B": "Postponement of inspection for a specific period by AI.",
+      "Option C": "Postponement of inspection after documented risk assessment.",
+      "Option D": "Deferral of inspection without risk assessment.",
+      "Answer": "C",
+      "Explanation": "Section 5.12 allows for deferrals only when a documented risk assessment and justification are approved by the AI and owner/operator."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "Established limits for process variables (parameters) that can affect the integrity... if the process operation deviates...",
+      "Option A": "CML",
+      "Option B": "IOW.",
+      "Option C": "Hold point.",
+      "Option D": "Inspection deferral.",
+      "Answer": "B",
+      "Explanation": "Integrity Operating Windows (IOWs) are limits for process variables (like temp, pH, or pressure) to prevent accelerated damage."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "Any work not considered an alteration that removes and replaces a major part of the pressure boundary other than a nozzle is called:",
+      "Option A": "Repair.",
+      "Option B": "Minor repair.",
+      "Option C": "Major repair.",
+      "Option D": "Alteration.",
+      "Answer": "C",
+      "Explanation": "Major repairs (Section 3.1.41) include activities like replacing a head or a large shell section."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "Which of the following is non-pressure boundary?",
+      "Option A": "Trays and nozzles.",
+      "Option B": "Baffles and nozzles",
+      "Option C": "Trays and distribution piping.",
+      "Option D": "Baffles and head.",
+      "Answer": "C",
+      "Explanation": "Internal components like trays, baffles, and distribution piping do not contain the pressure of the vessel."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "Inspections for in-service vessels... that have not been performed by their due dates... is called.",
+      "Option A": "Inspection deferral.",
+      "Option B": "Overdue inspections.",
+      "Option C": "On stream inspection.",
+      "Option D": "External inspection.",
+      "Answer": "B",
+      "Explanation": "If an inspection is not performed by the due date and has not been formally deferred, it is classified as \"Overdue.\""
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Who is responsible to ensure that the authorized inspection agency functions in accordance with the requirements or API 510?",
+      "Option A": "Authorized inspector",
+      "Option B": "Jurisdiction",
+      "Option C": "Owner/operator.",
+      "Option D": "Pressure vessel engineer",
+      "Answer": "C",
+      "Explanation": "Per Section 4.2.1, the owner/user has overall responsibility for the pressure vessel and relief device inspection program, including the quality and frequency of inspection."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "During in-service vessel repairs, all examination results must be evaluated accepted by the:",
+      "Option A": "NDE supervisor.",
+      "Option B": "Authorized inspector.",
+      "Option C": "Pressure vessel engineer.",
+      "Option D": "Repair organization.",
+      "Answer": "B",
+      "Explanation": "The API 510 Authorized Inspector is responsible for the final acceptance of the repair or alteration once they are satisfied that the work meets the code requirements."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "When repairs and alterations are being conducted, which individual or organization is responsible for quality control?",
+      "Option A": "authorized inspection agency",
+      "Option B": "repair organization",
+      "Option C": "API 510 inspector",
+      "Option D": "on-site pressure equipment department",
+      "Answer": "B",
+      "Explanation": "Section 4.2.3 states that the repair organization is responsible for the quality control of materials, equipment, and workmanship as required by API 510."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "When NDE is performed on in-service vessels, who must maintain a record of the NDE personnel certification?",
+      "Option A": "Authorized inspector’s employer.",
+      "Option B": "Examiner’s Employer",
+      "Option C": "Owner",
+      "Option D": "Repair Organization.",
+      "Answer": "B",
+      "Explanation": "API 510 Section 4.2.4 requires that the employer of the personnel performing NDE (the Examiner) maintains records of their qualifications and certifications."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "Who is responsible for developing, documenting, implementing and executing pressure vessel inspection systems?",
+      "Option A": "Authorized inspector.",
+      "Option B": "Pressure vessel engineer.",
+      "Option C": "Owner / operator organization ( authorized inspection agency).",
+      "Option D": "Inspection agency.",
+      "Answer": "C",
+      "Explanation": "The owner/operator organization (which may function as its own authorized inspection agency) is tasked with the creation and implementation of the entire inspection system."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "The near vision requirement for inspectors is:",
+      "Option A": "J-2 checked annually.",
+      "Option B": "J-1 checked annually",
+      "Option C": "J-1 checked biannually",
+      "Option D": "J-2 checked monthly.",
+      "Answer": "B",
+      "Explanation": "API 510 requires inspectors to have an annual eye exam to ensure they meet the Jaeger J-1 near-vision standard (with or without correction)."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "Who is responsible for implementing IOW and MOC?",
+      "Option A": "Authorized inspector.",
+      "Option B": "Pressure vessel engineer.",
+      "Option C": "Owner /operator.",
+      "Option D": "Inspection agency",
+      "Answer": "C",
+      "Explanation": "The owner/operator is responsible for establishing and implementing Integrity Operating Windows (IOWs) and Management of Change (MOC) procedures to manage process variables."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "Who is responsible for design and engineering review?",
+      "Option A": "Authorized inspector.",
+      "Option B": "Pressure vessel engineer.",
+      "Option C": "Owner/operator.",
+      "Option D": "Inspection agency.",
+      "Answer": "B",
+      "Explanation": "Engineering evaluations and design reviews (such as those for alterations or rerating) must be performed by a Pressure Vessel Engineer as defined by the code."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "Who is responsible for materials, equipment, QC and workmanship?",
+      "Option A": "Authorized inspector.",
+      "Option B": "Pressure vessel engineer.",
+      "Option C": "Owner/operator.",
+      "Option D": "Repair organization.",
+      "Answer": "D",
+      "Explanation": "The repair organization is strictly responsible for providing appropriate materials and maintaining the quality control of the actual physical work/welding."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "Who is responsible for inspection, NDE and repairs?",
+      "Option A": "Authorized inspector.",
+      "Option B": "Pressure vessel engineer.",
+      "Option C": "Owner/operator.",
+      "Option D": "Inspection agency.",
+      "Answer": "A",
+      "Explanation": "The Authorized Inspector (AI) is responsible to the owner/operator for the actual performance of inspection and ensuring NDE and repairs are carried out correctly."
+    }
+  ]

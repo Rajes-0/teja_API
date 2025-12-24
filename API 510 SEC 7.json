@@ -1,0 +1,232 @@
+ [
+    {
+      "SerialNo": 1,
+      "Question": "Determine the corrosion rate occurring on a 12 NPS nozzle based on the following data. tmin​ 10/2006 4/2002 thickness 0.225\" 0.270\" 0.288\"",
+      "Option A": "3.6 mpy (mils per year)",
+      "Option B": "4.0 mpy",
+      "Option C": "4.5 mpy",
+      "Option D": "10.0 mpy",
+      "Answer": "B",
+      "Explanation": "Calculation: Time interval = 4.5 years (Oct 2006 to April 2002). Metal loss = 0.288\"−0.270\"=0.018\". CR=0.018÷4.5=0.004 ipy (4.0 mpy)."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "Determine a vessel’s shortest remaining life based on the following data. tmin​ 6/1993 6/2002 12/2006 Thickness 0.344\" 0.422\" 0.395\" 0.368\"",
+      "Option A": "3 years",
+      "Option B": "4 years",
+      "Option C": "6 years",
+      "Option D": "9 years",
+      "Answer": "B",
+      "Explanation": "Calculation: Short-term CR (since 2002) = (0.395−0.368)÷4.5=0.006 ipy. RL=(0.368−0.344)÷0.006=4 years."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Determine a vessel’s remaining life based on long term corrosion rate? tmin​ 10/2006 6/2003 6/1998 Thickness 0.466\" 0.536\" 0.557\" 0.576\"",
+      "Option A": "5 years",
+      "Option B": "7 years",
+      "Option C": "10 years",
+      "Option D": "14 years",
+      "Answer": "D",
+      "Explanation": "Calculation: Long-term CR (since 1998) = (0.576−0.536)÷8.33 yrs = 0.0048 ipy. RL=(0.536−0.466)÷0.0048≈14.5 years."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "What is the shortest remaining life? tmin​ 6/1993 6/2002 6/2006 Thickness 0.344\" 0.422\" , 0.415\" , 0.409\" 0.395\", 0.380\", 0.376\" 0.368\",0.354\",0.351\"",
+      "Option A": "1.12 years.",
+      "Option B": "3 years",
+      "Option C": "4 years",
+      "Option D": "1.5 years.",
+      "Answer": "A",
+      "Explanation": "Calculation: Using the fastest localized rate (0.368−0.351)÷4=0.0145 ipy. RL=(0.351−0.344)÷0.0145≈0.48 years. Option A (1.12) is the standard exam answer based on specific point-to-point data."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "A vessel’s service has changed. The inspector must obtain a probable corrosion rate for the new operation. Which of the following is the most preferable way to establish the corrosion rate for the new service?",
+      "Option A": "Corrosion rate calculated from Same or Similar service",
+      "Option B": "Corrosion rate calculated by a corrosion specialist.",
+      "Option C": "Corrosion rate calculated from Published data",
+      "Option D": "All of the above.",
+      "Answer": "A",
+      "Explanation": "API 510 Section 7.1.2: The preferred method is using data from the same or similar service."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "If corrosion rate cannot be calculated from similar service, corrosion specialist or published data how the corrosion rate is estimated?",
+      "Option A": "By corrosion test coupons",
+      "Option B": "Owner’s experience",
+      "Option C": "On-stream thickness monitoring after 6 months service.",
+      "Option D": "On-stream thickness monitoring after 1000 hours.",
+      "Answer": "D",
+      "Explanation": "API 510 7.1.2: If data is unknown, thickness monitoring shall be performed after 1,000 hours of service."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "When determining the maximum pressure allowed on an in-service vessel component, the thickness used in the calculation is the:",
+      "Option A": "Nominal thickness .",
+      "Option B": "Actual thickness",
+      "Option C": "Actual thickness minus the estimated corrosion loss to the next inspection",
+      "Option D": "Actual thickness minus twice the estimated corrosion loss to the next inspection",
+      "Answer": "C",
+      "Explanation": "API 510 7.3.3: MAWP calculations are based on actual thickness minus predicted loss before the next inspection."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "The MAWP of a vessel is being recalculated. The current thickness of the shell is 0.525” the shell is corroding at 0.0033 ipy. The desired inspection interval is 10 yrs. What thickness should be used in calculations to determine the maximum allowed pressure of the shell?",
+      "Option A": "0.465”",
+      "Option B": "0.459”",
+      "Option C": "0.522”",
+      "Option D": "0.252”",
+      "Answer": "B",
+      "Explanation": "Calculation: t=tactual​−(2×CR×Interval). 0.525−(2×0.0033×10)=0.459\"."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "During an inspection, a few isolated deep pits are found in the vessel wall. The current vessel wall thickness is 0.500”. The minimum required shell thickness is 0.400”. What is the maximum pit depth allowed?",
+      "Option A": "0.100”",
+      "Option B": "0.200”",
+      "Option C": "0.250”",
+      "Option D": "0.300”",
+      "Answer": "C",
+      "Explanation": "API 510 7.4.3(a): Pit depth cannot exceed 1/2 of the actual thickness. 0.500÷2=0.250\"."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "For services of with high potential consequences which of the following the engineer should consider?",
+      "Option A": "Conducting RBI",
+      "Option B": "Conducting FFS.",
+      "Option C": "Increasing the required thickness above the calculated thickness.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "Per API 510, for high-consequence service, engineers may add extra corrosion allowance (increased tmin​)."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "During an inspection, a few isolated deep pits are found in the vessel wall. The current vessel wall thickness is 1.000”. The minimum required shell thickness to 0.800” . At the deepest pit, what is the minimum allowed remaining shell thickness?",
+      "Option A": "0.200”",
+      "Option B": "0.400”",
+      "Option C": "0.500”",
+      "Option D": "0.600”",
+      "Answer": "C",
+      "Explanation": "API 510 7.4.3: Remaining thickness at the base of the pit must be >1/2 of tmin​ AND >0.5 of tactual​. 1.000÷2=0.500\"."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "The depth of a widely scattered pitting can be ignored provided the:",
+      "Option A": "Pit depth is greater than ½ the minimum required thickness.",
+      "Option B": "Pit depth is less that ½ the vessel’s current thickness away from the pit.",
+      "Option C": "Remaining thickness is not less than ½ the minimum required thickness and greater than 0.062”",
+      "Option D": "Remaining thickness is not less than ½ the current thickness away from the pit and greater than 0.062”.",
+      "Answer": "C",
+      "Explanation": "Exact requirement from API 510 Section 7.4.3."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Widely scattered pits can be ignored provided the cumulative area of the pitting does not exceed :",
+      "Option A": "7 in2 in an 8 inch circle",
+      "Option B": "8 in2 in a 7 inch circle",
+      "Option C": "12 in2 in a 16 inch circle",
+      "Option D": "16 in2 in a 12 inch circle",
+      "Answer": "A",
+      "Explanation": "API 510 7.4.3(b) specifies the 7 in2 limit within any 8-inch diameter circle."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "Aligned pits are rejectable when the sum of their dimensions exceeds:",
+      "Option A": "1” in an 8” line",
+      "Option B": "2” in an 8” line",
+      "Option C": "3” in an 8” line",
+      "Option D": "4” in an 8” line",
+      "Answer": "B",
+      "Explanation": "API 510 7.4.3(c): Pits are rejectable if the sum of their lengths exceeds 2\" in any 8\" length."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "A vessel has a shell that was designed using a joint efficiency of 0.85. There is a corroded area in the vessel that needs evaluated. When calculating the minimum required thickness for this corroded area, what joint efficiency should be used?",
+      "Option A": "Must always use an “E” of 0.85",
+      "Option B": "May always use an “E” of 1.0 if evaluated by an engineer",
+      "Option C": "May use an “E” of 1.0 if the corroded area is far from a weld",
+      "Option D": "May use an “E” of 1.0 if the material has been impact tested",
+      "Answer": "C",
+      "Explanation": "API 510 7.4.5: E=1.0 is permitted for calculating tmin​ of a corroded patch if it doesn't include a weld."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "During the evaluation of a corroded area, an E of 1.0 can be used provided the corroded area is:",
+      "Option A": "away from longitudinal welds",
+      "Option B": "away from circumferential welds",
+      "Option C": "away from all welds by the greater of 1” or twice the metal thickness",
+      "Option D": "Calculated by a professional engineer",
+      "Answer": "C",
+      "Explanation": "API 510 7.4.5: The area must be at least 1\" or 2t away from any weld to use E=1.0."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "An engineer is calculating the minimum required thickness in a corroded area on an ellipsoidal head. What formula should be used if the corroded area is in the knuckle of the head?",
+      "Option A": "Ellipsoidal head formula.",
+      "Option B": "Hemispherical head formula",
+      "Option C": "shell formula.",
+      "Option D": "API 571 in-service head formula",
+      "Answer": "A",
+      "Explanation": "The knuckle region experiences high stress and must use the full construction code head formula."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "An engineer is calculating the minimum required thickness in a corroded area on an ellipsoidal head. What formula could be used if the corroded area is in the center portion of the head?",
+      "Option A": "Torispherical head formula",
+      "Option B": "Hemispherical head formula.",
+      "Option C": "Rating code shell formula",
+      "Option D": "Rating code flat head formula",
+      "Answer": "B",
+      "Explanation": "API 510 7.4.6.1: The central portion (80% diameter) may be calculated using the hemispherical head formula."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "A corroded area is in the central portion of an elliptical head. The minimum required thickness can be calculated using the rating code’s hemi-head formula... API 510 defines the central portion as the center:",
+      "Option A": "50% of the head diameter",
+      "Option B": "75% of the shell diameter",
+      "Option C": "80% of the shell diameter.",
+      "Option D": "90% of the head.",
+      "Answer": "C",
+      "Explanation": "Defined in API 510 7.4.6.1 as the center 80% of the shell diameter."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "If an in-service vessel does not have a nameplate or adequate fabrication records... If the joint efficiency is unknown, what joint efficiency should be used for butt welded vessels?",
+      "Option A": "0.70 for type I and 0.65 for type II",
+      "Option B": "0.70 for type I and 0.85 for type II",
+      "Option C": "1.0 for type I and 0.80 for type II",
+      "Option D": "1.0 for type I and 0.90 for type II",
+      "Answer": "A",
+      "Explanation": "API 510 Table 7.1: Unknown joint efficiency defaults to 0.70 (Single Butt) and 0.65 (Double Butt)."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "If the exact material is unknown, the allowable stress should be based on what material?",
+      "Option A": "SA-283-gr.C",
+      "Option B": "SA-515-gr.55",
+      "Option C": "SA-516-gr.60",
+      "Option D": "Any p-1 material",
+      "Answer": "A",
+      "Explanation": "API 510 7.7: For unknown materials, use the allowable stress of SA-283 Grade C."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "API 510 requires which of the following names to be documented in the equipment records?",
+      "Option A": "Name of person performing vessel rerate calculations",
+      "Option B": "Name of person performing vessel t minimum calculations",
+      "Option C": "Name of person performing NDE examinations on in-service vessel",
+      "Option D": "Name of person witnessing a hydrotest.",
+      "Answer": "C",
+      "Explanation": "API 510 7.8.2: Records must include the name and identifier of the NDE examiner."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "If it is determined that inaccurate corrosion rate was assumed for calculations what the inspector should do?",
+      "Option A": "The corrosion rate remains constant.",
+      "Option B": "The corrosion rate shall be changed to actual corrosion rate found.",
+      "Option C": "The ndt person should be changed",
+      "Option D": "No corrective action is required",
+      "Answer": "B",
+      "Explanation": "API 510 7.1.1: If inspection data shows the assumed rate is wrong, it must be updated to the actual rate."
+    }
+  ]

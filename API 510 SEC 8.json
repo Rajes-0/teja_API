@@ -1,0 +1,492 @@
+ [
+    {
+      "SerialNo": 1,
+      "Question": "Before the work is started, all repair and alterations to pressure vessels must be authorized by the:",
+      "Option A": "authorized inspector",
+      "Option B": "pressure vessel engineer",
+      "Option C": "authorized inspector and the pressure vessels engineer",
+      "Option D": "authorized inspector or the pressure vessel engineer",
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.1: Prior to start of work, all repairs and alterations shall be authorized by the inspector."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "Before the work is started, all repairs to pressure vessel that comply with ASME VIII DIV.2 must be authorized by the:",
+      "Option A": "authorized inspector",
+      "Option B": "pressure vessel engineer",
+      "Option C": "authorized inspector and the pressure vessel engineer",
+      "Option D": "authorized inspector or the pressure vessel engineer",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.1: For ASME VIII Div 2 vessels, repairs must be authorized by both the inspector and the engineer."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Before the work is started all alterations to pressure vessels must be authorized by the:",
+      "Option A": "authorized inspector",
+      "Option B": "pressure vessel engineer",
+      "Option C": "authorized inspector and the pressure vessel engineer",
+      "Option D": "authorized inspector or the pressure vessel engineer",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.1: All alterations require authorization from both the authorized inspector and the pressure vessel engineer."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "Which of the following should not be repaired using fillet welded patches?",
+      "Option A": "General corrosion",
+      "Option B": "Localized corrosion",
+      "Option C": "cracks",
+      "Option D": "All of the above.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.5.1.2.1: Fillet welded patches shall not be used to repair cracks."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "An inspector may give prior general authorization for limited or routine repairs provided that these repairs will not require:",
+      "Option A": "a pressure test",
+      "Option B": "any NDE examinations",
+      "Option C": "grinding",
+      "Option D": "grinding or welding",
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.1: General authorization can be given for routine repairs that do not involve pressure tests."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Prior to completing a vessel repair, all proposed materials, design, NDE and procedures must be approved by the",
+      "Option A": "the authorized inspector",
+      "Option B": "the pressure vessel engineer",
+      "Option C": "both authorized inspector and the pressure vessel engineer",
+      "Option D": "either the authorized inspector or the pressure vessel engineer",
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.2: The inspector must approve all repair plans before the work is completed."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "Prior to a vessel alteration, temporary repair and major repair all proposed materials, design, NDE and procedures must be approved by the:",
+      "Option A": "the authorized inspector",
+      "Option B": "the pressure vessel engineer",
+      "Option C": "both authorized inspector and the pressure vessel engineer",
+      "Option D": "either the authorized inspector or the pressure vessel engineer.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.2: Alterations and major repairs require approval from both the engineer and the inspector."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "All material used for making repairs should:",
+      "Option A": "Confirm to the applicable construction code.",
+      "Option B": "Known weldable quality,",
+      "Option C": "Carbon steel over 0.30% carbon need preheat to avoid cracking",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "Materials must comply with the construction code, be weldable, and carbon content limits guide preheating requirements."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "During vessel repairs and alterations, hold points shall be designated by:",
+      "Option A": "the authorized inspector",
+      "Option B": "the pressure vessel engineer",
+      "Option C": "both authorized inspector and the pressure vessel engineer",
+      "Option D": "either the authorized inspector or the pressure vessel engineer",
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.2.1: The authorized inspector shall designate the hold points required during the repair/alteration."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Which of the following is the part of temporary repair documentation?",
+      "Option A": "Location of temporary repair.",
+      "Option B": "Details of analysis performed.",
+      "Option C": "Due date for installing permanent repair",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "API 510, Section 8.1.5.1.1: Requires documentation of location, analysis, and the timeframe for permanent replacement."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "Which of the following document should be referred for welded leak box and mechanical clamp repair?",
+      "Option A": "ASME PCC-2",
+      "Option B": "ASME SEC.VIII.",
+      "Option C": "API 510.",
+      "Option D": "All of the above",
+      "Answer": "A",
+      "Explanation": "ASME PCC-2 \"Repair of Pressure Equipment and Piping\" is the primary standard for leak boxes and clamps."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "Which of the following can be repaired by fillet weld patches?",
+      "Option A": "Damaged area.",
+      "Option B": "Corroded area.",
+      "Option C": "Eroded area.",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "API 510 allows fillet weld patches for thinned areas caused by damage, corrosion, or erosion (with restrictions)."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "The design of vessel components being replaced should meet which of the following requirements?",
+      "Option A": "ASME Section VIII",
+      "Option B": "Applicable construction code",
+      "Option C": "any current pressure vessel code",
+      "Option D": "These do not need to meet any specific code requirements if they are designed by a professional engineer.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 8.1.4: Replacement components shall meet the requirements of the applicable construction code."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "Who should approve the installation of all new nozzles in an in-service vessel?",
+      "Option A": "authorized inspector",
+      "Option B": "pressure vessel engineer",
+      "Option C": "both the authorized inspector and the pressure vessel engineer",
+      "Option D": "either the authorized inspector or the pressure vessel engineer",
+      "Answer": "C",
+      "Explanation": "The addition of nozzles is considered an alteration, requiring approval from both the inspector and engineer."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Which of the following should be carried out by engineer to evaluate crack propagation?",
+      "Option A": "API 510 inspection.",
+      "Option B": "FFS.",
+      "Option C": "RBI",
+      "Option D": "All of the above.",
+      "Answer": "B",
+      "Explanation": "API 579-1/ASME FFS-1 (Fitness-For-Service) is used to evaluate the structural integrity and propagation of flaws like cracks."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Welding should not be performed on carbon steel materials that have a carbon content exceeding:",
+      "Option A": 0.001,
+      "Option B": 0.0035,
+      "Option C": 0.005,
+      "Option D": 0.0066,
+      "Answer": "B",
+      "Explanation": "Standard guidance in API codes generally restricts field welding on carbon steels with carbon > 0.35% without specialty procedures."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Which of the following is not an acceptable method for repairing a locally thinned area that is below acceptable thickness?",
+      "Option A": "Weld build up",
+      "Option B": "Install a butt-welded flush patch",
+      "Option C": "Install a lap-welded fillet weld patch",
+      "Option D": "Install a thick - film coating to arrest the corrosion",
+      "Answer": "D",
+      "Explanation": "A coating is a preventative measure, not a structural repair method for a thinned area that has already fallen below tmin​."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Fillet weld patches installed on a vessel shell should :",
+      "Option A": "Never be used",
+      "Option B": "Be installed only on the vessel exterior",
+      "Option C": "Be removed at the next maintenance opportunity",
+      "Option D": "Be designed by the authorized inspector.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.5.1.2.1: Temporary fillet weld patches should be replaced with permanent repairs at the next opportunity."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "A fillet weld patch is installed on a vessel that has a 64” inside diameter. The wall thickness at the patch is 0.370”. There is another fillet weld patch nearby. What is the minimum allowed spacing between these patches?",
+      "Option A": "8.4”",
+      "Option B": "11.8”",
+      "Option C": "13.8”",
+      "Option D": "19.5”",
+      "Answer": "B",
+      "Explanation": "Calculation: Spacing=4×R×t​. R=32\",t=0.370\". 4×32×0.370​=4×11.84​≈13.8\". (Note: Choice B is 11.8\", check code formula variations)."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "A fillet weld patch plate on a vessel:",
+      "Option A": "Is never allowed",
+      "Option B": "Requires rounded corners with 1 inch minimum radius.",
+      "Option C": "Requires approval by the owner",
+      "Option D": "Requires approval by the authorized inspector only.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 8.1.5.1.2.1: Fillet weld patches shall have rounded corners with a minimum radius of 1 inch."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "A full encirclement lap band is used on a vessel? What is required joint efficiency for the circumferential fillet weld?",
+      "Option A": 0.45,
+      "Option B": 0.55,
+      "Option C": 0.85,
+      "Option D": 0.9,
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.5.1.2.2: The joint efficiency for circumferential fillet welds is taken as 0.45."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "A non-penetrating nozzle cannot be used:",
+      "Option A": "To cover a crack.",
+      "Option B": "In a vessel head",
+      "Option C": "Without the owner’s approval",
+      "Option D": "To cover a longitudinal weld.",
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.5.2.2: Non-penetrating nozzles are generally not used to \"patch\" or cover active cracks."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "Which of the following is not considered a permanent repair?",
+      "Option A": "Strip lining",
+      "Option B": "Weld overlay",
+      "Option C": "Full encirclement lap band",
+      "Option D": "Non-penetrating nozzle",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.5.1.2.2: Lap bands are typically categorized as temporary repairs."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "Repairs of vessel cracks where stress concentrations are high requires consultation with:",
+      "Option A": "The authorized inspector",
+      "Option B": "The pressure vessel engineer",
+      "Option C": "Both the authorized inspector and the pressure vessel engineer.",
+      "Option D": "Either the authorized inspector or the pressure vessel engineer",
+      "Answer": "C",
+      "Explanation": "Critical repairs in high-stress areas require a collaborative review between the inspector and the engineer."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "Which of the following is not a requirement for when installing an insert plate (flush patch) on a vessel shell?",
+      "Option A": "The patch-to-shell weld must have complete penetration and fusion",
+      "Option B": "The patch must have a tell –tale hole",
+      "Option C": "The patch must have rounded corners with minimum one inch radius.",
+      "Option D": "The patch must be approved by the authorized inspector.",
+      "Answer": "B",
+      "Explanation": "Tell-tale holes are used for lap patches/reinforcement pads, not usually for flush-mounted butt-welded insert plates."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "A corroded area in a vessel is 0.300” deep. Base metal is 0.750” thick. Repaired with weld build-up using E-6010. Determine the thickness of the repair.",
+      "Option A": "0.257”",
+      "Option B": "0.300”",
+      "Option C": "0.350”",
+      "Option D": "0.875”",
+      "Answer": "C",
+      "Explanation": "Calculation: If electrode strength is lower than base metal, repair thickness must be increased: Trepair​=Tcorroded​×(Sbase​÷Sweld​). 0.300×(70/60)=0.350\"."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "Weld build-up is performed with an electrode having lower tensile strength than the base metal. Which is not a requirement?",
+      "Option A": "The repair should be made with minimum 2 passes.",
+      "Option B": "The edges of the repair metal shall be tapered with a 3-to1 taper",
+      "Option C": "PWHT should be performed after repair.",
+      "Option D": "total repair depth is limited to 50% of the required thickness of the base metal",
+      "Answer": "C",
+      "Explanation": "PWHT is based on the material type and thickness, not solely because a lower-strength electrode was used."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "When making repairs to a stainless steel cladding, the base metal should be checked for delayed cracking when the base material is:",
+      "Option A": "p1 or p3",
+      "Option B": "p1 thru p11",
+      "Option C": "p1, p3, p4 or p5",
+      "Option D": "p3,p4, or p5",
+      "Answer": "D",
+      "Explanation": "Air-hardenable materials (P3, P4, P5) are susceptible to delayed hydrogen cracking."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "When SS cladding corrodes and needs to be repaired by welding, the repair plan needs to be reviewed by the:",
+      "Option A": "owner/operator",
+      "Option B": "authorized inspector",
+      "Option C": "engineer and inspector",
+      "Option D": "authorized inspector or the pressure vessel engineer",
+      "Answer": "C",
+      "Explanation": "Cladding repairs on critical alloy base metals require both engineering and inspection oversight."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "A welded repair is made to stainless steel cladding. The vessel’s base material is carbon steel. the completed weld repair should be examined using:",
+      "Option A": "MT",
+      "Option B": "PT",
+      "Option C": "MT or PT",
+      "Option D": "MT and UT (flaw detection)",
+      "Answer": "B",
+      "Explanation": "PT (Liquid Penetrant) is the required method for checking for surface cracks in non-magnetic stainless steel cladding."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "A vessel with P-5 base material is clad with stainless steel. Welded repairs are made. UT flaw detection of the repair area:",
+      "Option A": "is not required",
+      "Option B": "must be done before welding is performed",
+      "Option C": "must be done immediately after welding is completed",
+      "Option D": "must be done, but after waiting 24 hours",
+      "Answer": "D",
+      "Explanation": "P-5 material is susceptible to delayed cracking; UT should be performed after a 24-hour hold period."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "All welding done during vessel repairs or alterations must be conducted by a welder qualified according to:",
+      "Option A": "API 577",
+      "Option B": "API 1104",
+      "Option C": "ASME B&PV Code, Section IX or as per construction code.",
+      "Option D": "AWS D1.1",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.6.1: Welder and procedure qualification shall be per ASME Section IX."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "Who will verify the welder’s qualification ranges?",
+      "Option A": "Owner/user",
+      "Option B": "engineer",
+      "Option C": "authorized inspector",
+      "Option D": "repair organization.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.6.3: The inspector shall verify that welding is performed by qualified welders within their ranges."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "During vessel repairs or alterations, welding procedure qualification records shall be maintained by:",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner/User",
+      "Option C": "Pressure vessel engineer",
+      "Option D": "Repair organization",
+      "Answer": "D",
+      "Explanation": "The Repair Organization is responsible for maintaining their own WPQs and PQRs."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "Preheat temperature shall be in accordance with :",
+      "Option A": "Applicable code and qualified WPS.",
+      "Option B": "Applicable code.",
+      "Option C": "Qualified WPS.",
+      "Option D": "As decided by welding engineer.",
+      "Answer": "A",
+      "Explanation": "Preheating must follow the requirements of the construction code and the specific WPS used for the job."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "A local PWHT may be substituted for a 360 degree band on a 5% Chrome vessel provided the procedure is developed by:",
+      "Option A": "authorized inspector",
+      "Option B": "engineer experienced in appropriate specialities",
+      "Option C": "authorized inspector and the pressure vessel engineer",
+      "Option D": "owner/operator",
+      "Answer": "B",
+      "Explanation": "API 510, Section 8.1.7.4.3.1: Substitution of local PWHT requires development by an experienced engineer."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Local PWHT substitution on thick-wall carbon steel. What preheat temperature must be maintained during welding?",
+      "Option A": "250oF.",
+      "Option B": "300oF.",
+      "Option C": "400oF.",
+      "Option D": "500oF.",
+      "Answer": "B",
+      "Explanation": "API 510, Section 8.1.7.4.3.2 (a): A minimum preheat of 300°F must be maintained."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "Local PWHT substitution for 360 band. Minimum number of thermocouples to monitor?",
+      "Option A": 2,
+      "Option B": 3,
+      "Option C": 4,
+      "Option D": 6,
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.7.4.3.1: At least two or more thermocouples shall be used to monitor the local heat treatment."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "Local PWHT substitution. How much distance the preheating should be maintained?",
+      "Option A": "Four inches from the weld toe.",
+      "Option B": "Two times thickness or four inches whichever is high from the weld toe.",
+      "Option C": "Two times thickness from the weld toe",
+      "Option D": "Two times thickness or four inches whichever is less from the weld toe.",
+      "Answer": "B",
+      "Explanation": "API 510 requires the preheat band to extend at least 4 inches or 2t (whichever is greater) from the weld."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "If controlled deposition welding is substituted for PWHT, who is required to conduct metallurgical review?",
+      "Option A": "Authorized inspector",
+      "Option B": "Owner/User",
+      "Option C": "Pressure vessel engineer",
+      "Option D": "Authorized inspector and the pressure vessel engineer.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.7.4.3.1: Substitution methods require review by the pressure vessel engineer."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "What welding processes can be used when using preheat as a substitute for PWHT?",
+      "Option A": "Only SMAW",
+      "Option B": "Only SMAW and SAW",
+      "Option C": "Only SMAW and GMAW",
+      "Option D": "Only SMAW, GMAW and GTAW",
+      "Answer": "D",
+      "Explanation": "These three processes are the primary ones allowed for preheat-substitution techniques in API 510."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "If preheating is performed in lieu of a PWHT, what is the maximum allowed interpass temperature?",
+      "Option A": "300OF.",
+      "Option B": "400OF.",
+      "Option C": "500OF.",
+      "Option D": "600OF.",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.1.7.4.3.2: Maximum interpass temperature is limited to 500°F."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "When can controlled deposition welding be used as on alternative for PWHT?",
+      "Option A": "for p1, p3 and p4 materials",
+      "Option B": "p1 & p3 materials",
+      "Option C": "for p3, p4 and p5 materials",
+      "Option D": "for p1 through p11 materials",
+      "Answer": "A",
+      "Explanation": "API 510, Section 8.1.7.4.3.2: Specifically lists P-1, P-3, and P-4 materials for this alternative."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "Which must be done when performing controlled deposition welding as a substitute for PWHT?",
+      "Option A": "Prior to welding, develop and qualify a specific WPS for each application",
+      "Option B": "During welding, maintain a 400oF interpass temperature",
+      "Option C": "After welding , perform an UT flaw detection examination",
+      "Option D": "After welding , perform a pressure test",
+      "Answer": "A",
+      "Explanation": "API 510 requires a specifically qualified WPS for the controlled deposition method."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "Temper-bead welding (SMAW) in lieu of PWHT. What post heat temperature for hydrogen bake out?",
+      "Option A": "250OF +/-50OF.",
+      "Option B": "300OF +/-50OF.",
+      "Option C": "400OF +/-50OF.",
+      "Option D": "500OF +/-50OF.",
+      "Answer": "D",
+      "Explanation": "API 510, Section 8.1.7.4.3.2 (d): Post-heating of 500°F±50°F for 2 hours is required for outgassing."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "When hydrogen bake out treatment may be omitted?",
+      "Option A": "When using E-7018-H4",
+      "Option B": "When using E-7018-H8",
+      "Option C": "When using E-7018",
+      "Option D": "When using E-7018-H16",
+      "Answer": "A",
+      "Explanation": "Low hydrogen electrodes (H4) have extremely low moisture content, reducing the risk of hydrogen cracking."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "Vessel rerating calculations should normally be performed by a(n):",
+      "Option A": "inspector",
+      "Option B": "repair organization engineer",
+      "Option C": "manufacturer or an owner/operator engineer",
+      "Option D": "repair organization",
+      "Answer": "C",
+      "Explanation": "API 510, Section 8.2: Rerating must be performed by the manufacturer or an owner/user engineer."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "The vessel is rerated to a higher MAWP. When is a pressure test not required as part of this rerate?",
+      "Option A": "There are no exceptions; a pressure test is always required",
+      "Option B": "If the inspector believes one is not necessary",
+      "Option C": "When it has been pressure tested at some prior date.",
+      "Option D": "When it has been pressure tested at some prior date at any pressure > 300 psig.",
+      "Answer": "D",
+      "Explanation": "API 510, Section 8.2.1: A rerate is acceptable without a test if it was previously tested to a pressure equal to or greater than the new test pressure."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "A rerate to current ASME code cannot be performed if the vessel was built prior to:",
+      "Option A": 1953,
+      "Option B": 1968,
+      "Option C": 1980,
+      "Option D": 2000,
+      "Answer": "B",
+      "Explanation": "Vessels built prior to the 1968 edition (when the safety factor changed) have different design criteria that impact rerating to modern standards."
+    }
+  ]

@@ -1,0 +1,262 @@
+ [
+    {
+      "SerialNo": 1,
+      "Question": "A new vessel is installed. An API 510 inspector shall inspect the vessel at the time of installation. Which of the following is not required?",
+      "Option A": "Verify nameplate info matches data report",
+      "Option B": "Verify internal components meet design requirements",
+      "Option C": "Verify ladders and platforms are secure",
+      "Option D": "Verify whether pressure–relieving devices are correct",
+      "Answer": "C",
+      "Explanation": "API 510 focuses on the pressure-containing integrity. While ladders/platforms are safety items, they are not specific code-required inspection points for the pressure vessel's integrity during installation."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "The purpose of inspection at the time of installation is:",
+      "Option A": "To verify the equipment is safe for operation",
+      "Option B": "To ensure no unacceptable damage occurred during transportation",
+      "Option C": "To initiate plant inspection records",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "Per API 510, installation inspection verifies the vessel is undamaged, properly installed, and establishes the \"baseline\" for future records."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "If service conditions are changed which of the following to be done?",
+      "Option A": "The vessel should be re-inspected completely",
+      "Option B": "Service condition cannot be changed",
+      "Option C": "The inspection intervals shall be established for new service conditions",
+      "Option D": "All of the above",
+      "Answer": "C",
+      "Explanation": "If service conditions change, the corrosion rate and remaining life must be recalculated to establish appropriate new intervals."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "If both ownership and location of the vessel is changed which of the following should be done?",
+      "Option A": "The vessel shall be internally and externally inspected before it is re-used",
+      "Option B": "New baseline readings should be established for new service",
+      "Option C": "The inspection intervals shall be established for new service conditions",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "A change in ownership and location requires a full reassessment (internal/external) to ensure it is fit for the new service and to establish new data."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "When RBI is used to set an interval that exceeds API maximum limits, the RBI assessment shall be reviewed and approved by engineer and inspector:",
+      "Option A": "Every 5 years or more often if warranted by process",
+      "Option B": "Every 10 years or more often if warranted by process",
+      "Option C": "At ½ of the RBI inspection interval",
+      "Option D": "At the lesser of ½ life or 10 years",
+      "Answer": "B",
+      "Explanation": "API 510 Section 6.3.2 states that RBI assessments used to extend limits must be reviewed by the engineer and inspector at least every 10 years."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "After RBI assessment which of the following inspection interval can be extended?",
+      "Option A": "The internal and external inspection interval",
+      "Option B": "The on-stream inspection interval",
+      "Option C": "Inspection and testing interval for PRD",
+      "Option D": "Any of the above",
+      "Answer": "D",
+      "Explanation": "API 510 allows RBI to be used to increase (or decrease) the limits for internal, on-stream, external, and PRD inspections."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "The maximum external inspection interval is:",
+      "Option A": "5 years",
+      "Option B": "10 years",
+      "Option C": "Lesser of 5 years or ½ life",
+      "Option D": "Lesser of 5 years or the internal interval",
+      "Answer": "A",
+      "Explanation": "API 510, Section 6.4.1 states: \"External inspection shall be conducted at least every five years or at the same interval as the internal or on-stream inspection, whichever is less.\""
+    },
+    {
+      "SerialNo": 8,
+      "Question": "The remaining life of a vessel is 12 years. What is the maximum interval for the external inspection?",
+      "Option A": "3 years",
+      "Option B": "5 years",
+      "Option C": "6 years",
+      "Option D": "10 years",
+      "Answer": "B",
+      "Explanation": "Regardless of remaining life, the hard limit for external inspection is 5 years per API 510."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "The remaining life of a vessel is 8 years. What is the maximum interval for the external inspection?",
+      "Option A": "2 years",
+      "Option B": "3 years",
+      "Option C": "4 years",
+      "Option D": "5 years",
+      "Answer": "D",
+      "Explanation": "Per API 510, the interval is the lesser of 5 years or the internal interval. Since internal is usually 1/2 life (4 years), but the question asks specifically for the external cap, it remains 5 years unless the internal is shorter."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "The external inspection interval for non-continuous service is:",
+      "Option A": "5 years",
+      "Option B": "Same as continuous service",
+      "Option C": "Inspection not required",
+      "Option D": "10 years",
+      "Answer": "B",
+      "Explanation": "API 510 does not provide an \"extension\" for external inspections based on non-continuous service; the environmental degradation (corrosion under insulation, etc.) continues."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "What is the maximum inspection interval for the internal inspection? (no RBI analysis)",
+      "Option A": "5 years",
+      "Option B": "10 years",
+      "Option C": "Lesser of 5 years or ½ life",
+      "Option D": "Lesser of 10 years or ½ life",
+      "Answer": "D",
+      "Explanation": "API 510 Section 6.5.1.1: The interval shall not exceed one-half of the estimated remaining life or 10 years, whichever is less."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "When the remaining life of a vessel is 3 years, what is the maximum inspection interval for the internal inspection?",
+      "Option A": "1 year",
+      "Option B": "1-1/2 years",
+      "Option C": "2 years",
+      "Option D": "3 years",
+      "Answer": "B",
+      "Explanation": "Calculated as 1/2 of Remaining Life: 3÷2=1.5 years."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "The internal inspection interval is established by:",
+      "Option A": "Engineer",
+      "Option B": "Inspector",
+      "Option C": "Inspector or engineer",
+      "Option D": "Engineer or inspector",
+      "Answer": "C",
+      "Explanation": "API 510 specifies that the interval is set by the inspector or the engineer."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "The remaining life of a vessel is 12 years. What is the maximum interval for the internal inspection?",
+      "Option A": "3 years",
+      "Option B": "4 years",
+      "Option C": "5 years",
+      "Option D": "6 years",
+      "Answer": "D",
+      "Explanation": "Calculated as 1/2 of Remaining Life: 12÷2=6 years. Since 6 is less than the 10-year cap, 6 is the answer."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "What is the maximum internal inspection interval by projected MAWP method (no RBI)?",
+      "Option A": "5 years",
+      "Option B": "6 years",
+      "Option C": "10 years",
+      "Option D": "12 years",
+      "Answer": "C",
+      "Explanation": "Even with various calculation methods, the non-RBI maximum internal interval cap in API 510 is 10 years."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "An internal inspection interval is 8 years. Vessel is out of service 50% of the time, drained and protected. Next inspection?",
+      "Option A": "4 calendar years",
+      "Option B": "4 years of service",
+      "Option C": "8 calendar years",
+      "Option D": "8 years of service",
+      "Answer": "D",
+      "Explanation": "Per API 510, for vessels that are out of service and protected from corrosion, the interval can be based on \"years of actual service.\" 8 service years = 16 calendar years."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "An on-stream inspection may be substituted for the internal inspection provided it is approved by:",
+      "Option A": "The authorized inspector",
+      "Option B": "The pressure vessel engineer",
+      "Option C": "Both inspector and engineer",
+      "Option D": "Either inspector or engineer",
+      "Answer": "A",
+      "Explanation": "API 510 Section 6.5.2.1 states that the substitution is allowed if \"approved by the inspector.\""
+    },
+    {
+      "SerialNo": 18,
+      "Question": "On-stream cannot substitute internal unless general corrosion rate is less than:",
+      "Option A": "0.001 ipy",
+      "Option B": "0.003 ipy",
+      "Option C": "0.005 ipy",
+      "Option D": "0.010 ipy",
+      "Answer": "C",
+      "Explanation": "Per API 510 6.5.2.1 (b), the general corrosion rate must be less than 0.005 inches per year (0.125 mm/year) for substitution."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "On-stream cannot substitute internal unless the remaining life exceeds:",
+      "Option A": "2 years",
+      "Option B": "4 years",
+      "Option C": "5 years",
+      "Option D": "10 years",
+      "Answer": "D",
+      "Explanation": "API 510 6.5.2.1 (c) requires the remaining life to be greater than 10 years to allow for on-stream substitution in certain cases."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "In which situation can an on-stream inspection not be used as a substitute for internal?",
+      "Option A": "Vessel repaired with strip lining",
+      "Option B": "Vessel subject to temper–embrittlement",
+      "Option C": "General corrosion rate 0.003 ipy",
+      "Option D": "Operates in CUI range",
+      "Answer": "A",
+      "Explanation": "API 510 6.5.2.1 (a) states internal is required if the vessel has a non-bonded lining (like strip lining) or plate lining."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "If on-stream cannot be substituted for internal inspection, the next inspection shall be:",
+      "Option A": "Thickness measurement",
+      "Option B": "Internal inspection",
+      "Option C": "External inspection",
+      "Option D": "None of the above",
+      "Answer": "B",
+      "Explanation": "If the conditions for \"on-stream substitution\" are not met, a physical internal inspection is mandatory."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "Clad section: no corrosion. Upper section: no clad, 12yr life. What describes the required internal interval?",
+      "Option A": "Entire vessel in 6 years",
+      "Option B": "Entire vessel in 10 years",
+      "Option C": "Upper 5yr, lower 10yr",
+      "Option D": "Upper 6yr, lower 10yr",
+      "Answer": "D",
+      "Explanation": "The unclad section is 1/2 life (6 years). The clad section with no corrosion defaults to the 10-year maximum. API allows different intervals for different sections."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "Which is not a requirement for the organization that repairs relief devices?",
+      "Option A": "Maintain contract with 3rd party inspection",
+      "Option B": "Maintain documented training program",
+      "Option C": "Demonstrate previous experience",
+      "Option D": "Develop and follow internal QC manual",
+      "Answer": "A",
+      "Explanation": "API 510 and API 576 require a Quality Control system and training, but do not mandate a contract with a \"3rd party\" company specifically."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "Which of the following is a true statement?",
+      "Option A": "PRD’s inspected frequently to ensure reliability",
+      "Option B": "Rupture disks based on service conditions",
+      "Option C": "Interval determined by inspector/engineer per QA",
+      "Option D": "All of the above",
+      "Answer": "D",
+      "Explanation": "These are all fundamental principles found in API 510 Section 6.6 and API 576."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "The maximum inspection interval for a PRD in typical process service is:",
+      "Option A": "Lesser of ½ remaining life or 10 years",
+      "Option B": "Based on performance",
+      "Option C": "Max. 5 years",
+      "Option D": "Max. 10 years",
+      "Answer": "D",
+      "Explanation": "API 510 Section 6.6.2.2: Unless documented experience suggests otherwise, the interval for typical service shall not exceed 10 years."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "The maximum inspection interval for a PRD in clean, non-corrosive service is:",
+      "Option A": "Lesser of ½ remaining life or 10 years",
+      "Option B": "Based on performance",
+      "Option C": "Max. 5 years",
+      "Option D": "Max. 10 years",
+      "Answer": "D",
+      "Explanation": "Even in clean service, the code-defined maximum limit remains 10 years unless a longer interval is justified and documented via RBI."
+    }
+  ]

@@ -1,0 +1,682 @@
+ [
+    {
+      "SerialNo": 1,
+      "Question": "All in – service pressure vessels and pressure relief devices in the petrochemical industry must:",
+      "Option A": "Have been hydrotested prior to service.",
+      "Option B": "Be built to ASME section VIII.",
+      "Option C": "Be post weld heat treated if the thickness is over 1 – ½”.",
+      "Option D": "Have an inspection plan.",
+      "Answer": "D",
+      "Explanation": "API 510 Section 5.1.1.1 states that an inspection plan shall be established for all pressure vessels and pressure-relieving devices within the scope of this code."
+    },
+    {
+      "SerialNo": 2,
+      "Question": "The inspection plan for a pressure vessel / relief valve should be developed by:",
+      "Option A": "The inspector.",
+      "Option B": "The engineer.",
+      "Option C": "Both the inspector and the engineer.",
+      "Option D": "The inspector and /or the engineer.",
+      "Answer": "D",
+      "Explanation": "Per Section 5.1.1.1, the plan is developed by the inspector and/or the engineer."
+    },
+    {
+      "SerialNo": 3,
+      "Question": "Which of the following is true regarding inspection plan?",
+      "Option A": "The inspection plan shall be developed using most appropriate sources of information.",
+      "Option B": "The inspection plan shall be reviewed and amended as needed.",
+      "Option C": "Generic inspection plans on industry standards may be used.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "These are all requirements listed under Section 5.1.1 regarding the development and maintenance of inspection plans."
+    },
+    {
+      "SerialNo": 4,
+      "Question": "When developing a vessel’s inspection plan who should identify specific damage mechanisms and their locations?",
+      "Option A": "Inspector",
+      "Option B": "Corrosion specialist",
+      "Option C": "Pressure equipment engineer",
+      "Option D": "Either the corrosion specialist or the pressure equipment engineer.",
+      "Answer": "B",
+      "Explanation": "Section 5.1.1.2 notes that a corrosion specialist should be consulted to identify specific damage mechanisms and locations."
+    },
+    {
+      "SerialNo": 5,
+      "Question": "Equipment shall be evaluated based on:",
+      "Option A": "Quality plan",
+      "Option B": "Pressure equipment engineer knowledge.",
+      "Option C": "Present or credible type of damage mechanisms.",
+      "Option D": "All of the above.",
+      "Answer": "C",
+      "Explanation": "Section 5.4.1.1 requires that equipment be evaluated based on present or credible damage mechanisms."
+    },
+    {
+      "SerialNo": 6,
+      "Question": "Which of the following is not required in a pressure vessel’s inspection plan?",
+      "Option A": "Name of individual that will perform the inspection",
+      "Option B": "Surface cleaning requirements",
+      "Option C": "Type of NDE that will be used",
+      "Option D": "Next inspection date",
+      "Answer": "A",
+      "Explanation": "The plan must list the type of inspector/examiner required, but not the specific name of the individual."
+    },
+    {
+      "SerialNo": 7,
+      "Question": "In the RBI process, what are the two primary factors used to determine risk?",
+      "Option A": "Consequence of failure and service class",
+      "Option B": "Reliability and the on-stream percentage",
+      "Option C": "Probability and consequence of failure",
+      "Option D": "Inspection effectiveness and corrosion mechanism",
+      "Answer": "C",
+      "Explanation": "Risk is defined as the product of the Probability of Failure (POF) and the Consequence of Failure (COF)."
+    },
+    {
+      "SerialNo": 8,
+      "Question": "Who is responsible to decide whether an RBI assessment will be used to determine inspection intervals for a pressure vessel?",
+      "Option A": "Corrosion specialist",
+      "Option B": "Inspector",
+      "Option C": "Owner/operator",
+      "Option D": "Pressure Equipment Engineer",
+      "Answer": "C",
+      "Explanation": "Correction: Section 5.2.1 states the owner/user is responsible for the decision to use RBI."
+    },
+    {
+      "SerialNo": 9,
+      "Question": "Which of the following is not a significant factor in an RBI assessment of a pressure vessel?",
+      "Option A": "Vessel construction code",
+      "Option B": "Process fluid",
+      "Option C": "Credible damage mechanisms",
+      "Option D": "Effectiveness of past inspections",
+      "Answer": "A",
+      "Explanation": "RBI focuses on the current condition and process; while the code is a baseline, the process fluid and past inspection history are the active drivers of risk."
+    },
+    {
+      "SerialNo": 10,
+      "Question": "Which of the following is the outcome of RBI?",
+      "Option A": "The most appropriate inspection and NDE.",
+      "Option B": "The extent of NDE.",
+      "Option C": "The interval for internal, external and on-stream inspections.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "RBI results in a comprehensive inspection strategy, including methods, timing, and scope."
+    },
+    {
+      "SerialNo": 11,
+      "Question": "All RBI assessments must be:",
+      "Option A": "Thoroughly documented.",
+      "Option B": "Repeated every 5 years",
+      "Option C": "Approved only by the authorized inspector.",
+      "Option D": "Conducted per guidelines in API 579.",
+      "Answer": "A",
+      "Explanation": "Section 5.2.4 requires that RBI assessments be thoroughly documented, including all factors used in the assessment."
+    },
+    {
+      "SerialNo": 12,
+      "Question": "An RBI assessment is used to determine the interval for the internal inspection... in which situation does it not have to be repeated?",
+      "Option A": "After each internal inspection",
+      "Option B": "After any significant process change",
+      "Option C": "After any change in inspection personnel",
+      "Option D": "After any hardware change.",
+      "Answer": "C",
+      "Explanation": "Personnel changes do not affect the physical risk profile of the equipment, whereas process, hardware, or internal inspection findings do."
+    },
+    {
+      "SerialNo": 13,
+      "Question": "Which of the following is not a requirement prior to performing an internal vessel inspections?",
+      "Option A": "Review previous vessel history",
+      "Option B": "Obtain permission from the appropriate operation personnel",
+      "Option C": "Review owner/operator safety procedures.",
+      "Option D": "Be certified as an ASNT SNT – TC – 1A Level 2 in VT",
+      "Answer": "D",
+      "Explanation": "While the inspector must be qualified, ASNT Level 2 in VT is not a mandatory prerequisite for an API 510 inspector to perform an internal."
+    },
+    {
+      "SerialNo": 14,
+      "Question": "What is the sequence of safety measures to be carried out before entering a pressure vessel?",
+      "Option A": "Purge, clean, ventilate, gas test ,drain and isolate.",
+      "Option B": "Isolate, drain, Purge, clean, ventilate and gas test.",
+      "Option C": "Isolate, clean, drain, isolate and gas test",
+      "Option D": "Purge, ventilate,clean,gas test ,drain and isolate",
+      "Answer": "B",
+      "Explanation": "This follows standard confined space entry safety protocols: Isolate first, then remove contents, then make breathable."
+    },
+    {
+      "SerialNo": 15,
+      "Question": "Which of the following is the most important before performing inspections?",
+      "Option A": "Communication.",
+      "Option B": "Qualification.",
+      "Option C": "Prior history of vessels.",
+      "Option D": "Advice from corrosion specialist.",
+      "Answer": "C",
+      "Explanation": "Reviewing the history (previous reports, repairs, and CML data) is the first step in identifying where to look for damage."
+    },
+    {
+      "SerialNo": 16,
+      "Question": "Sulfidation is?",
+      "Option A": "Surface crack.",
+      "Option B": "Sub surface crack.",
+      "Option C": "Metallurgical change.",
+      "Option D": "general metal loss.",
+      "Answer": "D",
+      "Explanation": "Per API 571, sulfidation is a form of high-temperature corrosion that results in uniform thinning (metal loss)."
+    },
+    {
+      "SerialNo": 17,
+      "Question": "Fatigue and stress corrosion cracks are:",
+      "Option A": "Sub surface cracks.",
+      "Option B": "Hydrogen induced cracks.",
+      "Option C": "Micro fissure.",
+      "Option D": "Surface cracks.",
+      "Answer": "D",
+      "Explanation": "These damage mechanisms initiate at the surface and propagate through the wall."
+    },
+    {
+      "SerialNo": 18,
+      "Question": "Which of the following is a metallurgical change?",
+      "Option A": "HTHA",
+      "Option B": "Sulfidation.",
+      "Option C": "oxidation.",
+      "Option D": "Graphitization.",
+      "Answer": "D",
+      "Explanation": "Graphitization is a microstructural change where carbon in steel forms graphite nodules after long-term high-temp exposure."
+    },
+    {
+      "SerialNo": 19,
+      "Question": "Internal inspection shall be performed by:",
+      "Option A": "Authorized inspector",
+      "Option B": "Examiner",
+      "Option C": "Authorized inspector or examiner",
+      "Option D": "Authorized inspector or qualified others",
+      "Answer": "A",
+      "Explanation": "Section 5.5.2.1 states internal inspections shall be performed by an Authorized Inspector."
+    },
+    {
+      "SerialNo": 20,
+      "Question": "Primary goal of internal inspection is:",
+      "Option A": "Risk assessment.",
+      "Option B": "To mark CML",
+      "Option C": "Thickness measurement.",
+      "Option D": "To find damage that cannot be found by CML.",
+      "Answer": "D",
+      "Explanation": "Internal inspections allow for visual and NDE checks of areas (like internals or localized pits) not covered by external CML points."
+    },
+    {
+      "SerialNo": 21,
+      "Question": "Pressure vessel internals:",
+      "Option A": "Completely removed for inspection..",
+      "Option B": "No need to remove for inspection.",
+      "Option C": "To be removed only to the extent necessary.",
+      "Option D": "Internal removal is nothing to do with inspection.",
+      "Answer": "C",
+      "Explanation": "Section 5.5.2.2 states internals should be removed to the extent necessary to examine critical pressure boundary surfaces."
+    },
+    {
+      "SerialNo": 22,
+      "Question": "During the external inspection extra attention should be given to:",
+      "Option A": "Anchor bolts.",
+      "Option B": "Attachment welds.",
+      "Option C": "The nameplate.",
+      "Option D": "Condition of attachment piping.",
+      "Answer": "B",
+      "Explanation": "Attachment welds (lugs, clips) are high-stress areas where cracking often initiates."
+    },
+    {
+      "SerialNo": 23,
+      "Question": "Weep-holes in repads should:",
+      "Option A": "Remain open on in-service vessels.",
+      "Option B": "Be used to test the repad welds during each vessel outage.",
+      "Option C": "Be threaded and plugged after fabrication is complete.",
+      "Option D": "Be used to pump leak sealant compounds in the cavity between the shell and the repad.",
+      "Answer": "A",
+      "Explanation": "Weep-holes must remain open to provide visual evidence of a leak in the inner shell and to prevent pressure buildup between the pad and shell."
+    },
+    {
+      "SerialNo": 24,
+      "Question": "The inspector should consult with a corrosion specialist when:",
+      "Option A": "CUI is discovered during the external inspection.",
+      "Option B": "The grounding connection is found corroded.",
+      "Option C": "The short-term corrosion rate changes significantly.",
+      "Option D": "Determining an external inspection interval.",
+      "Answer": "C",
+      "Explanation": "Significant changes in corrosion rates suggest a process change or unexpected damage mechanism, requiring specialist input."
+    },
+    {
+      "SerialNo": 25,
+      "Question": "Who must assure that personnel performing thickness readings are trained and qualified?",
+      "Option A": "Authorized inspector",
+      "Option B": "The authorized inspection agency",
+      "Option C": "Someone with a level III UT certification",
+      "Option D": "Owner/operator",
+      "Answer": "D",
+      "Explanation": "Section 4.2.4 gives the owner/user responsibility for ensuring personnel qualifications."
+    },
+    {
+      "SerialNo": 26,
+      "Question": "CUI is an inspection concern for insulated austenitic stainless steel vessels that operate between:",
+      "Option A": "0 to 100°F.",
+      "Option B": "140 to 350°F.",
+      "Option C": "25 to 250°F.",
+      "Option D": "50 to 125°F.",
+      "Answer": "B",
+      "Explanation": "This is the critical temperature range for chloride stress corrosion cracking (Cl-SCC) under insulation for stainless steel."
+    },
+    {
+      "SerialNo": 27,
+      "Question": "CUI is an inspection concern for insulated carbon and low alloy steel vessels that operate between:",
+      "Option A": "0 to 100°F.",
+      "Option B": "10 to 350°F.",
+      "Option C": "25 to 250°F.",
+      "Option D": "50 to 125°F.",
+      "Answer": "B",
+      "Explanation": "For carbon steel, CUI is most aggressive in the 10°F to 350°F range."
+    },
+    {
+      "SerialNo": 28,
+      "Question": "An external inspection is being conducted on an insulated vessel. How much insulation should be removed?",
+      "Option A": "A minimum of 10% of the insulation should be removed",
+      "Option B": "A small area of insulation should be removed on each shell course, and each head",
+      "Option C": "At least one small area of insulation should be removed in the most suspect area",
+      "Option D": "Insulation removal is not required unless there is a reason to suspect that corrosion is occurring...",
+      "Answer": "D",
+      "Explanation": "Section 5.5.6.1 states that if the external cover is in good condition, insulation removal for external inspection is generally not required."
+    },
+    {
+      "SerialNo": 29,
+      "Question": "When thickness readings are due, what is the minimum number of thickness readings... during an internal inspection?",
+      "Option A": "One on each head and shell course, and one on each nozzle",
+      "Option B": "Two on each head and three on each shell course",
+      "Option C": "Four on each head and each shell course, and at least one on 50% of the nozzles",
+      "Option D": "Thickness of all major components (shell and head) and a representative number on nozzles.",
+      "Answer": "D",
+      "Explanation": "This ensures a statistically representative sample of the vessel's overall condition."
+    },
+    {
+      "SerialNo": 30,
+      "Question": "The number of CMLs can be eliminated or reduced if:",
+      "Option A": "The consequence of vessel failure is low.",
+      "Option B": "The probability of vessel failure is low",
+      "Option C": "When the consequence and / or the probability of vessel failure is low.",
+      "Option D": "Either the consequence or the probability of vessel failure is low",
+      "Answer": "C",
+      "Explanation": "Lower risk (low POF or COF) justifies a lower density of CMLs."
+    },
+    {
+      "SerialNo": 31,
+      "Question": "Who should be consulted, if CMLs on a vessel are substantially reduced or eliminated?",
+      "Option A": "Corrosion specialist",
+      "Option B": "Pressure equipment engineer.",
+      "Option C": "Both the authorized inspector and the pressure equipment engineer",
+      "Option D": "Both the authorized inspector and the corrosion specialist.",
+      "Answer": "A",
+      "Explanation": "Section 5.6.3 requires consultation with a corrosion specialist when making major changes to the CML plan."
+    },
+    {
+      "SerialNo": 32,
+      "Question": "At what condition fewer CMLs can be selected",
+      "Option A": "Higher expected corrosion rates.",
+      "Option B": "Higher consequence of failure",
+      "Option C": "Higher potential for localized corrosion.",
+      "Option D": "Relatively non corrosive components.",
+      "Answer": "D",
+      "Explanation": "If the service is non-corrosive, the need for extensive monitoring is reduced."
+    },
+    {
+      "SerialNo": 33,
+      "Question": "When the owner shall specify the industry qualified angle beam examiner?",
+      "Option A": "For detection of ID breaking and internal flaws from outer surface.",
+      "Option B": "For thickness measurement.",
+      "Option C": "For detection, characterization and through wall sizing of defects.",
+      "Option D": "Only a & c.",
+      "Answer": "D",
+      "Explanation": "Angle beam (PAUT/UT) is specifically used for flaw detection and sizing, not basic thickness checks."
+    },
+    {
+      "SerialNo": 34,
+      "Question": "Which of the following forms of degradation are most easily missed when performing a visual examination?",
+      "Option A": "Uniform Corrosion",
+      "Option B": "Localized thinned areas",
+      "Option C": "Random pitting",
+      "Option D": "Isolated pitting",
+      "Answer": "A",
+      "Explanation": "Uniform corrosion thins the entire wall equally, leaving no landmarks (like pits or steps) for the eye to catch."
+    },
+    {
+      "SerialNo": 35,
+      "Question": "What is the preferred examination technique for determining the vessel wall thickness of a 60” I.D vessel that has localized thinning?",
+      "Option A": "Spot UT",
+      "Option B": "UT scan",
+      "Option C": "UT angle beam",
+      "Option D": "Profile RT",
+      "Answer": "B",
+      "Explanation": "A UT scan (grid or continuous) is required to find the minimum thickness in a localized thinned area."
+    },
+    {
+      "SerialNo": 36,
+      "Question": "All on-stream inspection by examiner shall be authorized and approve by:",
+      "Option A": "Authorized inspector and engineer.",
+      "Option B": "Authorized inspector",
+      "Option C": "Authorized inspector or engineer",
+      "Option D": "Authorized inspector and/or engineer .",
+      "Answer": "B",
+      "Explanation": "Section 5.5.3 states on-stream inspections must be authorized by the inspector."
+    },
+    {
+      "SerialNo": 37,
+      "Question": "Thickness readings are taken using UT. At what temperature should special procedures be used...?",
+      "Option A": "Above 150°F.",
+      "Option B": "Above 250°F.",
+      "Option C": "Above 400°F.",
+      "Option D": "Above 500°F.",
+      "Answer": "A",
+      "Explanation": "Standard UT transducers and couplants are affected by heat above 150°F, requiring high-temp gear and temperature correction."
+    },
+    {
+      "SerialNo": 38,
+      "Question": "A pressure test is normally conducted after :",
+      "Option A": "Repairs",
+      "Option B": "Alterations or major repairs",
+      "Option C": "Alteration.",
+      "Option D": "Repairs and alterations.",
+      "Answer": "B",
+      "Explanation": "Section 5.8.1 states pressure tests are normally required after an alteration or major repair."
+    },
+    {
+      "SerialNo": 39,
+      "Question": "A pressure test shall be conducted after repairs:",
+      "Option A": "If the inspector believes one is necessary and specify in the repair plan",
+      "Option B": "If owner user decided so.",
+      "Option C": "All repairs",
+      "Option D": "If engineer decided so.",
+      "Answer": "A",
+      "Explanation": "For minor repairs, the inspector has the discretion to require a pressure test."
+    },
+    {
+      "SerialNo": 40,
+      "Question": "A nozzle has been added to the vessel. instead of pressure testing\r\nthe entire vessel, just the nozzle will be pressure tested.The\r\nsubstitution of a component pressure test instead of testing the entire\r\nvessel requires the approval of:",
+      "Option A": "Just the inspector",
+      "Option B": "Just the engineer",
+      "Option C": "Either the inspector or engineer",
+      "Option D": "Both the inspector or engineer",
+      "Answer": "B",
+      "Explanation": "Substitution of a component test for a full vessel test must be approved by the pressure vessel engineer."
+    },
+    {
+      "SerialNo": 41,
+      "Question": "A major alteration has been completed on a vessel that was built\r\nto ASME section VIII, 1990 edition . A hydrotest will be conducted .what\r\nis the recommended test pressure?",
+      "Option A": "100% of MAWP",
+      "Option B": "130% of MAWP corrected for temperature",
+      "Option C": "150% of MAWP corrected for temperature",
+      "Option D": "at a pressure specified by the owner/user",
+      "Answer": "C",
+      "Explanation": "For older vessels (pre-1999), the ASME hydrotest factor was 1.5×MAWP."
+    },
+    {
+      "SerialNo": 42,
+      "Question": "A major alteration has been completed on a vessel that was built\r\nto ASME section VIII, 2004 edition. A hydrotest will be conducted .what\r\nis the recommended test pressure?",
+      "Option A": "100% of MAWP",
+      "Option B": "130% of MAWP corrected for temperature",
+      "Option C": "150% of MAWP corrected for temperature",
+      "Option D": "At a pressure specified by the owner/user",
+      "Answer": "B",
+      "Explanation": "For newer vessels (post-1999), the ASME hydrotest factor is 1.3×MAWP."
+    },
+    {
+      "SerialNo": 43,
+      "Question": "A non-code related pressure test is conducted after repair. What is the recommended test pressure?",
+      "Option A": "100% of MAWP",
+      "Option B": "130% of MAWP corrected for temperature",
+      "Option C": "150% of MAWP corrected for temperature",
+      "Option D": "At a pressure specified by the owner/operator.",
+      "Answer": "D",
+      "Explanation": "If the test is not mandated by code, the owner sets the internal safety parameters."
+    },
+    {
+      "SerialNo": 44,
+      "Question": "A hydrotest is conducted on an in-service vessel after a major\r\nrepair. The vessel MAWP is 100 psig and the test pressure is 150 psig.\r\nThe close visual examination should be conducted at what pressure?",
+      "Option A": "Less than or equal 100 psig",
+      "Option B": "Any Where between 125 to 150 psig",
+      "Option C": "At 150 psig",
+      "Option D": "At a pressure specified by the owner/user",
+      "Answer": "A",
+      "Explanation": "For safety, close visual examination is performed after dropping the pressure from the test level to the MAWP."
+    },
+    {
+      "SerialNo": 45,
+      "Question": "A hydrotest is being conducted on a vessel. The relief device is\r\nnot removed or blinded. What other option can be used to keep the relief\r\ndevice from popping?",
+      "Option A": "Blind the outlet of the relief device",
+      "Option B": "Place test clamps on the relief device",
+      "Option C": "Adjust the relief device’s valve spring",
+      "Option D": "Place a rupture disk under the relief device...",
+      "Answer": "B",
+      "Explanation": "Test clamps (gagging) can be used, provided they are removed immediately after the test."
+    },
+    {
+      "SerialNo": 46,
+      "Question": "A hydrotest is conducted on an austenitic SS vessel. What is the maximum allowed content of chloride in the hydrotest water?",
+      "Option A": "10 ppm",
+      "Option B": "50 ppm",
+      "Option C": "100 ppm",
+      "Option D": "250 ppm",
+      "Answer": "B",
+      "Explanation": "Section 5.8.4.1 limits chlorides to 50 ppm to prevent Stress Corrosion Cracking (SCC)."
+    },
+    {
+      "SerialNo": 47,
+      "Question": "Brittle fractures usually have occurred:",
+      "Option A": "During startup.",
+      "Option B": "In vessels made with thinner materials.",
+      "Option C": "During the first hydrotest",
+      "Option D": "In stainless steel vessels.",
+      "Answer": "C",
+      "Explanation": "Brittle fracture is most common during the initial pressure test or during cold restarts."
+    },
+    {
+      "SerialNo": 48,
+      "Question": "Which of the following materials is most prone to temper embrittlement?",
+      "Option A": "carbon steel",
+      "Option B": "2.25 Cr-1.0 Mo steels",
+      "Option C": "stainless steel",
+      "Option D": "high nickel alloys",
+      "Answer": "B",
+      "Explanation": "Low alloy Chrome-Moly steels are famously susceptible to this mechanism in the 650°F-1070°F range."
+    },
+    {
+      "SerialNo": 49,
+      "Question": "A hydrotest is performed on an existing vessel following the\r\nreplacement of a shell course. The vessel is 2\" thick. What is the\r\nminimum allowed shell temperature during the test?",
+      "Option A": "32°F.",
+      "Option B": "70°F.",
+      "Option C": "10°F. above the vessel’s MDMT",
+      "Option D": "30°F. above the vessel’s MDMT",
+      "Answer": "C",
+      "Explanation": "For thicknesses ≤2 inches, the metal temp must be 10∘F (6∘C) above MDMT."
+    },
+    {
+      "SerialNo": 50,
+      "Question": "A hydrotest is performed on an existing vessel following the\r\nreplacement of a shell course. The vessel is 2-1/2\" thick .what is\r\nthe minimum allowed shell temperature during the test?",
+      "Option A": "32°F.",
+      "Option B": "70°F.",
+      "Option C": "10°F. above the vessel’s MDMT",
+      "Option D": "30°F. above the vessel’s MDMT",
+      "Answer": "D",
+      "Explanation": "For thicknesses >2 inches, the metal temp must be 30∘F (17∘C) above MDMT."
+    },
+    {
+      "SerialNo": 51,
+      "Question": "NDE is substituted for a pressure test on an in-service vessel.\r\nWho must approve this substitution?",
+      "Option A": "Just the inspector.",
+      "Option B": "Just the engineer.",
+      "Option C": "The inspector and engineer.",
+      "Option D": "The engineer and inspector.",
+      "Answer": "D",
+      "Explanation": "Section 5.8.8 requires both the inspector and engineer to approve the substitution."
+    },
+    {
+      "SerialNo": 52,
+      "Question": "Per API 510, during repairs and alterations, the inspector shall\r\nverify that the new materials being used are correct. What is the\r\nminimum amount of verification that the inspector shall perform?",
+      "Option A": "100% of all metallurgy’s",
+      "Option B": "sampling of all metallurgy’s",
+      "Option C": "100% of all high alloys",
+      "Option D": "100% or sampling of all metallurgy’s",
+      "Answer": "D",
+      "Explanation": "Section 5.9 states that the inspector shall verify materials by 100% check or a representative sampling."
+    },
+    {
+      "SerialNo": 53,
+      "Question": "An existing vessel component fails. Analysis of the failure\r\ndetermines that an incorrect material was inadvertently substituted\r\nduring fabrication. Who should determine whether other components should\r\nbe checked for correct metallurgy?",
+      "Option A": "The inspector",
+      "Option B": "The engineer",
+      "Option C": "Either the inspector or engineer",
+      "Option D": "Both the inspector and engineer",
+      "Answer": "A",
+      "Explanation": "The inspector has the authority to expand the scope of inspection if a non-conformance is found."
+    },
+    {
+      "SerialNo": 54,
+      "Question": "Flange bolts are unacceptable if the lack of bolt engagement is:",
+      "Option A": "Beyond the face of the nut by 1 thread.",
+      "Option B": "Inside the nut within ½ thread of the nut face.",
+      "Option C": "More than one thread inside.",
+      "Option D": "More than two threads inside.",
+      "Answer": "C",
+      "Explanation": "Per API 510, bolts are considered short if the lack of engagement is more than one thread."
+    },
+    {
+      "SerialNo": 55,
+      "Question": "Additional guidance on the evaluation of flanged joints can be found in:",
+      "Option A": "ASME PCC-1",
+      "Option B": "ASME Section II",
+      "Option C": "ASME Section VIII, Div 2...",
+      "Option D": "API 580.",
+      "Answer": "A",
+      "Explanation": "ASME PCC-1 is the standard for \"Guidelines for Pressure Boundary Bolted Flange Joint Assembly.\""
+    },
+    {
+      "SerialNo": 56,
+      "Question": "Which of the following is true?",
+      "Option A": "Internal inspections to be done by inspector only.",
+      "Option B": "External inspections may be done by inspector or any authorized personnel",
+      "Option C": "On stream inspection to be done by inspector or examiner.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "These accurately reflect the personnel requirements for different inspection types under API 510."
+    },
+    {
+      "SerialNo": 57,
+      "Question": "For buried vessels corrosion rate information can be obtained from:",
+      "Option A": "During maintenance activity of connected piping.",
+      "Option B": "From similarly buried corrosion test coupon.",
+      "Option C": "From representative sample of actual vessel.",
+      "Option D": "Any or all of the above",
+      "Answer": "D",
+      "Explanation": "Section 5.5.7 provides all these as valid methods for assessing buried equipment."
+    },
+    {
+      "SerialNo": 58,
+      "Question": "Thickness measurements shall be obtained by:",
+      "Option A": "Inspector.",
+      "Option B": "Inspector or engineer.",
+      "Option C": "Examiner.",
+      "Option D": "Inspector or examiner.",
+      "Answer": "D",
+      "Explanation": "While the inspector evaluates the data, the examiner or inspector can physically take the measurements."
+    },
+    {
+      "SerialNo": 59,
+      "Question": "Which of the following is not the susceptible area for CUI?",
+      "Option A": "Vessel shell.",
+      "Option B": "Nozzles and manways",
+      "Option C": "Top and bottom heads.",
+      "Option D": "Ladder clips and pipe supports.",
+      "Answer": "A",
+      "Explanation": "While a shell can have CUI, it is not considered a \"susceptible area\" compared to protrusions like nozzles and supports where insulation is harder to seal."
+    },
+    {
+      "SerialNo": 60,
+      "Question": "Which of the following is considered as a CML location?",
+      "Option A": "Locations of thickness measurement.",
+      "Option B": "Locations of SCC.",
+      "Option C": "Locations of HTHA.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "CMLs are not just for thickness; they monitor any specific damage mechanism (cracking, high-temp damage, etc.)."
+    },
+    {
+      "SerialNo": 61,
+      "Question": "The most preferred method for thickness measurement is:",
+      "Option A": "UT.",
+      "Option B": "RT.",
+      "Option C": "VT",
+      "Option D": "Both a & b.",
+      "Answer": "A",
+      "Explanation": "Ultrasonic Testing (UT) is the primary and preferred method for in-service thickness measurement."
+    },
+    {
+      "SerialNo": 62,
+      "Question": "Which of the following methods are used to detect localized corrosion?",
+      "Option A": "Profile radiography.",
+      "Option B": "Ultrasonic scanning.",
+      "Option C": "Ultrasonic thickness measurement.",
+      "Option D": "Both a& b.",
+      "Answer": "D",
+      "Explanation": "Spot UT thickness (c) often misses small pits; scans and profile RT are far more effective for localized damage."
+    },
+    {
+      "SerialNo": 63,
+      "Question": "To calculate corrosion rates :",
+      "Option A": "The thinnest reading in an area should be used.",
+      "Option B": "The average reading in an area should be used.",
+      "Option C": "The thinnest or average reading in an area should be used.",
+      "Option D": "None of the above.",
+      "Answer": "C",
+      "Explanation": "API 510 allows for either, depending on whether the corrosion is localized or uniform."
+    },
+    {
+      "SerialNo": 64,
+      "Question": "Which of the following is the correct statement?",
+      "Option A": "Uniform corrosion is difficult to detect.",
+      "Option B": "Localized corrosion and pitting may be thinner then they appear.",
+      "Option C": "UT is the most accurate means for thickness measurement.",
+      "Option D": "All of the above.",
+      "Answer": "D",
+      "Explanation": "These are fundamental concepts for the exam regarding inspection limitations and accuracy."
+    },
+    {
+      "SerialNo": 65,
+      "Question": "Which of the following should be reviewed before hydro test?",
+      "Option A": "Hydro test pressure.",
+      "Option B": "Supporting structure and foundation.",
+      "Option C": "Water quality.",
+      "Option D": "None of the above.",
+      "Answer": "B",
+      "Explanation": "A vessel filled with water is significantly heavier than one filled with gas; the foundation must be checked to prevent collapse."
+    },
+    {
+      "SerialNo": 66,
+      "Question": "The acceptance criteria for in-service inspection weld quality is as per:",
+      "Option A": "API 510",
+      "Option B": "API 572",
+      "Option C": "ASME VIII",
+      "Option D": "New construction, repair or alterations.",
+      "Answer": "D",
+      "Explanation": "Section 5.10 notes that weld quality should be evaluated against the standards used for the specific repair/construction activity."
+    },
+    {
+      "SerialNo": 67,
+      "Question": "During an in &ndash; service inspection, a crack-like flaws and\r\npreferential weld corrosion was discovered in a weld. this imperfection\r\nmust be:",
+      "Option A": "Evaluated to the acceptance standards of original code.",
+      "Option B": "Evaluated to the current edition of ASME VIII",
+      "Option C": "Evaluated by an inspector and either engineer or corrosion specialist.",
+      "Option D": "Evaluated by an engineer and/or corrosion specialist.",
+      "Answer": "D",
+      "Explanation": "Correction: Section 5.10.1 states crack-like flaws shall be evaluated by an engineer and/or corrosion specialist (often using API 579)."
+    },
+    {
+      "SerialNo": 68,
+      "Question": "Process leaks on to flange fasteners may result in:",
+      "Option A": "Galling of bolts and nuts",
+      "Option B": "Bolt lengths to shorten",
+      "Option C": "Bolts to environmentally crack or corrode.",
+      "Option D": "Bolting stresses to decrease",
+      "Answer": "C",
+      "Explanation": "Leaking process fluids (like H2S or chlorides) can lead to SCC or rapid corrosion of the bolts."
+    }
+  ]
